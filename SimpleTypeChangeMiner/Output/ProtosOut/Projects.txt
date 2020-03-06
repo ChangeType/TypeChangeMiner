@@ -1,146 +1,0 @@
-
-guacamole-client•1https://github.com/glyptodon/guacamole-client.git
-crash$https://github.com/crashub/crash.git
-undertowÆ+https://github.com/undertow-io/undertow.git
-java-driverŸ+https://github.com/datastax/java-driver.git
-alluxioƒ†&https://github.com/Alluxio/alluxio.git
-Singularity®2*https://github.com/HubSpot/Singularity.git
-orientdbΩ=1https://github.com/orientechnologies/orientdb.git
-killbillè(https://github.com/killbill/killbill.git
-	FasterXML¨1https://github.com/FasterXML/jackson-databind.git
-closure-compilerÖK.https://github.com/google/closure-compiler.git
-
-infinispan˘&,https://github.com/infinispan/infinispan.git
-nutzº"https://github.com/nutzam/nutz.git
-
-jfreechart∞'https://github.com/jfree/jfreechart.git
-pheonixä%https://github.com/apache/phoenix.git
-james-project˚5+https://github.com/apache/james-project.git
-rejoinedﬂ&https://github.com/google/rejoiner.git
-graphicsfuzzê*https://github.com/google/graphicsfuzz.git
-fastjsonΩ'https://github.com/alibaba/fastjson.git
-JGroups¨&https://github.com/belaban/JGroups.git
-99-problemsﬂ0https://github.com/shekhargulati/99-problems.git
-retrolambda‘+https://github.com/luontola/retrolambda.git
-jhipster-sample-appË3https://github.com/jhipster/jhipster-sample-app.git
-GCViewerƒ)https://github.com/chewiebug/GCViewer.git
-	commafeed◊&https://github.com/Athou/commafeed.git
-binnavi„%https://github.com/google/binnavi.git
-
-awaitilityë,https://github.com/awaitility/awaitility.git
-guice¶#https://github.com/google/guice.git
-jitwatch™,https://github.com/AdoptOpenJDK/jitwatch.git
-failsafeÚ*https://github.com/jhalterman/failsafe.git
-jOOLœ https://github.com/jOOQ/jOOL.git
-jacoco˛$https://github.com/jacoco/jacoco.git
-wordûhttps://github.com/ysc/word.git
-android-maven-pluginä8https://github.com/simpligility/android-maven-plugin.git
-feignä&https://github.com/OpenFeign/feign.git
-google-java-format˛0https://github.com/google/google-java-format.git
-
-cw-omnibusà,https://github.com/commonsguy/cw-omnibus.git
-honest-profiler∏:https://github.com/jvm-profiling-tools/honest-profiler.git
-datumbox-frameworkΩ2https://github.com/datumbox/datumbox-framework.git
-JCToolsÎ&https://github.com/JCTools/JCTools.git
-titanı*https://github.com/thinkaurelius/titan.git
-spark¶&https://github.com/perwendel/spark.git
-pi4jΩ https://github.com/Pi4J/pi4j.git
-rest-assuredˇ0https://github.com/rest-assured/rest-assured.git
-useful-java-linksˇ0https://github.com/Vedenin/useful-java-links.git
-BlossomsPokemonGoManager‹9https://github.com/Wolfsblvt/BlossomsPokemonGoManager.git
-lombok-intellij-pluginæ9https://github.com/mplushnikov/lombok-intellij-plugin.git
-ninja°+https://github.com/ninjaframework/ninja.git
-	aima-java»)https://github.com/aimacode/aima-java.git
-keywhiz¡%https://github.com/square/keywhiz.git
-robovmÜ$https://github.com/robovm/robovm.git
-Lealone≈&https://github.com/lealone/Lealone.git
-galenŸ+https://github.com/galenframework/galen.git
-cucumber-jvmÈ,https://github.com/cucumber/cucumber-jvm.git
-lombokü*https://github.com/rzwitserloot/lombok.git
-jerseyû$https://github.com/jersey/jersey.git
-braveÚ'https://github.com/openzipkin/brave.git
-bootiqueê(https://github.com/bootique/bootique.git
-pippo≠'https://github.com/pippo-java/pippo.git
-gwt€%https://github.com/gwtproject/gwt.git
-Chronicle-Map˙,https://github.com/OpenHFT/Chronicle-Map.git
-jbpmŒ	$https://github.com/kiegroup/jbpm.git
-
-AsciidocFX∞	,https://github.com/asciidocfx/AsciidocFX.git
-cryptomatorÓ.https://github.com/cryptomator/cryptomator.git
-HikariCP¬	/https://github.com/brettwooldridge/HikariCP.git
-DotCiﬁ	$https://github.com/groupon/DotCi.git
-FluentLeniumô	0https://github.com/FluentLenium/FluentLenium.git
-assertj-coreÈ
-4https://github.com/joel-costigliola/assertj-core.git
-
-immutablesÃ
-,https://github.com/immutables/immutables.git
-async-http-client≥8https://github.com/AsyncHttpClient/async-http-client.git
-mpushª$https://github.com/mpusher/mpush.git
-orbit©
-"https://github.com/orbit/orbit.git
-Resteasy∞(https://github.com/resteasy/Resteasy.git
-heliosΩ%https://github.com/spotify/helios.git
-pac4j◊
-"https://github.com/pac4j/pac4j.git
-aws-sdk-java≈'https://github.com/aws/aws-sdk-java.git
-goclipseü(https://github.com/GoClipse/goclipse.git
-graphhopperÿ.https://github.com/graphhopper/graphhopper.git
-apollo˝
-'https://github.com/ctripcorp/apollo.git
-spring-cloud-netflix≥8https://github.com/spring-cloud/spring-cloud-netflix.git
-optaplannerÄ+https://github.com/kiegroup/optaplanner.git
-
-dropwizardñ,https://github.com/dropwizard/dropwizard.git
-guavaÁ#https://github.com/google/guava.git
-OpenTripPlanneræ6https://github.com/opentripplanner/OpenTripPlanner.git
-drools‚&https://github.com/kiegroup/drools.git
-error-prone˝)https://github.com/google/error-prone.git
-j2objc˚$https://github.com/google/j2objc.git
-vert.x∏+https://github.com/eclipse-vertx/vert.x.git
-AxonFrameworkÑ2https://github.com/AxonFramework/AxonFramework.git
-pulsar≠$https://github.com/apache/pulsar.git
-jOOQÂ https://github.com/jOOQ/jOOQ.git
-atomixÔ$https://github.com/atomix/atomix.git
-usergridã&https://github.com/apache/usergrid.git
-jgit‡#https://github.com/eclipse/jgit.git
-	frameworkü'https://github.com/vaadin/framework.git
-	speedment™*https://github.com/speedment/speedment.git
-hibernate-ormÒ.https://github.com/hibernate/hibernate-orm.git
-Chronicle-Queueﬂ.https://github.com/OpenHFT/Chronicle-Queue.git
-rapidoid⁄(https://github.com/rapidoid/rapidoid.git
-
-byte-buddy™'https://github.com/raphw/byte-buddy.git
-CoreNLP–!*https://github.com/stanfordnlp/CoreNLP.git
-redissonö(https://github.com/redisson/redisson.git
-pinpoint %https://github.com/naver/pinpoint.git
-
-checkstyle‹*,https://github.com/checkstyle/checkstyle.git
-uaa¨!'https://github.com/cloudfoundry/uaa.git
-
-javaparser«,https://github.com/javaparser/javaparser.git
-junit5ˇ+(https://github.com/junit-team/junit5.git
-	geoserver≤#*https://github.com/geoserver/geoserver.git
-kaaÜ"%https://github.com/kaaproject/kaa.git
-pentaho-kettle˝-https://github.com/pentaho/pentaho-kettle.git
-hbase¢4#https://github.com/apache/hbase.git
-nd4jí)*https://github.com/deeplearning4j/nd4j.git
-jetty.projectÚ(,https://github.com/eclipse/jetty.project.git
-tomcatÉ7$https://github.com/apache/tomcat.git
-che4"https://github.com/eclipse/che.git
-graylog2-server ?/https://github.com/Graylog2/graylog2-server.git
-keycloak≤,(https://github.com/keycloak/keycloak.git
-wildfly¸3&https://github.com/wildfly/wildfly.git
-flinkïX#https://github.com/apache/flink.git
-presto‚Y&https://github.com/prestodb/presto.git
-hadoop‹a$https://github.com/apache/hadoop.git
-	sonarqubeùq,https://github.com/SonarSource/sonarqube.git
-bigbluebutton∂S2https://github.com/bigbluebutton/bigbluebutton.git
-languagetoolˇÑ4https://github.com/languagetool-org/languagetool.git
-ignite’u$https://github.com/apache/ignite.git
-camelºò#https://github.com/apache/camel.git
-neo4jã†"https://github.com/neo4j/neo4j.git
-giraph‡$https://github.com/apache/giraph.git
-gsonπ"https://github.com/google/gson.git
-drill∑#https://github.com/apache/drill.git
-truth™#https://github.com/google/truth.git

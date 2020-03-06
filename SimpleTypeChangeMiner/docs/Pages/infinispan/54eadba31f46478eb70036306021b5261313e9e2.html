@@ -1,0 +1,564 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <!-- Basic Page Needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>infinispan 54eadba31f46478eb70036306021b5261313e9e2</title>
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <!-- Mobile Specific Metas
+    ================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+    <!-- Favicons
+    ================================================== -->
+    <link rel="icon" href="img/favicon/favicon-32x32.png" type="image/x-icon" />
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/favicon/favicon-144x144.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/favicon/favicon-72x72.png">
+    <link rel="apple-touch-icon-precomposed" href="img/favicon/favicon-54x54.png">
+
+    <!-- CSS
+    ================================================== -->
+
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="../../css/bootstrap.min.css">
+    <!-- Template styles-->
+    <link rel="stylesheet" href="../../css/style.css">
+    <!-- Responsive styles-->
+    <link rel="stylesheet" href="../../css/responsive.css">
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="../../css/font-awesome.min.css">
+    <!-- Animation -->
+    <link rel="stylesheet" href="../../css/animate.css">
+    <!-- Prettyphoto -->
+    <link rel="stylesheet" href="../../css/prettyPhoto.css">
+    <!-- Owl Carousel -->
+    <link rel="stylesheet" href="../../css/owl.carousel.css">
+    <link rel="stylesheet" href="../../css/owl.theme.css">
+    <!-- Flexslider -->
+    <link rel="stylesheet" href="../../css/flexslider.css">
+    <!-- Flexslider -->
+    <link rel="stylesheet" href="../../css/cd-hero.css">
+    <!-- Style Swicther -->
+    <link id="style-switch" href="../../css/presets/preset3.css" media="screen" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+    <!--[if lt IE 9]>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+<div class="body-inner">
+    <!-- Header start -->
+    <header id="header" class="navbar-fixed-top header" role="banner">
+        <div class="container">
+            <div class="row">
+                <!-- Logo start -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div><!--/ Logo end -->
+                <nav class="collapse navbar-collapse clearfix" role="navigation">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li><a href="../../index.html"><p class="text-danger">Home</p></a></li>
+                        <li><a href="../infinispan.html"><p class="text-danger">infinispan</p></a></li>
+                        <!--<li><a href="examples1.html"><p class="text-danger">Examples</p></a></li>-->
+                    </ul>
+                </nav><!--/ Navigation end -->
+            </div><!--/ Row end -->
+        </div><!--/ Container end -->
+    </header><!--/ Header end -->
+
+
+    <section>
+    <div id="main-container">
+        <div class="container">
+
+            <!-- Company Profile -->
+            <div class="row">
+                <div class="col-md-12 heading">
+                    <!--<span class="title-icon classic pull-left"><i class="fa fa-suitcase"></i></span>-->
+                    <h2 class="title classic">54eadba31f46478eb70036306021b5261313e9e2</h2>
+                    <!--<h2 class="title classic">URL: </h2>-->
+                </div>
+            </div>
+    </div>
+    <div class="container">
+            <div class="row">
+                <div class="col-md-12 heading">
+                    <h2 class="title classic">Files Diff</h2>
+                    <ul>
+                        <li>Added: 7</li>
+                        <li>Removed: 1</li>
+                        <li>Renamed: 0</li>
+                        <li>Modified: 36</li>
+
+                    </ul>
+                </div>
+            </div>
+    </div>
+    <div class="container">
+            <div class="row">
+                <div class="col-md-12 heading">
+                    <h2 class="title classic">Third party dependencies:</h2>
+                    <ul>
+                        
+                    </ul>
+                    <table class="table table-dark">
+                        <thead>
+                        <tr>
+                            <th scope="col">Dependency Action</th>
+                        </tr>
+                        </thead>
+                        
+
+                        
+
+                        
+                    </table>
+                </div>
+        </div>
+    </div>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 heading">
+                    <h2 class="title classic">Refactorings reported:</h2>
+                        <table class="table table-dark">
+                            <thead>
+                            <tr>
+                                <th scope="col"></th>
+                                <th scope="col">Refactoring Name</th>
+                                <th scope="col">Occurences</th>
+                            </tr>
+                            </thead>
+                            
+                            <tbody>
+                            <tr class="clickable" data-toggle="collapse" data-target="#group-of-rows-10" aria-expanded="true" aria-controls="group-of-rows-1">
+                                <td><i class="fa fa-plus" aria-hidden="false"></i></td>
+                                <td>Rename Method</td>
+                                <td>10</td>
+                            </tr>
+                            </tbody>
+                            <tbody id="group-of-rows-10" class="collapse">
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Method	public readEvent(buf ByteBuf, expectedListenerId byte[], marshaller Marshaller, whitelist List&lt;String&gt;, serverAddress SocketAddress) : ClientEvent renamed to public readCacheEvent(buf ByteBuf, marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : AbstractClientEvent in class org.infinispan.client.hotrod.retry.ClientListenerRetryTest.FailureInducingCodec</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-3bbefbe10aedd025562d2cc742b6f4baL107">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-3bbefbe10aedd025562d2cc742b6f4baR107">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Method	private readPartialHeader(buf ByteBuf, params HeaderParams, receivedOpCode short, channelFactory ChannelFactory, serverAddress SocketAddress) : short renamed to public readHeader(buf ByteBuf, receivedOpCode double, params HeaderParams, channelFactory ChannelFactory, serverAddress SocketAddress) : short in class org.infinispan.client.hotrod.impl.protocol.Codec20</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970L172">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970R165">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Method	protected readPartialEvent(buf ByteBuf, expectedListenerId byte[], marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : ClientEvent renamed to public readCacheEvent(buf ByteBuf, marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : AbstractClientEvent in class org.infinispan.client.hotrod.impl.protocol.Codec21</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-eab62c18b95966d280b4fc9a35003504L40">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-eab62c18b95966d280b4fc9a35003504R38">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Method	public readHeaderOrEvent(buf ByteBuf, params HeaderParams, expectedListenerId byte[], marshaller Marshaller, whitelist List&lt;String&gt;, channelFactory ChannelFactory, serverAddress SocketAddress) : Either&lt;Short,ClientEvent&gt; renamed to public readCounterEvent(buf ByteBuf) : HotRodCounterEvent in class org.infinispan.client.hotrod.impl.protocol.Codec10</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-20e6d2625df07ce3b2765cc5814b430eL147">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-20e6d2625df07ce3b2765cc5814b430eR152">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Method	public readEvent(buf ByteBuf, expectedListenerId byte[], marshaller Marshaller, whitelist List&lt;String&gt;, serverAddress SocketAddress) : ClientEvent renamed to public readCacheEvent(buf ByteBuf, marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : AbstractClientEvent in class org.infinispan.client.hotrod.impl.protocol.Codec20</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970L197">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970R235">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Method	public readHeader(buf ByteBuf, params HeaderParams, channelFactory ChannelFactory, serverAddress SocketAddress) : short renamed to public readOpCode(buf ByteBuf) : short in class org.infinispan.client.hotrod.impl.protocol.Codec20</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970L166">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970R157">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Method	public readEvent(buf ByteBuf, expectedListenerId byte[], marshaller Marshaller, whitelist List&lt;String&gt;, serverAddress SocketAddress) : ClientEvent renamed to public readCacheEvent(buf ByteBuf, marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : AbstractClientEvent in class org.infinispan.client.hotrod.impl.protocol.Codec</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-c10e87fdb2b967096c684cd362447712L60">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-c10e87fdb2b967096c684cd362447712R61">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Method	public readHeader(buf ByteBuf, params HeaderParams, channelFactory ChannelFactory, serverAddress SocketAddress) : short renamed to public readOpCode(buf ByteBuf) : short in class org.infinispan.client.hotrod.impl.protocol.Codec</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-c10e87fdb2b967096c684cd362447712L54">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-c10e87fdb2b967096c684cd362447712R53">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Method	public readHeaderOrEvent(buf ByteBuf, params HeaderParams, expectedListenerId byte[], marshaller Marshaller, whitelist List&lt;String&gt;, channelFactory ChannelFactory, serverAddress SocketAddress) : Either&lt;Short,ClientEvent&gt; renamed to public readCounterEvent(buf ByteBuf) : HotRodCounterEvent in class org.infinispan.client.hotrod.impl.protocol.Codec</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-c10e87fdb2b967096c684cd362447712L62">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-c10e87fdb2b967096c684cd362447712R77">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Method	public readEvent(buf ByteBuf, expectedListenerId byte[], marshaller Marshaller, whitelist List&lt;String&gt;, serverAddress SocketAddress) : ClientEvent renamed to public readCacheEvent(buf ByteBuf, marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : AbstractClientEvent in class org.infinispan.client.hotrod.impl.protocol.Codec10</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-20e6d2625df07ce3b2765cc5814b430eL142">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-20e6d2625df07ce3b2765cc5814b430eR147">To</a></td>
+                            </tr>
+                            
+                            </tbody>
+                            
+                            <tbody>
+                            <tr class="clickable" data-toggle="collapse" data-target="#group-of-rows-4" aria-expanded="true" aria-controls="group-of-rows-1">
+                                <td><i class="fa fa-plus" aria-hidden="false"></i></td>
+                                <td>Change Parameter Type</td>
+                                <td>4</td>
+                            </tr>
+                            </tbody>
+                            <tbody id="group-of-rows-4" class="collapse">
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Parameter Type	receivedOpCode : short to receivedOpCode : double in method public readHeader(buf ByteBuf, receivedOpCode double, params HeaderParams, channelFactory ChannelFactory, serverAddress SocketAddress) : short in class org.infinispan.client.hotrod.impl.protocol.Codec20</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970L172">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970R166">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Parameter Type	listenerId : WrappedByteArray to listenerId : byte[] in method public failoverClientListener(listenerId byte[]) : void in class org.infinispan.client.hotrod.event.impl.ClientListenerNotifier</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-66efca66fe2d64253edebe3ac018c066L81">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-66efca66fe2d64253edebe3ac018c066R79">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Parameter Type	channel : Channel to cleanup : Runnable in method package EventDispatcher(cacheName String, listener Object, listenerId byte[], address SocketAddress, cleanup Runnable) in class org.infinispan.client.hotrod.event.impl.EventDispatcher</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-936de04c0f3330120e56f78b957df5f9L32">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-936de04c0f3330120e56f78b957df5f9R23">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Parameter Type	notifier : ClientListenerNotifier to address : SocketAddress in method public create(op AddClientListenerOperation, address SocketAddress, cleanup Runnable) : ClientEventDispatcher in class org.infinispan.client.hotrod.event.impl.ClientEventDispatcher</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-55e983620b69cc90e5bb1c66106618f4L52">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-55e983620b69cc90e5bb1c66106618f4R51">To</a></td>
+                            </tr>
+                            
+                            </tbody>
+                            
+                            <tbody>
+                            <tr class="clickable" data-toggle="collapse" data-target="#group-of-rows-3" aria-expanded="true" aria-controls="group-of-rows-1">
+                                <td><i class="fa fa-plus" aria-hidden="false"></i></td>
+                                <td>Rename Variable</td>
+                                <td>3</td>
+                            </tr>
+                            </tbody>
+                            <tbody id="group-of-rows-3" class="collapse">
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Variable	channel : Channel to address : SocketAddress in method private findEventServer() : InetSocketAddress in class org.infinispan.client.hotrod.counter.BaseCounterAPITest</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-da602476dc05939d17cba26c2c241614L163">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-da602476dc05939d17cba26c2c241614R162">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Variable	receivedListenerId : byte[] to listenerId : byte[] in method public readCounterEvent(buf ByteBuf) : HotRodCounterEvent in class org.infinispan.client.hotrod.impl.protocol.Codec20</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970L234">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970R220">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Variable	eventTypeId : short to status : short in method public readCacheEvent(buf ByteBuf, marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : AbstractClientEvent in class org.infinispan.client.hotrod.impl.protocol.Codec20</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970L200">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970R237">To</a></td>
+                            </tr>
+                            
+                            </tbody>
+                            
+                            <tbody>
+                            <tr class="clickable" data-toggle="collapse" data-target="#group-of-rows-4" aria-expanded="true" aria-controls="group-of-rows-1">
+                                <td><i class="fa fa-plus" aria-hidden="false"></i></td>
+                                <td>Inline Method</td>
+                                <td>4</td>
+                            </tr>
+                            </tbody>
+                            <tbody id="group-of-rows-4" class="collapse">
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Inline Method	private readAndValidateHeader(buf ByteBuf) : void inlined to public readCounterEvent(buf ByteBuf) : HotRodCounterEvent in class org.infinispan.client.hotrod.impl.protocol.Codec20</i></td>
+                                <td><a href = "">From</a></td>
+                                <td><a href = "">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Inline Method	private execute(channel Channel) : void inlined to protected executeOperation(channel Channel) : void in class org.infinispan.client.hotrod.impl.operations.AddClientListenerOperation</i></td>
+                                <td><a href = "">From</a></td>
+                                <td><a href = "">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Inline Method	private decodeCounterEvent(counterName String, buf ByteBuf) : HotRodCounterEvent inlined to public readCounterEvent(buf ByteBuf) : HotRodCounterEvent in class org.infinispan.client.hotrod.impl.protocol.Codec20</i></td>
+                                <td><a href = "">From</a></td>
+                                <td><a href = "">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Inline Method	protected readPartialEvent(buf ByteBuf, expectedListenerId byte[], marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : ClientEvent inlined to public readCacheEvent(buf ByteBuf, marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : AbstractClientEvent in class org.infinispan.client.hotrod.impl.protocol.Codec20</i></td>
+                                <td><a href = "">From</a></td>
+                                <td><a href = "">To</a></td>
+                            </tr>
+                            
+                            </tbody>
+                            
+                            <tbody>
+                            <tr class="clickable" data-toggle="collapse" data-target="#group-of-rows-8" aria-expanded="true" aria-controls="group-of-rows-1">
+                                <td><i class="fa fa-plus" aria-hidden="false"></i></td>
+                                <td>Change Return Type</td>
+                                <td>8</td>
+                            </tr>
+                            </tbody>
+                            <tbody id="group-of-rows-8" class="collapse">
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Return Type	void to EventDispatcher&lt;?&gt; in method public removeClientListener(listenerId byte[]) : EventDispatcher&lt;?&gt; in class org.infinispan.client.hotrod.event.impl.ClientListenerNotifier</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-66efca66fe2d64253edebe3ac018c066L116">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-66efca66fe2d64253edebe3ac018c066R112">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Return Type	ClientEvent to AbstractClientEvent in method public readCacheEvent(buf ByteBuf, marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : AbstractClientEvent in class org.infinispan.client.hotrod.impl.protocol.Codec10</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-20e6d2625df07ce3b2765cc5814b430eL142">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-20e6d2625df07ce3b2765cc5814b430eR147">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Return Type	ClientEvent to AbstractClientEvent in method public readCacheEvent(buf ByteBuf, marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : AbstractClientEvent in class org.infinispan.client.hotrod.impl.protocol.Codec</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-c10e87fdb2b967096c684cd362447712L60">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-c10e87fdb2b967096c684cd362447712R61">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Return Type	Either&lt;Short,ClientEvent&gt; to HotRodCounterEvent in method public readCounterEvent(buf ByteBuf) : HotRodCounterEvent in class org.infinispan.client.hotrod.impl.protocol.Codec10</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-20e6d2625df07ce3b2765cc5814b430eL147">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-20e6d2625df07ce3b2765cc5814b430eR152">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Return Type	ClientEvent to AbstractClientEvent in method public readCacheEvent(buf ByteBuf, marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : AbstractClientEvent in class org.infinispan.client.hotrod.retry.ClientListenerRetryTest.FailureInducingCodec</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-3bbefbe10aedd025562d2cc742b6f4baL107">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-3bbefbe10aedd025562d2cc742b6f4baR107">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Return Type	ClientEvent to AbstractClientEvent in method public readCacheEvent(buf ByteBuf, marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : AbstractClientEvent in class org.infinispan.client.hotrod.impl.protocol.Codec20</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970L197">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-4d19e2a34b9921ce702cc59c3b919970R235">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Return Type	ClientEvent to AbstractClientEvent in method public readCacheEvent(buf ByteBuf, marshaller Marshaller, eventTypeId short, whitelist List&lt;String&gt;, serverAddress SocketAddress) : AbstractClientEvent in class org.infinispan.client.hotrod.impl.protocol.Codec21</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-eab62c18b95966d280b4fc9a35003504L40">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-eab62c18b95966d280b4fc9a35003504R38">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Return Type	Either&lt;Short,ClientEvent&gt; to HotRodCounterEvent in method public readCounterEvent(buf ByteBuf) : HotRodCounterEvent in class org.infinispan.client.hotrod.impl.protocol.Codec</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-c10e87fdb2b967096c684cd362447712L62">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-c10e87fdb2b967096c684cd362447712R77">To</a></td>
+                            </tr>
+                            
+                            </tbody>
+                            
+                            <tbody>
+                            <tr class="clickable" data-toggle="collapse" data-target="#group-of-rows-1" aria-expanded="true" aria-controls="group-of-rows-1">
+                                <td><i class="fa fa-plus" aria-hidden="false"></i></td>
+                                <td>Move Attribute</td>
+                                <td>1</td>
+                            </tr>
+                            </tbody>
+                            <tbody id="group-of-rows-1" class="collapse">
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Move Attribute	private configuration : Configuration from class org.infinispan.client.hotrod.impl.transport.netty.HeaderOrEventDecoder to private configuration : Configuration from class org.infinispan.client.hotrod.impl.transport.netty.HeaderDecoder</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-a9bdd89e4c6c5915e99759df37b998a6L28">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-3a1206e0c07180523db10ec313c53988R43">To</a></td>
+                            </tr>
+                            
+                            </tbody>
+                            
+                            <tbody>
+                            <tr class="clickable" data-toggle="collapse" data-target="#group-of-rows-2" aria-expanded="true" aria-controls="group-of-rows-1">
+                                <td><i class="fa fa-plus" aria-hidden="false"></i></td>
+                                <td>Rename Attribute</td>
+                                <td>2</td>
+                            </tr>
+                            </tbody>
+                            <tbody id="group-of-rows-2" class="collapse">
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Attribute	channel : Channel to cleanup : Runnable in class org.infinispan.client.hotrod.event.impl.EventDispatcher</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-936de04c0f3330120e56f78b957df5f9L28">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-936de04c0f3330120e56f78b957df5f9R20">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Attribute	notifier : ClientListenerNotifier to address : SocketAddress in class org.infinispan.client.hotrod.event.impl.EventDispatcher</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-936de04c0f3330120e56f78b957df5f9L25">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-936de04c0f3330120e56f78b957df5f9R18">To</a></td>
+                            </tr>
+                            
+                            </tbody>
+                            
+                            <tbody>
+                            <tr class="clickable" data-toggle="collapse" data-target="#group-of-rows-1" aria-expanded="true" aria-controls="group-of-rows-1">
+                                <td><i class="fa fa-plus" aria-hidden="false"></i></td>
+                                <td>Change Variable Type</td>
+                                <td>1</td>
+                            </tr>
+                            </tbody>
+                            <tbody id="group-of-rows-1" class="collapse">
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Variable Type	channel : Channel to address : SocketAddress in method private findEventServer() : InetSocketAddress in class org.infinispan.client.hotrod.counter.BaseCounterAPITest</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-da602476dc05939d17cba26c2c241614L160">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-da602476dc05939d17cba26c2c241614R162">To</a></td>
+                            </tr>
+                            
+                            </tbody>
+                            
+                            <tbody>
+                            <tr class="clickable" data-toggle="collapse" data-target="#group-of-rows-2" aria-expanded="true" aria-controls="group-of-rows-1">
+                                <td><i class="fa fa-plus" aria-hidden="false"></i></td>
+                                <td>Change Attribute Type</td>
+                                <td>2</td>
+                            </tr>
+                            </tbody>
+                            <tbody id="group-of-rows-2" class="collapse">
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Attribute Type	channel : Channel to cleanup : Runnable in class org.infinispan.client.hotrod.event.impl.EventDispatcher</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-936de04c0f3330120e56f78b957df5f9L28">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-936de04c0f3330120e56f78b957df5f9R20">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Change Attribute Type	notifier : ClientListenerNotifier to address : SocketAddress in class org.infinispan.client.hotrod.event.impl.EventDispatcher</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-936de04c0f3330120e56f78b957df5f9L25">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-936de04c0f3330120e56f78b957df5f9R18">To</a></td>
+                            </tr>
+                            
+                            </tbody>
+                            
+                            <tbody>
+                            <tr class="clickable" data-toggle="collapse" data-target="#group-of-rows-3" aria-expanded="true" aria-controls="group-of-rows-1">
+                                <td><i class="fa fa-plus" aria-hidden="false"></i></td>
+                                <td>Rename Parameter</td>
+                                <td>3</td>
+                            </tr>
+                            </tbody>
+                            <tbody id="group-of-rows-3" class="collapse">
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Parameter	channel : Channel to cleanup : Runnable in method package EventDispatcher(cacheName String, listener Object, listenerId byte[], address SocketAddress, cleanup Runnable) in class org.infinispan.client.hotrod.event.impl.EventDispatcher</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-936de04c0f3330120e56f78b957df5f9L32">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-936de04c0f3330120e56f78b957df5f9R23">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Parameter	notifier : ClientListenerNotifier to address : SocketAddress in method public create(op AddClientListenerOperation, address SocketAddress, cleanup Runnable) : ClientEventDispatcher in class org.infinispan.client.hotrod.event.impl.ClientEventDispatcher</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-55e983620b69cc90e5bb1c66106618f4L52">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-55e983620b69cc90e5bb1c66106618f4R51">To</a></td>
+                            </tr>
+                            
+                            <tr>
+                                <td></td>
+                                <td><i>Rename Parameter	listenerId : String to receivedListenerId : String in method public unexpectedListenerId(expectedListenerId String, receivedListenerId String) : IllegalStateException in class org.infinispan.client.hotrod.logging.Log</i></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-38931d6a06b24bd800d5f5246ca5b642L136">From</a></td>
+                                <td><a href = "https://github.com/infinispan/infinispan/commit/54eadba31f46478eb70036306021b5261313e9e2?diff=split#diff-38931d6a06b24bd800d5f5246ca5b642R136">To</a></td>
+                            </tr>
+                            
+                            </tbody>
+                            
+                        </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="gap-60"></div>
+
+    </section><!--/ Main container end -->
+
+
+
+    <!-- initialize jQuery Library -->
+    <script type="text/javascript" src="../../js/jquery.js"></script>
+    <!-- Bootstrap jQuery -->
+    <script type="text/javascript" src="../../js/bootstrap.min.js"></script>
+    <!-- Style Switcher -->
+    <script type="text/javascript" src="../../js/style-switcher.js"></script>
+    <!-- Owl Carousel -->
+    <script type="text/javascript" src="../../js/owl.carousel.js"></script>
+    <!-- PrettyPhoto -->
+    <script type="text/javascript" src="../../js/jquery.prettyPhoto.js"></script>
+    <!-- Bxslider -->
+    <script type="text/javascript" src="../../js/jquery.flexslider.js"></script>
+    <!-- CD Hero slider -->
+    <script type="text/javascript" src="../../js/cd-hero.js"></script>
+    <!-- Isotope -->
+    <script type="text/javascript" src="../../js/isotope.js"></script>
+    <script type="text/javascript" src="../../js/ini.isotope.js"></script>
+    <!-- Wow Animation -->
+    <script type="text/javascript" src="../../js/wow.min.js"></script>
+    <!-- SmoothScroll -->
+    <script type="text/javascript" src="../../js/smoothscroll.js"></script>
+    <!-- Eeasing -->
+    <script type="text/javascript" src="../../js/jquery.easing.1.3.js"></script>
+    <!-- Counter -->
+    <script type="text/javascript" src="../../js/jquery.counterup.min.js"></script>
+    <!-- Waypoints -->
+    <script type="text/javascript" src="../../js/waypoints.min.js"></script>
+    <!-- Template custom -->
+    <script type="text/javascript" src="../../js/custom.js"></script>
+</div><!-- Body inner end -->
+</body>
+</html>

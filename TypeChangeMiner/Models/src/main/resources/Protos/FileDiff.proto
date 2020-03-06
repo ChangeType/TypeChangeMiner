@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+
+message FileDiff{
+   int64 filesModified = 1;
+   int64 filesAdded = 2;
+   int64 filesRemoved = 3;
+   int64 filesRenamed = 4;
+}

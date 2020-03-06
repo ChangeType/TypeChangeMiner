@@ -1,0 +1,10 @@
+com.github.gumtreediff.matchers.CompositeMatchers$CdabcdefPar
+com.github.gumtreediff.matchers.CompositeMatchers$CdabcdefSeq
+com.github.gumtreediff.matchers.CompositeMatchers$ChangeDistiller
+com.github.gumtreediff.matchers.CompositeMatchers$ClassicGumtree
+com.github.gumtreediff.matchers.CompositeMatchers$CompleteGumtreeMatcher
+com.github.gumtreediff.matchers.CompositeMatchers$Gtbcdef
+com.github.gumtreediff.matchers.CompositeMatchers$Rtedacdef
+com.github.gumtreediff.matchers.CompositeMatchers$SimpleGumtree
+com.github.gumtreediff.matchers.CompositeMatchers$XyMatcher
+com.github.gumtreediff.matchers.heuristic.LcsMatcher

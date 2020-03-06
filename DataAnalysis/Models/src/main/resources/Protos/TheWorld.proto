@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+message TheWorld{
+   string sha = 5;
+   map<string, int32> visibilityMap = 1;
+   map<string, int32> typeKindMap = 2;
+   map<string, int32> nameSpaceMap = 3;
+   map<string, int32> elementKindMap = 4;
+}

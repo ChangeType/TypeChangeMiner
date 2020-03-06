@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+message ExternalDepInfo{
+
+   TypeNames enums = 3;
+   map<string, TypeNames> hierarchicalInfo = 1;
+   map<string, TypeNames> compositionInfo = 2;
+
+   message TypeNames {
+      repeated string names = 1;
+   }
+
+}

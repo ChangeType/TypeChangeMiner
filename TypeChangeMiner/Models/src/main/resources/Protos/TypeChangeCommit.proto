@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+import "TypeChangeAnalysis.proto";
+//import "CodeStatistics.proto";
+import "DependencyUpdate.proto";
+import "FileDiff.proto";
+
+message TypeChangeCommit {
+   repeated TypeChangeAnalysis typeChanges = 1;
+//   CodeStatistics codeStatistics = 2;
+   string sha = 3;
+   DependencyUpdate dependencyUpdate = 4;
+   map<string, int64> refactorings = 5;
+   FileDiff fileDiff = 6;
+   repeated DependencyUpdateImpact dependencyUpdateImpact = 8;
+   repeated MigrationAnalysis migrationAnalysis = 9;
+
+   message MigrationAnalysis {
+      string type = 1;
+      string typeMigrationLevel = 2; // Project, Package, Compilation unit
+      bool isB4Removed = 4;
+   }
+
+   message DependencyUpdateImpact{
+      string kind = 1;
+      repeated string types = 2;
+   }
+
+}

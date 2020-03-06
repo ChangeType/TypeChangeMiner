@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+
+message Project{
+   string name = 1;
+   string url = 3;
+   int64 totalCommits = 2;
+}

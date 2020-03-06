@@ -1,0 +1,40 @@
+syntax = "proto2";
+
+package Models;
+
+import "TypeGraph.proto";
+option java_package = "com.t2r.common.models.ast";
+
+message TypeWorld{
+
+   required string project = 1;
+   required string commit = 2;
+   repeated string allFiles = 5;
+   map<string,CompilationUnitWorld> cus = 3;
+
+   message CompilationUnitWorld{
+      required string package = 5;
+      repeated string importsStatements = 2;
+      repeated string importsOnDemand = 3;
+      optional string file = 4;
+      repeated ClassWorld classes=1;
+      repeated TypeGraph usedTypes = 6;
+
+   }
+
+   message ClassWorld {
+      required string name = 2;
+      repeated string modifiers = 5;
+      repeated ClassWorld nestedClasses = 1;
+      repeated TypeGraph superTypes = 3;
+      repeated string typeParameters = 6;
+      repeated TypeGraph composeTypes = 7;
+      repeated TypeGraph fieldLevelTypeUsage = 9;
+      repeated MethodLevelusage methdLevelTypeUsage = 10;
+
+      message MethodLevelusage{
+         repeated TypeGraph usedTypes = 6;
+      }
+   }
+
+}

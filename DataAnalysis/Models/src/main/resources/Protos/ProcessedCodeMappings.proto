@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.refactorings";
+import "TypeGraph.proto";
+
+message ProcessedCodeMappings {
+
+   TypeGraph b4 = 3;
+   TypeGraph aftr = 2;
+
+   repeated RelevantStmtMapping relevantStmts = 1;
+
+   message RelevantStmtMapping {
+      string b4 = 1;
+      string after = 2;
+      repeated ExpressionMapping mapping  = 3;
+      string urlbB4 = 6;
+      string urlAftr = 5;
+   }
+
+   message ExpressionMapping{
+      string replacement = 4;
+      string b4 = 1;
+      string aftr = 2;
+   }
+}
+

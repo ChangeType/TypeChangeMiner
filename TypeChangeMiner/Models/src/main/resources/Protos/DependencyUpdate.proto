@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+
+import "JarInfo.proto";
+
+message DependencyUpdate{
+   repeated DependencyPair update = 3;
+   repeated JarInfo added = 1;
+   repeated JarInfo removed = 2;
+}
+
+message DependencyPair {
+   JarInfo before = 1;
+   JarInfo after = 2;
+
+}

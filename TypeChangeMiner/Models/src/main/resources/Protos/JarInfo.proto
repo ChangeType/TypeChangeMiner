@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+
+message JarInfo{
+   string artifactID = 1;
+   string groupID = 3;
+   string version = 2;
+}

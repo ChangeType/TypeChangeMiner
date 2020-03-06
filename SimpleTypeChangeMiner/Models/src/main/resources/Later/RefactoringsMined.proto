@@ -1,0 +1,52 @@
+syntax = "proto2";
+
+package Models;
+
+import "TypeGraph.proto";
+import "TypeChngAnalysis.proto";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+message RefactoringsMined{
+
+   required string project = 4;
+   required string commit = 5;
+   repeated RefMined refactorings = 1;
+   optional bool tooBig = 7;
+   repeated TypeChngAnalysis typeChangeAnalysis = 3;
+   optional string someException = 2;
+
+   message RefMined{
+      required string refactoringType = 4;
+      repeated string classesB4 = 2;
+      repeated string classesAftr=1;
+      optional string elementNameB4 = 5;
+      optional string elementNameAftr = 6;
+      optional TypeChange typeChange = 3;
+      repeated CodeMapping codeMapping = 7;
+   }
+
+   message CodeMapping{
+      required bool isExact = 3;
+      required bool identicalWithExtractedVariable = 7;
+      required string b4Code = 1;
+      required string aftrCode = 2;
+      repeated ReplacementInferred replcementInferred = 4;
+      required string operationB4Hash = 5;
+      required string operationAftrHash = 6;
+   }
+
+   message ReplacementInferred {
+      required string b4 = 1;
+      required string aftr = 2;
+      required string replacementType =3;
+   }
+
+   message TypeChange {
+      required TypeGraph dtB4 = 1;
+      required TypeGraph dtAftr = 2;
+      required string classesB4 = 5;
+      required string classesAftr=6;
+      optional string accessModifier = 8;
+   }
+}

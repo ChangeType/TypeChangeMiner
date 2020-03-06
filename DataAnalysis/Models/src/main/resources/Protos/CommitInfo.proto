@@ -1,0 +1,32 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+import "JarInfo.proto";
+import "DependencyUpdate.proto";
+import "FileDiff.proto";
+
+message CommitInfo{
+
+   int64 counter = 8;
+   string sha = 5;
+   FileDiff fileDiff = 3;
+   repeated Refactoring refactorings = 2;
+   repeated JarInfo dependencies = 1;
+   string exception = 6;
+   bool isTypeChangeReported = 7;
+   DependencyUpdate dependencyUpdate = 4;
+
+   message Refactoring{
+       string name = 3;
+       int64 occurences = 2;
+       map<string, RefactoringUrl> descriptionAndurl = 1;
+   }
+
+   message RefactoringUrl{
+       string lhs = 1;
+       string rhs = 2;
+   }
+
+
+}

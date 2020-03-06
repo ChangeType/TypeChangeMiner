@@ -1,0 +1,15 @@
+syntax = "proto3";
+
+import "TypeGraph.proto";
+//import "NameSpace.proto";
+//import "ElementKind.proto";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+message Verification{
+   TypeGraph type = 1;
+   string project = 2;
+   bool matched = 3;
+   bool failed = 4;
+
+}

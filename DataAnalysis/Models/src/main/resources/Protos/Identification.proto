@@ -1,0 +1,14 @@
+syntax = "proto3";
+import "TypeSignature.proto";
+
+
+option java_package = "com.t2r.common.models.ast";
+
+message Identification {
+    string name = 1;
+    TypeSignature type = 2;
+    Identification owner = 3;
+    string kind = 4;
+    //protoc -I=/Users/ameya/T2R/src/main/resources/Models --java_out=/Users/ameya/T2R/src/main/java/ /Users/ameya/T2R/src/main/resources/Models/*
+    //protoc -I=/Users/ameya/T2R/src/main/resources/Models --java_out=/Users/ameya/T2R/src/main/java/ /Users/ameya/T2R/src/main/resources/Models/*
+}

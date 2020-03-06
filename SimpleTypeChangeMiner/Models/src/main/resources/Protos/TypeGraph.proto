@@ -1,0 +1,12 @@
+syntax = "proto2";
+
+package Models;
+import "TypeNode.proto";
+
+option java_package = "com.t2r.common.models.ast";
+
+message TypeGraph {
+   required TypeNode root = 1;
+   map<string,TypeGraph> edges = 2;
+}
+//protoc -I=/Users/ameya/RefactoringMiner/src/Protos --java_out=/Users/ameya/RefactoringMiner/src/ /Users/ameya/RefactoringMiner/src/Protos/*

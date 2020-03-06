@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+enum NameSpace {
+   TypeVariable  = 0;
+   Jdk = 2;
+   External = 3;
+   Internal = 4;
+   DontKnow = 5;
+}

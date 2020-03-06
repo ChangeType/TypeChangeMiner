@@ -1,0 +1,98 @@
+syntax = "proto3";
+
+package Models;
+
+import "TypeGraph.proto";
+
+
+option java_package = "com.t2r.common.models.refactorings";
+
+message TypeChngAnalysis {
+   TypeGraph b4 = 1;
+   TypeGraph aftr = 2;
+   int32 noOfChanges = 6;
+   map<string, int32> elementKindsAffected = 7;
+   repeated string cusAffected = 5;
+
+   map<string, int32> syntacticUpdateKind = 3;
+
+   string nameSpaces = 11; // Internal -> External ....
+   string typeKind = 13; // Object -> Enum, Object -> Object ...
+   bool withinSamePackage = 16;
+
+   // if typeKind not like %Primitive%
+   string hierarchyRelation = 4;
+   bool b4ComposesAfter = 9;
+
+   // If typeKing like %Primitive%
+   bool widening = 10;
+   bool narrowing = 12;
+   bool unboxing = 14;
+   bool boxing = 15;
+
+   map<string, int32> visibilityOfElements = 17;
+
+
+
+
+   message AppliedSpaceAnalysis {
+       bool isTypeMigrationProjectLevel = 2;
+       bool isTypeMigrationPackageLevel = 3;
+       bool isTypeMigrationCuLevel = 4;
+       bool isTypeMigrationTypeLevel = 5;
+       bool isMethodLEvelMigration = 6;
+       bool cannotBeMigrated = 7;
+       bool isB4Removed = 8;
+   }
+
+   message TypeKindsAffected {
+
+
+      oneof affect{
+         Replaced replaced = 1;
+         Updated upd = 2;
+         string add =3;
+         string removed = 4;
+      }
+
+      message Replaced{
+          string b4 =1;
+          string aftr = 2;
+      }
+      message Updated{
+          string elemKind = 1;
+          string navigate = 2;
+      }
+   }
+
+//   message NameSpaceAnalysis{
+//       string b4 = 1;
+//       string aftr = 2;
+//   }
+
+
+//   message SyntacticTypeChange {
+//       TypeGraph b4 = 7;
+//       TypeGraph aftr = 8;
+//      map<string,ChangeAxn> syntypchng= 1;
+//
+//      message ChangeAxn {
+//         oneof axn{
+//            ReplaceGraph rg = 1;
+//            AddGraph ag = 2;
+//            RemoveGraph rmg = 3;
+//         }
+//      }
+//      message ReplaceGraph {
+//          TypeGraph from = 3;
+//          TypeGraph to = 4;
+//      }
+//      message AddGraph {
+//          TypeGraph added = 1;
+//      }
+//      message RemoveGraph {
+//          TypeGraph added = 1;
+//      }
+//
+//   }
+}

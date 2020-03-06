@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+import "TypeGraph.proto";
+import "NameSpace.proto";
+
+message MigrationData{
+   TypeGraph type  = 1;
+   double ratio = 2;
+   NameSpace namespace = 3;
+   repeated CommitToType commitToType = 4;
+
+   message CommitToType {
+      string sha = 2;
+      repeated TypeGraph toType = 1;
+   }
+}

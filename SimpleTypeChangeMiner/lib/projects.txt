@@ -1,0 +1,2 @@
+
+guacamole-client¬1https://github.com/glyptodon/guacamole-client.git

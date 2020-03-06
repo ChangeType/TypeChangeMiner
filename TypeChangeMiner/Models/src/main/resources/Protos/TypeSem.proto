@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+enum TypeSem {
+   Object =0;
+   Enum = 2;
+   PrimitiveType = 3;
+   Dont_Know = 4;
+}

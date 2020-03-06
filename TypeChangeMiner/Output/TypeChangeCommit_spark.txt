@@ -1,0 +1,2598 @@
+
+¶M
+Â
+
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject"public*Q
+
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObjectUpdate Simple2"spark.ResponseTransformerRouteImpl:renderBrenderRÜhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-a6c83e5682d49e139a608716d199e967L62ZÜhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-a6c83e5682d49e139a608716d199e967R62
+¸+
+
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject"Block*Q
+
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObjectUpdate Simple2spark.webserver.MatcherFilter:bodyContentBbodyContentJ‘
+bodyContent=bodyAfterFilter;
+bodyContent=bodyAfterFilter;
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R1212áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L119JÏ
+ibodyContent=routeMatcher.findTargetForRequestedRoute(HttpMethod.get,uri,acceptType) != null ? "" : null;
+ibodyContent=routeMatcher.findTargetForRequestedRoute(HttpMethod.get,uri,acceptType) != null ? "" : null;
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R1372áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L135J¬
+bodyContent=result;
+bodyContent=result;
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R1622áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L160J‘
+bodyContent=bodyAfterFilter;
+bodyContent=bodyAfterFilter;
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R1902áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L188J–
+bodyContent=hEx.getBody();
+bodyContent=hEx.getBody();
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R2002áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L198J∫
+bodyContent="";
+bodyContent="";
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R2022áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L200J‘
+bodyContent=bodyAfterFilter;
+bodyContent=bodyAfterFilter;
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R2102áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L208J“
+bodyContent=INTERNAL_ERROR;
+bodyContent=INTERNAL_ERROR;
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R2152áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L213J∫
+bodyContent="";
+bodyContent="";
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R2212áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L219JÊ
+&boolean consumed=bodyContent != null;
+&boolean consumed=bodyContent != null;
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R2242áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L222JÊ
+&bodyContent=String.format(NOT_FOUND);
+&bodyContent=String.format(NOT_FOUND);
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R2332áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L231J«
+EhttpResponse.getOutputStream().write(bodyContent.getBytes("utf-8"));
+EserializerChain.process(httpResponse.getOutputStream(),bodyContent);
+"#
+writeprocessMETHOD_INVOCATION*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R2432áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L241Jä
+8if(httpMethod == HttpMethod.head && bodyContent == null)8if(httpMethod == HttpMethod.head && bodyContent == null)*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R1352áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L133Jå
+9if(bodyContent == null && responseWrapper.isRedirected())9if(bodyContent == null && responseWrapper.isRedirected())*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R2202áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L218RÜhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L93ZÜhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R95
+¿
+
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject"Block*Q
+
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObjectUpdate Simple2spark.webserver.MatcherFilter:resultBresultJ÷
+result=route.render(element);
+result=route.render(element);
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R1582áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L156J¬
+bodyContent=result;
+bodyContent=result;
+*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R1622áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L160Jæ
+if(result != null)if(result != null)*áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R1612áhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L159Ráhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1L141Záhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-40477b1282b884efdd267696c684b1a1R143
+≥
+
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject"public*Q
+
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObjectUpdate Simple2spark.TemplateViewRouteImpl:renderBrenderJ“
+return render(modelAndView);
+return render(modelAndView);
+*Ühttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698R852Ühttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698L85RÜhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698L83ZÜhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698R83
+á
+
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject"public*Q
+
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObjectUpdate Simple2spark.RouteImpl:renderBrenderJ≤
+return null;
+return null;
+*Ühttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-1745a98afeafac74112410cf601bb95aR762Ühttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-1745a98afeafac74112410cf601bb95aL77RÜhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-1745a98afeafac74112410cf601bb95aL73ZÜhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-1745a98afeafac74112410cf601bb95aR72
+‡
+
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject"public*Q
+
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObjectUpdate Simple2spark.TemplateViewRouteImpl:renderBrenderRáhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698L105Záhttps://github.com/perwendel/spark/commit/f762bd680b7c0f3f53027d0278e39578ae202426?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698R105
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject :NO_RELATIONPrÉ
+
+publicÖÎQ∏’?
+
+Block)\è¬ı(Ã?
+Update Simple√ı(\è¬≈?
+Returnq=
+◊£pÂ?
+LocalVariable)\è¬ı(Ã?"
+
+Jdk -> Jdk√ı(\è¬≈?(f762bd680b7c0f3f53027d0278e39578ae202426" *
+Change Return Type*
+Change Variable Type2B	
+UpdatedB
+AddedB	
+Removed
+”
+™
+
+
+
+void
+
+spark.HaltException"public*H
+
+
+
+void
+
+spark.HaltExceptionReplace Primitive with Simple2spark.Spark:haltBhaltRáhttps://github.com/perwendel/spark/commit/6b4ffca9873e98507f6f1d3d55f78995799945e6?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L806Záhttps://github.com/perwendel/spark/commit/6b4ffca9873e98507f6f1d3d55f78995799945e6?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R806
+™
+
+
+
+void
+
+spark.HaltException"public*H
+
+
+
+void
+
+spark.HaltExceptionReplace Primitive with Simple2spark.Spark:haltBhaltRáhttps://github.com/perwendel/spark/commit/6b4ffca9873e98507f6f1d3d55f78995799945e6?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L817Záhttps://github.com/perwendel/spark/commit/6b4ffca9873e98507f6f1d3d55f78995799945e6?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R817
+™
+
+
+
+void
+
+spark.HaltException"public*H
+
+
+
+void
+
+spark.HaltExceptionReplace Primitive with Simple2spark.Spark:haltBhaltRáhttps://github.com/perwendel/spark/commit/6b4ffca9873e98507f6f1d3d55f78995799945e6?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L828Záhttps://github.com/perwendel/spark/commit/6b4ffca9873e98507f6f1d3d55f78995799945e6?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R828
+™
+
+
+
+void
+
+spark.HaltException"public*H
+
+
+
+void
+
+spark.HaltExceptionReplace Primitive with Simple2spark.Spark:haltBhaltRáhttps://github.com/perwendel/spark/commit/6b4ffca9873e98507f6f1d3d55f78995799945e6?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L840Záhttps://github.com/perwendel/spark/commit/6b4ffca9873e98507f6f1d3d55f78995799945e6?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R840
+
+
+void
+
+spark.HaltException (J Prl
+
+public∏ÖÎQ∏Æ?(
+Replace Primitive with Simple∏ÖÎQ∏Æ?
+Return∏ÖÎQ∏Æ?"
+Jdk -> Internal∏ÖÎQ∏Æ?(6b4ffca9873e98507f6f1d3d55f78995799945e6" *
+Change Return Type2B	
+UpdatedB
+AddedB	
+Removed
+É
+œ
+
+
+java.lang.String#
+!
+spark.webserver.ssl.SslStores"public*L
+
+
+java.lang.String#
+!
+spark.webserver.ssl.SslStoresUpdate Simple2spark.webserver.SparkServer:keystoreFileB	sslStoresJÔ
+if(keystoreFile == null)if(sslStores == null)"(
+keystoreFile	sslStoresVARIABLE_NAME*áhttps://github.com/perwendel/spark/commit/9ba2e75c7ee4bb1a6c9df287021cf05141248fed?diff=split#diff-30abca858568c51a47b21ee173030915R1022áhttps://github.com/perwendel/spark/commit/9ba2e75c7ee4bb1a6c9df287021cf05141248fed?diff=split#diff-30abca858568c51a47b21ee173030915L112RÜhttps://github.com/perwendel/spark/commit/9ba2e75c7ee4bb1a6c9df287021cf05141248fed?diff=split#diff-30abca858568c51a47b21ee173030915L86ZÜhttps://github.com/perwendel/spark/commit/9ba2e75c7ee4bb1a6c9df287021cf05141248fed?diff=split#diff-30abca858568c51a47b21ee173030915R79
+
+java.lang.String#
+!
+spark.webserver.ssl.SslStores :NO_RELATION@Pr_
+
+public§p=
+◊£¿?
+Update SimpleÏQ∏ÖÎ±?
+	ParameterÏQ∏ÖÎ±?"
+Jdk -> Internal∏ÖÎQ∏Æ?(9ba2e75c7ee4bb1a6c9df287021cf05141248fed" *
+Pull Up Method<*
+Move And Rename Method*
+Change Parameter Type*
+Move Method*
+Move Attribute*
+Extract Class*
+
+Move Class*
+Extract Superclass*
+Rename Parameter2
+B	
+UpdatedB
+AddedB	
+Removed
+π
+É
+
+
+boolean/
+-
+)java.util.concurrent.atomic.AtomicBoolean"private*a
+
+
+boolean/
+-
+)java.util.concurrent.atomic.AtomicBooleanReplace Primitive with Simple2spark.globalstate.ServletFlag:isRunFromServletBisRunFromServletRÜhttps://github.com/perwendel/spark/commit/a2be77fc57bfacdf2f44e03443216aca92defa4a?diff=split#diff-dcf0d827079d0ff348f23b72e157eb4fL24ZÜhttps://github.com/perwendel/spark/commit/a2be77fc57bfacdf2f44e03443216aca92defa4a?diff=split#diff-dcf0d827079d0ff348f23b72e157eb4fR26
+
+boolean/
+-
+)java.util.concurrent.atomic.AtomicBoolean (J Prg
+
+private      ?(
+Replace Primitive with Simple      ‡?
+Field      ?"
+
+Jdk -> Jdk      ‡?(a2be77fc57bfacdf2f44e03443216aca92defa4a" *
+Change Attribute Type2B	
+UpdatedB
+AddedB	
+Removed
+‚
+ë
+#
+!
+javax.servlet.ServletResponse,
+*
+&javax.servlet.http.HttpServletResponse"public*b
+#
+!
+javax.servlet.ServletResponse,
+*
+&javax.servlet.http.HttpServletResponseUpdate Simple2spark.staticfiles.StaticFiles:servletResponseBhttpResponseRÜhttps://github.com/perwendel/spark/commit/ac8784cb50fdf2ee771ccae139f58aa7cef3d8f9?diff=split#diff-a684e18dfadc4746b9b2318831c37fe9L56ZÜhttps://github.com/perwendel/spark/commit/ac8784cb50fdf2ee771ccae139f58aa7cef3d8f9?diff=split#diff-a684e18dfadc4746b9b2318831c37fe9R56#
+!
+javax.servlet.ServletResponse,
+*
+&javax.servlet.http.HttpServletResponse (:NO_RELATIONPXrd
+
+public      ?
+Update Simple      ?
+	Parameter      ?"
+DontKnow -> DontKnow      ?(ac8784cb50fdf2ee771ccae139f58aa7cef3d8f9" *
+Change Parameter Type*
+Rename Parameter2B	
+UpdatedB
+AddedB	
+Removed
+’
+ˆ
+
+
+spark.SparkServer$
+"
+spark.webserver.EmbeddedServer"public*N
+
+
+spark.SparkServer$
+"
+spark.webserver.EmbeddedServerUpdate Simple2"spark.webserver.SparkServerFactory:createBcreateJî
+&return new JettySparkServer(handler);
+)return new EmbeddedJettyServer(handler);
+"-
+JettySparkServerEmbeddedJettyServerTYPE*Ühttps://github.com/perwendel/spark/commit/a1909a83a1cf6b921d2ea07405a8ecb5ff7c8e59?diff=split#diff-076c00a1d2bf64cb6c68fe0db363ff77R342Ühttps://github.com/perwendel/spark/commit/a1909a83a1cf6b921d2ea07405a8ecb5ff7c8e59?diff=split#diff-e29d84298de8edfe83f5823e731d441bL34RÜhttps://github.com/perwendel/spark/commit/a1909a83a1cf6b921d2ea07405a8ecb5ff7c8e59?diff=split#diff-e29d84298de8edfe83f5823e731d441bL30ZÜhttps://github.com/perwendel/spark/commit/a1909a83a1cf6b921d2ea07405a8ecb5ff7c8e59?diff=split#diff-076c00a1d2bf64cb6c68fe0db363ff77R29
+˝
+
+
+spark.SparkServer$
+"
+spark.webserver.EmbeddedServer"	protected*N
+
+
+spark.SparkServer$
+"
+spark.webserver.EmbeddedServerUpdate Simple2spark.SparkInstance:serverBserverJË
+server.stop();
+server.extinguish();
+"*
+stop
+extinguishMETHOD_INVOCATION_NAME*áhttps://github.com/perwendel/spark/commit/a1909a83a1cf6b921d2ea07405a8ecb5ff7c8e59?diff=split#diff-bcabf71ed00d404a48302fdf618b6907R3202áhttps://github.com/perwendel/spark/commit/a1909a83a1cf6b921d2ea07405a8ecb5ff7c8e59?diff=split#diff-bcabf71ed00d404a48302fdf618b6907L313Jæ
+if(server != null)if(server != null)*áhttps://github.com/perwendel/spark/commit/a1909a83a1cf6b921d2ea07405a8ecb5ff7c8e59?diff=split#diff-bcabf71ed00d404a48302fdf618b6907R3182áhttps://github.com/perwendel/spark/commit/a1909a83a1cf6b921d2ea07405a8ecb5ff7c8e59?diff=split#diff-bcabf71ed00d404a48302fdf618b6907L311RÜhttps://github.com/perwendel/spark/commit/a1909a83a1cf6b921d2ea07405a8ecb5ff7c8e59?diff=split#diff-bcabf71ed00d404a48302fdf618b6907L62ZÜhttps://github.com/perwendel/spark/commit/a1909a83a1cf6b921d2ea07405a8ecb5ff7c8e59?diff=split#diff-bcabf71ed00d404a48302fdf618b6907R63
+
+spark.SparkServer$
+"
+spark.webserver.EmbeddedServer :NO_RELATIONPrâ
+
+	protected      ?
+
+public      ?
+Update Simple      ?
+Field      ?
+Return      ?"
+Internal -> Internal      ?(a1909a83a1cf6b921d2ea07405a8ecb5ff7c8e59" *
+Rename Method*
+Change Return Type*
+Move And Rename Class*
+
+Move Class
+*
+Rename Attribute*
+Extract Method*
+Change Attribute Type*
+Extract And Move Method*
+Rename Parameter2B	
+UpdatedB
+AddedB	
+RemovedJ,
+spark.SparkServerProject Level Migration
+ø
+
+Å	
+ 
+
+spark.route.RedirectStatus
+
+spark.Redirect.Status"private*N
+ 
+
+spark.route.RedirectStatus
+
+spark.Redirect.StatusUpdate Simple2spark.Spark:statusBstatusJ≥
+öreturn (req,res) -> {
+  if (status != null) {
+    res.redirect(toPath,status.getIntValue());
+  }
+ else {
+    res.redirect(toPath);
+  }
+  return null;
+}
+;
+óreturn (req,res) -> {
+  if (status != null) {
+    res.redirect(toPath,status.intValue());
+  }
+ else {
+    res.redirect(toPath);
+  }
+  return null;
+}
+;
+"f
+)res.redirect(toPath,status.getIntValue())&res.redirect(toPath,status.intValue())METHOD_INVOCATION*áhttps://github.com/perwendel/spark/commit/ae07a13949b81956a362a973314bb8b72ebce0a1?diff=split#diff-66aad5c7cae61c33bbfbfa9cab16a5cbR1372áhttps://github.com/perwendel/spark/commit/ae07a13949b81956a362a973314bb8b72ebce0a1?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L838Ráhttps://github.com/perwendel/spark/commit/ae07a13949b81956a362a973314bb8b72ebce0a1?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L837Záhttps://github.com/perwendel/spark/commit/ae07a13949b81956a362a973314bb8b72ebce0a1?diff=split#diff-66aad5c7cae61c33bbfbfa9cab16a5cbR136 
+
+spark.route.RedirectStatus
+
+spark.Redirect.Status (:NO_RELATIONPXre
+
+private      ?
+Update SimpleÖÎQ∏’?
+	ParameterÖÎQ∏’?"
+Internal -> InternalÖÎQ∏’?
+ß
+Œ
+
+'
+%
+!org.apache.http.client.HttpClient3
+1
+-org.apache.http.impl.client.DefaultHttpClient"private*m
+'
+%
+!org.apache.http.client.HttpClient3
+1
+-org.apache.http.impl.client.DefaultHttpClientUpdate Simple2spark.util.SparkTestUtil:
+httpClientB
+httpClientJü
+0this.httpClient=new DefaultHttpClient(connMrg);
++httpClient=new DefaultHttpClient(connMrg);
+",
+this.httpClient
+httpClientVARIABLE_NAME*Ühttps://github.com/perwendel/spark/commit/ae07a13949b81956a362a973314bb8b72ebce0a1?diff=split#diff-679876f2f405fe4f1bfb7e9bc07e19f8R552Ühttps://github.com/perwendel/spark/commit/ae07a13949b81956a362a973314bb8b72ebce0a1?diff=split#diff-679876f2f405fe4f1bfb7e9bc07e19f8L53Jè
+;HttpResponse httpResponse=httpClient.execute(httpRequest);
+;HttpResponse httpResponse=httpClient.execute(httpRequest);
+*áhttps://github.com/perwendel/spark/commit/ae07a13949b81956a362a973314bb8b72ebce0a1?diff=split#diff-679876f2f405fe4f1bfb7e9bc07e19f8R1112Ühttps://github.com/perwendel/spark/commit/ae07a13949b81956a362a973314bb8b72ebce0a1?diff=split#diff-679876f2f405fe4f1bfb7e9bc07e19f8L82RÜhttps://github.com/perwendel/spark/commit/ae07a13949b81956a362a973314bb8b72ebce0a1?diff=split#diff-679876f2f405fe4f1bfb7e9bc07e19f8L43ZÜhttps://github.com/perwendel/spark/commit/ae07a13949b81956a362a973314bb8b72ebce0a1?diff=split#diff-679876f2f405fe4f1bfb7e9bc07e19f8R45'
+%
+!org.apache.http.client.HttpClient3
+1
+-org.apache.http.impl.client.DefaultHttpClient (:NO_RELATIONPXra
+
+private      ?
+Update Simple      ?
+Field      ?"
+DontKnow -> DontKnow      ?(ae07a13949b81956a362a973314bb8b72ebce0a1" *
+Move And Rename Method*
+Change Parameter Type*
+Move Method*
+Extract Class*
+Change Attribute Type2B	
+UpdatedB
+AddedB	
+RemovedJ5
+spark.route.RedirectStatusProject Level Migration
+˙
+≤
+
+
+
+void
+
+spark.Service"public*B
+
+
+
+void
+
+spark.ServiceReplace Primitive with Simple2spark.SparkInstance:
+threadPoolB
+threadPoolRáhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-bcabf71ed00d404a48302fdf618b6907L143Záhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR168
+≤
+
+
+
+void
+
+spark.Service"public*B
+
+
+
+void
+
+spark.ServiceReplace Primitive with Simple2spark.SparkInstance:
+threadPoolB
+threadPoolRáhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-bcabf71ed00d404a48302fdf618b6907L154Záhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR179
+Ø
+
+
+
+void
+
+spark.Service"public*B
+
+
+
+void
+
+spark.ServiceReplace Primitive with Simple2spark.SparkInstance:	ipAddressB	ipAddressRÜhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-bcabf71ed00d404a48302fdf618b6907L86Záhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR107
+“
+
+
+
+void
+
+spark.Service"public*B
+
+
+
+void
+
+spark.ServiceReplace Primitive with Simple2spark.SparkInstance:webSocketIdleTimeoutMillisBwebSocketIdleTimeoutMillisRáhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-bcabf71ed00d404a48302fdf618b6907L234Záhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR267
+“
+
+
+
+void
+
+spark.Service"public*B
+
+
+
+void
+
+spark.ServiceReplace Primitive with Simple2spark.SparkInstance:externalStaticFileLocationBexternalStaticFileLocationRáhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-bcabf71ed00d404a48302fdf618b6907L189Záhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR219
+™
+
+
+
+void
+
+spark.Service"public*B
+
+
+
+void
+
+spark.ServiceReplace Primitive with Simple2spark.SparkInstance:secureBsecureRáhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-bcabf71ed00d404a48302fdf618b6907L122Záhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR146
+¬
+
+
+
+void
+
+spark.Service"public*B
+
+
+
+void
+
+spark.ServiceReplace Primitive with Simple2spark.SparkInstance:staticFileLocationBstaticFileLocationRáhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-bcabf71ed00d404a48302fdf618b6907L170Záhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR197
+¶
+
+
+
+void
+
+spark.Service"public*B
+
+
+
+void
+
+spark.ServiceReplace Primitive with Simple2spark.SparkInstance:portBportRáhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-bcabf71ed00d404a48302fdf618b6907L100Záhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR123
+
+
+void
+
+spark.Service (J Prl
+
+public{ÆG·z¥?(
+Replace Primitive with Simple{ÆG·z¥?
+Return{ÆG·z¥?"
+Jdk -> Internal{ÆG·z¥?
+ú&
+≤
+
+$
+"
+spark.route.SimpleRouteMatcher
+
+spark.route.Routes"private*O
+$
+"
+spark.route.SimpleRouteMatcher
+
+spark.route.RoutesUpdate Simple2!spark.http.matching.MatcherFilter:routeMatcherBrouteMatcherJƒ
+îRouteContext context=RouteContext.create().withMatcher(routeMatcher).withHttpRequest(httpRequest).withUri(uri).withAcceptType(acceptType).withBody(body).withRequestWrapper(requestWrapper).withResponseWrapper(responseWrapper).withResponse(response).withHttpMethod(httpMethod);
+îRouteContext context=RouteContext.create().withMatcher(routeMatcher).withHttpRequest(httpRequest).withUri(uri).withAcceptType(acceptType).withBody(body).withRequestWrapper(requestWrapper).withResponseWrapper(responseWrapper).withResponse(response).withHttpMethod(httpMethod);
+*áhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-249e8759cff500c1cbb730c4c60cdb6eR1122áhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-249e8759cff500c1cbb730c4c60cdb6eL106RÜhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-249e8759cff500c1cbb730c4c60cdb6eL51ZÜhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-249e8759cff500c1cbb730c4c60cdb6eR52
+∞
+$
+"
+spark.route.SimpleRouteMatcher
+
+spark.route.Routes"public*O
+$
+"
+spark.route.SimpleRouteMatcher
+
+spark.route.RoutesUpdate Simple2 spark.http.matching.RouteContext:routeMatcherBrouteMatcherJ¬
+return routeMatcher;
+return routeMatcher;
+*Ühttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-c4bdeab67c989f2c79fdcef693a34a1eR522Ühttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-c4bdeab67c989f2c79fdcef693a34a1eL52RÜhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-c4bdeab67c989f2c79fdcef693a34a1eL51ZÜhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-c4bdeab67c989f2c79fdcef693a34a1eR51
+∆
+$
+"
+spark.route.SimpleRouteMatcher
+
+spark.route.Routes"public*O
+$
+"
+spark.route.SimpleRouteMatcher
+
+spark.route.RoutesUpdate Simple2 spark.http.matching.RouteContext:routeMatcherBrouteMatcherJÿ
+ this.routeMatcher=routeMatcher;
+ this.routeMatcher=routeMatcher;
+*Ühttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-c4bdeab67c989f2c79fdcef693a34a1eR562Ühttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-c4bdeab67c989f2c79fdcef693a34a1eL56RÜhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-c4bdeab67c989f2c79fdcef693a34a1eL55ZÜhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-c4bdeab67c989f2c79fdcef693a34a1eR55
+«
+$
+"
+spark.route.SimpleRouteMatcher
+
+spark.route.Routes"public*O
+$
+"
+spark.route.SimpleRouteMatcher
+
+spark.route.RoutesUpdate Simple2!spark.http.matching.MatcherFilter:routeMatcherBrouteMatcherJÿ
+ this.routeMatcher=routeMatcher;
+ this.routeMatcher=routeMatcher;
+*Ühttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-249e8759cff500c1cbb730c4c60cdb6eR712Ühttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-249e8759cff500c1cbb730c4c60cdb6eL66RÜhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-249e8759cff500c1cbb730c4c60cdb6eL65ZÜhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-249e8759cff500c1cbb730c4c60cdb6eR66
+Ø
+$
+"
+spark.route.SimpleRouteMatcher
+
+spark.route.Routes"private*O
+$
+"
+spark.route.SimpleRouteMatcher
+
+spark.route.RoutesUpdate Simple2 spark.http.matching.RouteContext:routeMatcherBrouteMatcherJ¬
+return routeMatcher;
+return routeMatcher;
+*Ühttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-c4bdeab67c989f2c79fdcef693a34a1eR522Ühttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-c4bdeab67c989f2c79fdcef693a34a1eL52RÜhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-c4bdeab67c989f2c79fdcef693a34a1eL37ZÜhttps://github.com/perwendel/spark/commit/a9afedd8170acd53f975ccf9119c94fbb5942616?diff=split#diff-c4bdeab67c989f2c79fdcef693a34a1eR37$
+"
+spark.route.SimpleRouteMatcher
+
+spark.route.Routes :	R_SUPER_TPrù
+
+private      ?
+
+public      ?
+Update Simpleè¬ı(\èÍ?
+Fieldq=
+◊£pÂ?
+Return      ?
+	Parameter      ?"
+Internal -> Internalè¬ı(\èÍ?(a9afedd8170acd53f975ccf9119c94fbb5942616" *
+Rename Method*
+Pull Up Method*
+Change Parameter Type*
+Pull Up Attribute*
+Change Return Type*
+Rename Class*
+Extract Superclass*
+Rename Attribute*
+Extract Method*
+Change Attribute Type2B	
+UpdatedB
+AddedB	
+RemovedJ9
+spark.route.SimpleRouteMatcherProject Level Migration
+Ü	
+≠
+3
+1
+-org.apache.http.impl.client.DefaultHttpClient'
+%
+!org.apache.http.client.HttpClient"private*m
+3
+1
+-org.apache.http.impl.client.DefaultHttpClient'
+%
+!org.apache.http.client.HttpClientUpdate Simple2spark.util.SparkTestUtil:
+httpClientB
+httpClientJê
+;HttpResponse httpResponse=httpClient.execute(httpRequest);
+;HttpResponse httpResponse=httpClient.execute(httpRequest);
+*áhttps://github.com/perwendel/spark/commit/f9b6b2c4801ab7ea4b4665ca03efee87738f4a48?diff=split#diff-679876f2f405fe4f1bfb7e9bc07e19f8R1152áhttps://github.com/perwendel/spark/commit/f9b6b2c4801ab7ea4b4665ca03efee87738f4a48?diff=split#diff-679876f2f405fe4f1bfb7e9bc07e19f8L111RÜhttps://github.com/perwendel/spark/commit/f9b6b2c4801ab7ea4b4665ca03efee87738f4a48?diff=split#diff-679876f2f405fe4f1bfb7e9bc07e19f8L45ZÜhttps://github.com/perwendel/spark/commit/f9b6b2c4801ab7ea4b4665ca03efee87738f4a48?diff=split#diff-679876f2f405fe4f1bfb7e9bc07e19f8R483
+1
+-org.apache.http.impl.client.DefaultHttpClient'
+%
+!org.apache.http.client.HttpClient (:NO_RELATIONPXra
+
+private      ?
+Update Simple      ?
+Field      ?"
+DontKnow -> DontKnow      ?(f9b6b2c4801ab7ea4b4665ca03efee87738f4a48" *
+Change Attribute Type2B	
+UpdatedB
+AddedB	
+RemovedJH
+-org.apache.http.impl.client.DefaultHttpClientProject Level Migration(3d9bcac6df15df6356aae3b7a5de50bc09c437fd" *
+Change Variable Type2
+Ñ
+‘
+
+
+spark.Filter(
+&
+"java.lang.reflect.AccessibleObject"public*M
+
+
+spark.Filter(
+&
+"java.lang.reflect.AccessibleObjectUpdate Simple2spark.FilterImpl:getTargetFilterBdelegateJ˙
+return this.targetFilter;
+return this.delegate;
+"1
+this.targetFilterthis.delegateVARIABLE_NAME*áhttps://github.com/perwendel/spark/commit/3507fb4adfb45e0d96d59cf82d8022010d7bc121?diff=split#diff-b0bd63f4bd1e4d0a3e1b37007e87e4feR1012Ühttps://github.com/perwendel/spark/commit/3507fb4adfb45e0d96d59cf82d8022010d7bc121?diff=split#diff-b0bd63f4bd1e4d0a3e1b37007e87e4feL98RÜhttps://github.com/perwendel/spark/commit/3507fb4adfb45e0d96d59cf82d8022010d7bc121?diff=split#diff-b0bd63f4bd1e4d0a3e1b37007e87e4feL97Záhttps://github.com/perwendel/spark/commit/3507fb4adfb45e0d96d59cf82d8022010d7bc121?diff=split#diff-b0bd63f4bd1e4d0a3e1b37007e87e4feR100
+
+spark.Filter(
+&
+"java.lang.reflect.AccessibleObject :NO_RELATIONPr\
+
+public      ?
+Update Simpleöôôôôô…?
+Return      ?"
+Internal -> Jdköôôôôô…?
+ˇ
+–
+
+
+spark.Route(
+&
+"java.lang.reflect.AccessibleObject"public*L
+
+
+spark.Route(
+&
+"java.lang.reflect.AccessibleObjectUpdate Simple2spark.RouteImpl:getTargetRouteBdelegateJ˘
+return this.targetRoute;
+return this.delegate;
+"0
+this.targetRoutethis.delegateVARIABLE_NAME*áhttps://github.com/perwendel/spark/commit/3507fb4adfb45e0d96d59cf82d8022010d7bc121?diff=split#diff-1745a98afeafac74112410cf601bb95aR1432áhttps://github.com/perwendel/spark/commit/3507fb4adfb45e0d96d59cf82d8022010d7bc121?diff=split#diff-1745a98afeafac74112410cf601bb95aL140Ráhttps://github.com/perwendel/spark/commit/3507fb4adfb45e0d96d59cf82d8022010d7bc121?diff=split#diff-1745a98afeafac74112410cf601bb95aL139Záhttps://github.com/perwendel/spark/commit/3507fb4adfb45e0d96d59cf82d8022010d7bc121?diff=split#diff-1745a98afeafac74112410cf601bb95aR142
+
+spark.Route(
+&
+"java.lang.reflect.AccessibleObject :NO_RELATIONPr\
+
+public      ?
+Update Simpleöôôôôô…?
+Return      ?"
+Internal -> Jdköôôôôô…?(3507fb4adfb45e0d96d59cf82d8022010d7bc121" *
+Rename Method*
+Change Return Type*
+Rename Attribute*
+Rename Parameter2B	
+UpdatedB
+AddedB	
+Removed(bd967c02fdf9f4eadc731681911ee8b1ff55646e" *
+Rename Method*
+Move And Rename Method*
+Change Parameter Type*
+Move Method*
+Change Return Type*
+Extract Class*
+Rename Class*
+Rename Attribute*
+Change Attribute Type*
+Rename Parameter2
+€
+¨
+
+
+
+void
+
+spark.HaltException"public*H
+
+
+
+void
+
+spark.HaltExceptionReplace Primitive with Simple2spark.Service:haltBhaltRáhttps://github.com/perwendel/spark/commit/114d245ef68b1f25d9793d099ae1ca25bd63f1b7?diff=split#diff-f610f83c31d4974a3f708eace7469c9eL413Záhttps://github.com/perwendel/spark/commit/114d245ef68b1f25d9793d099ae1ca25bd63f1b7?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR413
+¨
+
+
+
+void
+
+spark.HaltException"public*H
+
+
+
+void
+
+spark.HaltExceptionReplace Primitive with Simple2spark.Service:haltBhaltRáhttps://github.com/perwendel/spark/commit/114d245ef68b1f25d9793d099ae1ca25bd63f1b7?diff=split#diff-f610f83c31d4974a3f708eace7469c9eL436Záhttps://github.com/perwendel/spark/commit/114d245ef68b1f25d9793d099ae1ca25bd63f1b7?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR436
+¨
+
+
+
+void
+
+spark.HaltException"public*H
+
+
+
+void
+
+spark.HaltExceptionReplace Primitive with Simple2spark.Service:haltBhaltRáhttps://github.com/perwendel/spark/commit/114d245ef68b1f25d9793d099ae1ca25bd63f1b7?diff=split#diff-f610f83c31d4974a3f708eace7469c9eL424Záhttps://github.com/perwendel/spark/commit/114d245ef68b1f25d9793d099ae1ca25bd63f1b7?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR424
+¨
+
+
+
+void
+
+spark.HaltException"public*H
+
+
+
+void
+
+spark.HaltExceptionReplace Primitive with Simple2spark.Service:haltBhaltRáhttps://github.com/perwendel/spark/commit/114d245ef68b1f25d9793d099ae1ca25bd63f1b7?diff=split#diff-f610f83c31d4974a3f708eace7469c9eL402Záhttps://github.com/perwendel/spark/commit/114d245ef68b1f25d9793d099ae1ca25bd63f1b7?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR402
+
+
+void
+
+spark.HaltException (J Prl
+
+public
+◊£p=
+◊?(
+Replace Primitive with Simple◊£p=
+◊”?
+Return◊£p=
+◊”?"
+Jdk -> Internal◊£p=
+◊”?(114d245ef68b1f25d9793d099ae1ca25bd63f1b7" *
+Change Return Type2B	
+UpdatedB
+AddedB	
+Removed
+»
+õ
+
+
+
+void
+	
+int"public*-
+
+
+
+void
+	
+intUpdate Primitive2#spark.embeddedserver.EmbeddedServer:igniteBigniteRÜhttps://github.com/perwendel/spark/commit/f8359c0467560186f56350b4d4373b5105c1955c?diff=split#diff-a8567ff3d17d6bdfb8d8513e96495a65L42ZÜhttps://github.com/perwendel/spark/commit/f8359c0467560186f56350b4d4373b5105c1955c?diff=split#diff-a8567ff3d17d6bdfb8d8513e96495a65R44
+¶
+
+
+
+void
+	
+int"public*-
+
+
+
+void
+	
+intUpdate Primitive2.spark.embeddedserver.jetty.EmbeddedJettyServer:igniteBigniteRÜhttps://github.com/perwendel/spark/commit/f8359c0467560186f56350b4d4373b5105c1955c?diff=split#diff-ae8784961b5b5138ce0ce6340c46697dL74ZÜhttps://github.com/perwendel/spark/commit/f8359c0467560186f56350b4d4373b5105c1955c?diff=split#diff-ae8784961b5b5138ce0ce6340c46697dR74
+
+
+void
+	
+int (J PXrZ
+
+publicÖÎQ∏’?
+Update PrimitiveÖÎQ∏’?
+ReturnÖÎQ∏’?"
+
+Jdk -> JdkÖÎQ∏’?(f8359c0467560186f56350b4d4373b5105c1955c" *
+Change Return Type2B	
+UpdatedB
+AddedB	
+Removed
+Œ2
+õ
+(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String"public*¡
+(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.StringWrap With Parameterized Type2spark.TemplateViewRouteImpl:modelBmodelJÍ
+)return new ModelAndView(model,viewName);
+)return new ModelAndView(model,viewName);
+*Ühttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698R982Ühttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698L96RÜhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698L95ZÜhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698R97
+€
+(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String"private*¡
+(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.StringWrap With Parameterized Type2spark.ModelAndView:modelBmodelJ¥
+return model;
+return model;
+*Ühttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505R532Ühttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505L52RÜhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505L30ZÜhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505R32
+‰
+(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String"public*¡
+(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.StringWrap With Parameterized Type2spark.ModelAndView:modelBmodelJº
+this.model=model;
+this.model=model;
+*Ühttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505R452Ühttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505L44RÜhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505L42ZÜhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505R44
+ì
+(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String"public*¡
+(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.StringWrap With Parameterized Type2spark.Spark:modelBmodelJÓ
+)return new ModelAndView(model,viewName);
+)return new ModelAndView(model,viewName);
+*àhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R10832àhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L1081Ràhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L1080Zàhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R1082
+‚
+(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String"public*¡
+(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.StringWrap With Parameterized Type2spark.ModelAndView:getModelBgetModelJ¥
+return model;
+return model;
+*Ühttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505R532Ühttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505L52RÜhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505L51ZÜhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505R52
+î
+(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String"public*¡
+(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.StringWrap With Parameterized Type2spark.TemplateEngine:modelBmodelJÍ
+)return new ModelAndView(model,viewName);
+)return new ModelAndView(model,viewName);
+*Ühttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-77d7f51b147a96ae968a09d4d88bc195R342Ühttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-77d7f51b147a96ae968a09d4d88bc195L32RÜhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-77d7f51b147a96ae968a09d4d88bc195L31ZÜhttps://github.com/perwendel/spark/commit/77c854b6f6db7f5da111c338e85df0c474cd1f60?diff=split#diff-77d7f51b147a96ae968a09d4d88bc195R33(
+&
+"java.lang.reflect.AccessibleObjectw
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String :NO_RELATIONPr¢
+
+private      ?
+
+publicÏQ∏ÖÎ·?'
+Wrap With Parameterized Type333333„?
+Field      ?
+ReturnÖÎQ∏’?
+	Parameterq=
+◊£pÂ?"
+
+Jdk -> Jdk333333„?(77c854b6f6db7f5da111c338e85df0c474cd1f60" *
+Change Parameter Type*
+Change Return Type*
+Change Attribute Type2B	
+UpdatedB
+AddedB	
+Removed
+à}
+”
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.String"	protected*Œ
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.StringUpdate Type Parameters"õ
+2
+
+of
+
+java.lang.Class
+Param:0
+B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!Replace Parameterized with Simple2spark.Service:webSocketHandlersBwebSocketHandlersJﬁ
+"return webSocketHandlers != null;
+"return webSocketHandlers != null;
+*áhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR3252áhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-f610f83c31d4974a3f708eace7469c9eL310J¥	
+Ãnew Thread(() -> {
+  EmbeddedServers.initialize();
+  if (embeddedServerIdentifier == null) {
+    embeddedServerIdentifier=EmbeddedServers.defaultIdentifier();
+  }
+  server=EmbeddedServers.create(embeddedServerIdentifier,routes,staticFilesConfiguration,hasMultipleHandlers());
+  server.configureWebSockets(webSocketHandlers,webSocketIdleTimeoutMillis);
+  server.ignite(ipAddress,port,sslStores,latch,maxThreads,minThreads,threadIdleTimeoutMillis);
+}
+).start();
+Ãnew Thread(() -> {
+  EmbeddedServers.initialize();
+  if (embeddedServerIdentifier == null) {
+    embeddedServerIdentifier=EmbeddedServers.defaultIdentifier();
+  }
+  server=EmbeddedServers.create(embeddedServerIdentifier,routes,staticFilesConfiguration,hasMultipleHandlers());
+  server.configureWebSockets(webSocketHandlers,webSocketIdleTimeoutMillis);
+  server.ignite(ipAddress,port,sslStores,latch,maxThreads,minThreads,threadIdleTimeoutMillis);
+}
+).start();
+*áhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR3612áhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-f610f83c31d4974a3f708eace7469c9eL346RÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-f610f83c31d4974a3f708eace7469c9eL63ZÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR66
+÷
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.String"Block*Œ
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.StringUpdate Type Parameters"õ
+2
+
+of
+
+java.lang.Class
+Param:0
+B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!Replace Parameterized with Simple2Nspark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest:webSocketHandlersBwebSocketHandlersJÍ
+hservletContextHandler=WebSocketServletContextHandlerFactory.create(webSocketHandlers,Optional.empty());
+hservletContextHandler=WebSocketServletContextHandlerFactory.create(webSocketHandlers,Optional.empty());
+*áhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fR1032áhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fL103JÏ
+AwebSocketHandlers.put(webSocketPath,WebSocketTestHandler.class);
+cwebSocketHandlers.put(webSocketPath,new WebSocketHandlerClassWrapper(WebSocketTestHandler.class));
+".
+putput"METHOD_INVOCATION_ARGUMENT_WRAPPED*áhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fR1012áhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fL101RÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fL97ZÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fR99
+–
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.String"public*Œ
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.StringUpdate Type Parameters"õ
+2
+
+of
+
+java.lang.Class
+Param:0
+B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!Replace Parameterized with Simple2#spark.embeddedserver.EmbeddedServer:webSocketHandlersBwebSocketHandlersRÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-a8567ff3d17d6bdfb8d8513e96495a65L56ZÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-a8567ff3d17d6bdfb8d8513e96495a65R57
+ä
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.String"public*Œ
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.StringUpdate Type Parameters"õ
+2
+
+of
+
+java.lang.Class
+Param:0
+B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!Replace Parameterized with Simple2Jspark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactory:webSocketHandlersBwebSocketHandlersJ÷
+_WebSocketCreator webSocketCreator=WebSocketCreatorFactory.create(webSocketHandlers.get(path));
+_WebSocketCreator webSocketCreator=WebSocketCreatorFactory.create(webSocketHandlers.get(path));
+*Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-dad7422c795d2fa49a12a2253dfb7267R542Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-dad7422c795d2fa49a12a2253dfb7267L54J‚
+%for(path; webSocketHandlers.keySet())%for(path; webSocketHandlers.keySet())*Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-dad7422c795d2fa49a12a2253dfb7267R532Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-dad7422c795d2fa49a12a2253dfb7267L53J“
+if(webSocketHandlers != null)if(webSocketHandlers != null)*Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-dad7422c795d2fa49a12a2253dfb7267R462Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-dad7422c795d2fa49a12a2253dfb7267L46RÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-dad7422c795d2fa49a12a2253dfb7267L43ZÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-dad7422c795d2fa49a12a2253dfb7267R43
+⁄
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.String"Block*Œ
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.StringUpdate Type Parameters"õ
+2
+
+of
+
+java.lang.Class
+Param:0
+B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!Replace Parameterized with Simple2Nspark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest:webSocketHandlersBwebSocketHandlersJ
+lservletContextHandler=WebSocketServletContextHandlerFactory.create(webSocketHandlers,Optional.of(timeout));
+lservletContextHandler=WebSocketServletContextHandlerFactory.create(webSocketHandlers,Optional.of(timeout));
+*Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fR712Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fL71JÍ
+AwebSocketHandlers.put(webSocketPath,WebSocketTestHandler.class);
+cwebSocketHandlers.put(webSocketPath,new WebSocketHandlerClassWrapper(WebSocketTestHandler.class));
+".
+putput"METHOD_INVOCATION_ARGUMENT_WRAPPED*Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fR692Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fL69RÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fL67ZÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fR67
+õ
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.String"private*Œ
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.StringUpdate Type Parameters"õ
+2
+
+of
+
+java.lang.Class
+Param:0
+B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!Replace Parameterized with Simple2.spark.embeddedserver.jetty.EmbeddedJettyServer:webSocketHandlersBwebSocketHandlersJæ
+ëServletContextHandler webSocketServletContextHandler=WebSocketServletContextHandlerFactory.create(webSocketHandlers,webSocketIdleTimeoutMillis);
+ëServletContextHandler webSocketServletContextHandler=WebSocketServletContextHandlerFactory.create(webSocketHandlers,webSocketIdleTimeoutMillis);
+*áhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-ae8784961b5b5138ce0ce6340c46697dR1052áhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-ae8784961b5b5138ce0ce6340c46697dL104RÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-ae8784961b5b5138ce0ce6340c46697dL55ZÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-ae8784961b5b5138ce0ce6340c46697dR56
+“
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.String"Block*Œ
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.StringUpdate Type Parameters"õ
+2
+
+of
+
+java.lang.Class
+Param:0
+B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!Replace Parameterized with Simple2Nspark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest:webSocketHandlersBwebSocketHandlersJË
+hservletContextHandler=WebSocketServletContextHandlerFactory.create(webSocketHandlers,Optional.empty());
+hservletContextHandler=WebSocketServletContextHandlerFactory.create(webSocketHandlers,Optional.empty());
+*Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fR432Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fL43JÍ
+AwebSocketHandlers.put(webSocketPath,WebSocketTestHandler.class);
+cwebSocketHandlers.put(webSocketPath,new WebSocketHandlerClassWrapper(WebSocketTestHandler.class));
+".
+putput"METHOD_INVOCATION_ARGUMENT_WRAPPED*Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fR412Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fL41RÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fL39ZÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-93668ed6271350efde679df4cc72442fR39
+ 
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.String"public*Œ
+Å
+
+of
+
+java.util.Map=
+Param:12
+
+of
+
+java.lang.Class
+Param:0
+!
+Param:0
+
+java.lang.Stringë
+
+of
+
+java.util.MapM
+Param:1B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!
+Param:0
+
+java.lang.StringUpdate Type Parameters"õ
+2
+
+of
+
+java.lang.Class
+Param:0
+B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper!Replace Parameterized with Simple2.spark.embeddedserver.jetty.EmbeddedJettyServer:webSocketHandlersBwebSocketHandlersJÏ
+*this.webSocketHandlers=webSocketHandlers;
+*this.webSocketHandlers=webSocketHandlers;
+*Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-ae8784961b5b5138ce0ce6340c46697dR672Ühttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-ae8784961b5b5138ce0ce6340c46697dL66RÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-ae8784961b5b5138ce0ce6340c46697dL63ZÜhttps://github.com/perwendel/spark/commit/11a78b5e664b137433b6715cda5be37cf3e20b3c?diff=split#diff-ae8784961b5b5138ce0ce6340c46697dR642
+
+of
+
+java.lang.Class
+Param:0
+B
+@
+<spark.embeddedserver.jetty.websocket.WebSocketHandlerWrapper :NO_RELATIONPr–
+
+private      ?
+
+public333333„?
+
+	protected      ?
+
+Block      ?!
+Update Type ParametersöôôôôôÈ?
+Field      ?
+LocalVariable      ?
+	Parameter333333„?"
+Jdk -> InternalöôôôôôÈ?(11a78b5e664b137433b6715cda5be37cf3e20b3c" *
+Move And Rename Method*
+Change Parameter Type*
+Change Variable Type*
+Extract Method*
+Change Attribute Type*
+Rename Parameter2	B	
+UpdatedB
+AddedB	
+Removed
+Å
+î
+
+
+spark.Route(
+&
+"java.lang.reflect.AccessibleObject"private*L
+
+
+spark.Route(
+&
+"java.lang.reflect.AccessibleObjectUpdate Simple2spark.RouteImpl:delegateBdelegateJ∆
+return this.delegate;
+return this.delegate;
+*áhttps://github.com/perwendel/spark/commit/ad53cd7fd0fa4d2c69211946635786d6bef88787?diff=split#diff-1745a98afeafac74112410cf601bb95aR1432áhttps://github.com/perwendel/spark/commit/ad53cd7fd0fa4d2c69211946635786d6bef88787?diff=split#diff-1745a98afeafac74112410cf601bb95aL143RÜhttps://github.com/perwendel/spark/commit/ad53cd7fd0fa4d2c69211946635786d6bef88787?diff=split#diff-1745a98afeafac74112410cf601bb95aL33ZÜhttps://github.com/perwendel/spark/commit/ad53cd7fd0fa4d2c69211946635786d6bef88787?diff=split#diff-1745a98afeafac74112410cf601bb95aR33
+é
+
+
+spark.Route(
+&
+"java.lang.reflect.AccessibleObject"	protected*L
+
+
+spark.Route(
+&
+"java.lang.reflect.AccessibleObjectUpdate Simple2spark.RouteImpl:routeBrouteJ¬
+this.delegate=route;
+this.delegate=route;
+*Ühttps://github.com/perwendel/spark/commit/ad53cd7fd0fa4d2c69211946635786d6bef88787?diff=split#diff-1745a98afeafac74112410cf601bb95aR952Ühttps://github.com/perwendel/spark/commit/ad53cd7fd0fa4d2c69211946635786d6bef88787?diff=split#diff-1745a98afeafac74112410cf601bb95aL95RÜhttps://github.com/perwendel/spark/commit/ad53cd7fd0fa4d2c69211946635786d6bef88787?diff=split#diff-1745a98afeafac74112410cf601bb95aL93ZÜhttps://github.com/perwendel/spark/commit/ad53cd7fd0fa4d2c69211946635786d6bef88787?diff=split#diff-1745a98afeafac74112410cf601bb95aR93
+
+spark.Route(
+&
+"java.lang.reflect.AccessibleObject :NO_RELATIONPrà
+
+private      ?
+
+	protected      ?
+Update Simple      ‡?
+Field      ?
+	ParameterÖÎQ∏’?"
+Internal -> Jdk      ‡?(ad53cd7fd0fa4d2c69211946635786d6bef88787" *
+Change Parameter Type*
+Change Attribute Type2B	
+UpdatedB
+AddedB	
+Removed
+¸
+⁄
+
+
+java.lang.ClassLoader
+
+
+void"	protected*J
+
+
+java.lang.ClassLoader
+
+
+voidReplace Simple with Primitive2 spark.StaticFilesFromArchiveTest:getClassLoaderBsetupClassLoaderRÜhttps://github.com/perwendel/spark/commit/edc3816a5b5baf01522aa57c15d9911ee9d6673d?diff=split#diff-6ac4ea3b0fac875cd808bd093f39a796L62ZÜhttps://github.com/perwendel/spark/commit/edc3816a5b5baf01522aa57c15d9911ee9d6673d?diff=split#diff-6ac4ea3b0fac875cd808bd093f39a796R70
+
+java.lang.ClassLoader
+
+
+void J PXrj
+
+	protected      ?(
+Replace Simple with Primitive      ‡?
+Return      ?"
+
+Jdk -> Jdk      ‡?
+œ
+´
+
+
+java.net.URL
+
+java.lang.ClassLoader"Block*@
+
+
+java.net.URL
+
+java.lang.ClassLoaderUpdate Simple2 spark.StaticFilesFromArchiveTest:	publicJarBextendedClassLoaderJÿ
+#urls[parentURLs.length]=publicJar;
+!classLoader=extendedClassLoader;
+"/
+	publicJarextendedClassLoaderVARIABLE_NAME"K
+urls[parentURLs.length]classLoader#VARIABLE_REPLACED_WITH_ARRAY_ACCESS*Ühttps://github.com/perwendel/spark/commit/edc3816a5b5baf01522aa57c15d9911ee9d6673d?diff=split#diff-6ac4ea3b0fac875cd808bd093f39a796R742Ühttps://github.com/perwendel/spark/commit/edc3816a5b5baf01522aa57c15d9911ee9d6673d?diff=split#diff-6ac4ea3b0fac875cd808bd093f39a796L67RÜhttps://github.com/perwendel/spark/commit/edc3816a5b5baf01522aa57c15d9911ee9d6673d?diff=split#diff-6ac4ea3b0fac875cd808bd093f39a796L66ZÜhttps://github.com/perwendel/spark/commit/edc3816a5b5baf01522aa57c15d9911ee9d6673d?diff=split#diff-6ac4ea3b0fac875cd808bd093f39a796R71
+
+java.net.URL
+
+java.lang.ClassLoader :NO_RELATIONPr]
+
+BlockÖÎQ∏’?
+Update Simple      ?
+LocalVariableÖÎQ∏’?"
+
+Jdk -> JdkÖÎQ∏’?(edc3816a5b5baf01522aa57c15d9911ee9d6673d" *
+Rename Method*
+Rename Variable*
+Change Return Type*
+Change Variable Type*
+Extract Method2B	
+UpdatedB
+AddedB	
+Removed
+Ï"
+±
+ü
+R
+ofL
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreatorÜ
+9
+of3
+1
+-org.eclipse.jetty.http.pathmap.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreator"Block*“
+ü
+R
+ofL
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreatorÜ
+9
+of3
+1
+-org.eclipse.jetty.http.pathmap.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreatorUpdate Container"í
+L
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResource3
+1
+-org.eclipse.jetty.http.pathmap.MappedResourceUpdate Simple2Nspark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest:mappedResourceBmappedResourceJî
+~WebSocketCreatorFactory.SparkWebSocketCreator sc=(WebSocketCreatorFactory.SparkWebSocketCreator)mappedResource.getResource();
+~WebSocketCreatorFactory.SparkWebSocketCreator sc=(WebSocketCreatorFactory.SparkWebSocketCreator)mappedResource.getResource();
+*Ühttps://github.com/perwendel/spark/commit/623b76c81f8c3b2816374d46ca19424598541761?diff=split#diff-93668ed6271350efde679df4cc72442fR832Ühttps://github.com/perwendel/spark/commit/623b76c81f8c3b2816374d46ca19424598541761?diff=split#diff-93668ed6271350efde679df4cc72442fL83Jå
+:PathSpec pathSpec=(PathSpec)mappedResource.getPathSpec();
+:PathSpec pathSpec=(PathSpec)mappedResource.getPathSpec();
+*Ühttps://github.com/perwendel/spark/commit/623b76c81f8c3b2816374d46ca19424598541761?diff=split#diff-93668ed6271350efde679df4cc72442fR842Ühttps://github.com/perwendel/spark/commit/623b76c81f8c3b2816374d46ca19424598541761?diff=split#diff-93668ed6271350efde679df4cc72442fL84RÜhttps://github.com/perwendel/spark/commit/623b76c81f8c3b2816374d46ca19424598541761?diff=split#diff-93668ed6271350efde679df4cc72442fL82ZÜhttps://github.com/perwendel/spark/commit/623b76c81f8c3b2816374d46ca19424598541761?diff=split#diff-93668ed6271350efde679df4cc72442fR82
+±
+ü
+R
+ofL
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreatorÜ
+9
+of3
+1
+-org.eclipse.jetty.http.pathmap.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreator"Block*“
+ü
+R
+ofL
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreatorÜ
+9
+of3
+1
+-org.eclipse.jetty.http.pathmap.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreatorUpdate Container"í
+L
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResource3
+1
+-org.eclipse.jetty.http.pathmap.MappedResourceUpdate Simple2Nspark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest:mappedResourceBmappedResourceJî
+~WebSocketCreatorFactory.SparkWebSocketCreator sc=(WebSocketCreatorFactory.SparkWebSocketCreator)mappedResource.getResource();
+~WebSocketCreatorFactory.SparkWebSocketCreator sc=(WebSocketCreatorFactory.SparkWebSocketCreator)mappedResource.getResource();
+*Ühttps://github.com/perwendel/spark/commit/623b76c81f8c3b2816374d46ca19424598541761?diff=split#diff-93668ed6271350efde679df4cc72442fR512Ühttps://github.com/perwendel/spark/commit/623b76c81f8c3b2816374d46ca19424598541761?diff=split#diff-93668ed6271350efde679df4cc72442fL51Jå
+:PathSpec pathSpec=(PathSpec)mappedResource.getPathSpec();
+:PathSpec pathSpec=(PathSpec)mappedResource.getPathSpec();
+*Ühttps://github.com/perwendel/spark/commit/623b76c81f8c3b2816374d46ca19424598541761?diff=split#diff-93668ed6271350efde679df4cc72442fR522Ühttps://github.com/perwendel/spark/commit/623b76c81f8c3b2816374d46ca19424598541761?diff=split#diff-93668ed6271350efde679df4cc72442fL52RÜhttps://github.com/perwendel/spark/commit/623b76c81f8c3b2816374d46ca19424598541761?diff=split#diff-93668ed6271350efde679df4cc72442fL50ZÜhttps://github.com/perwendel/spark/commit/623b76c81f8c3b2816374d46ca19424598541761?diff=split#diff-93668ed6271350efde679df4cc72442fR50L
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResource3
+1
+-org.eclipse.jetty.http.pathmap.MappedResource (:NO_RELATIONPXrj
+
+Block      ?
+Update Container      ?
+LocalVariable      ?"
+DontKnow -> DontKnow      ?(623b76c81f8c3b2816374d46ca19424598541761" *
+Change Variable Type2B	
+UpdatedB
+AddedB	
+RemovedJa
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResourceProject Level Migration
+”
+™
+
+
+
+void
+
+spark.HaltException"public*H
+
+
+
+void
+
+spark.HaltExceptionReplace Primitive with Simple2spark.Spark:haltBhaltRáhttps://github.com/perwendel/spark/commit/e7713b50dd43bf0432d08f1ad9495e88491b32cc?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L884Záhttps://github.com/perwendel/spark/commit/e7713b50dd43bf0432d08f1ad9495e88491b32cc?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R884
+™
+
+
+
+void
+
+spark.HaltException"public*H
+
+
+
+void
+
+spark.HaltExceptionReplace Primitive with Simple2spark.Spark:haltBhaltRáhttps://github.com/perwendel/spark/commit/e7713b50dd43bf0432d08f1ad9495e88491b32cc?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L895Záhttps://github.com/perwendel/spark/commit/e7713b50dd43bf0432d08f1ad9495e88491b32cc?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R895
+™
+
+
+
+void
+
+spark.HaltException"public*H
+
+
+
+void
+
+spark.HaltExceptionReplace Primitive with Simple2spark.Spark:haltBhaltRáhttps://github.com/perwendel/spark/commit/e7713b50dd43bf0432d08f1ad9495e88491b32cc?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L873Záhttps://github.com/perwendel/spark/commit/e7713b50dd43bf0432d08f1ad9495e88491b32cc?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R873
+™
+
+
+
+void
+
+spark.HaltException"public*H
+
+
+
+void
+
+spark.HaltExceptionReplace Primitive with Simple2spark.Spark:haltBhaltRáhttps://github.com/perwendel/spark/commit/e7713b50dd43bf0432d08f1ad9495e88491b32cc?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L907Záhttps://github.com/perwendel/spark/commit/e7713b50dd43bf0432d08f1ad9495e88491b32cc?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R907
+
+
+void
+
+spark.HaltException (J Prl
+
+publicöôôôôô©?(
+Replace Primitive with Simpleöôôôôô©?
+Returnöôôôôô©?"
+Jdk -> Internalöôôôôô©?(e7713b50dd43bf0432d08f1ad9495e88491b32cc" *
+Change Return Type2B	
+UpdatedB
+AddedB	
+Removed
+ûF
+π
+&
+$
+ java.lang.IllegalAccessException	
+
+T "Block*B
+&
+$
+ java.lang.IllegalAccessException	
+
+T Update Simple2spark.Service:	exceptionB	exceptionRáhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-f610f83c31d4974a3f708eace7469c9eL547Záhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR547
+’	
+e
+
+of
+
+java.lang.ClassB
+Param:07
+1
+extends&
+$
+ java.lang.IllegalAccessExceptionH
+
+of
+
+java.lang.Class%
+Param:0
+
+extends	
+
+T "public*ˆ
+e
+
+of
+
+java.lang.ClassB
+Param:07
+1
+extends&
+$
+ java.lang.IllegalAccessExceptionH
+
+of
+
+java.lang.Class%
+Param:0
+
+extends	
+
+T Update Type Parameters"™
+7
+1
+extends&
+$
+ java.lang.IllegalAccessException
+
+extends	
+
+T Update WildCard"B
+&
+$
+ java.lang.IllegalAccessException	
+
+T Update Simple2spark.ExceptionHandlerImpl:exceptionClassBexceptionClassJ–
+return this.exceptionClass;
+return this.exceptionClass;
+*Ühttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3R412Ühttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3L40RÜhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3L39ZÜhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3R40
+ø	
+e
+
+of
+
+java.lang.ClassB
+Param:07
+1
+extends&
+$
+ java.lang.IllegalAccessException7
+
+of
+
+java.lang.Class
+Param:0	
+
+T "public*·
+e
+
+of
+
+java.lang.ClassB
+Param:07
+1
+extends&
+$
+ java.lang.IllegalAccessException7
+
+of
+
+java.lang.Class
+Param:0	
+
+T Update Type Parameters"¶
+7
+1
+extends&
+$
+ java.lang.IllegalAccessException	
+
+T Replace WildCard with Simple"B
+&
+$
+ java.lang.IllegalAccessException	
+
+T Update Simple2spark.ExceptionHandlerImpl:exceptionClassBexceptionClassJ‡
+$this.exceptionClass=exceptionClass;
+$this.exceptionClass=exceptionClass;
+*Ühttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3R322Ühttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3L31RÜhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3L30ZÜhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3R31
+Å
+e
+
+of
+
+java.lang.ClassB
+Param:07
+1
+extends&
+$
+ java.lang.IllegalAccessException7
+
+of
+
+java.lang.Class
+Param:0	
+
+T "public*·
+e
+
+of
+
+java.lang.ClassB
+Param:07
+1
+extends&
+$
+ java.lang.IllegalAccessException7
+
+of
+
+java.lang.Class
+Param:0	
+
+T Update Type Parameters"¶
+7
+1
+extends&
+$
+ java.lang.IllegalAccessException	
+
+T Replace WildCard with Simple"B
+&
+$
+ java.lang.IllegalAccessException	
+
+T Update Simple2spark.Service:exceptionClassBexceptionClassJê
+;ExceptionMapper.getInstance().map(exceptionClass,wrapper);
+;ExceptionMapper.getInstance().map(exceptionClass,wrapper);
+*áhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR5522áhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-f610f83c31d4974a3f708eace7469c9eL552Jö
+‹ExceptionHandlerImpl wrapper=new ExceptionHandlerImpl(exceptionClass){
+  @Override public void handle(  Exception exception,  Request request,  Response response){
+    handler.handle(exception,request,response);
+  }
+}
+;
+◊ExceptionHandlerImpl wrapper=new ExceptionHandlerImpl<T>(exceptionClass){
+  @Override public void handle(  T exception,  Request request,  Response response){
+    handler.handle(exception,request,response);
+  }
+}
+;
+"
+	ExceptionTTYPE"5
+ExceptionHandlerImplExceptionHandlerImpl<T>TYPE*áhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR5452áhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-f610f83c31d4974a3f708eace7469c9eL545Ráhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-f610f83c31d4974a3f708eace7469c9eL543Záhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-f610f83c31d4974a3f708eace7469c9eR543
+Œ	
+e
+
+of
+
+java.lang.ClassB
+Param:07
+1
+extends&
+$
+ java.lang.IllegalAccessException7
+
+of
+
+java.lang.Class
+Param:0	
+
+T "public*·
+e
+
+of
+
+java.lang.ClassB
+Param:07
+1
+extends&
+$
+ java.lang.IllegalAccessException7
+
+of
+
+java.lang.Class
+Param:0	
+
+T Update Type Parameters"¶
+7
+1
+extends&
+$
+ java.lang.IllegalAccessException	
+
+T Replace WildCard with Simple"B
+&
+$
+ java.lang.IllegalAccessException	
+
+T Update Simple2spark.Spark:exceptionClassBexceptionClassJ¸
+1getInstance().exception(exceptionClass,handler);
+1getInstance().exception(exceptionClass,handler);
+*áhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R8832áhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L883Ráhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L882Záhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R882
+÷	
+e
+
+of
+
+java.lang.ClassB
+Param:07
+1
+extends&
+$
+ java.lang.IllegalAccessExceptionH
+
+of
+
+java.lang.Class%
+Param:0
+
+extends	
+
+T "	protected*ˆ
+e
+
+of
+
+java.lang.ClassB
+Param:07
+1
+extends&
+$
+ java.lang.IllegalAccessExceptionH
+
+of
+
+java.lang.Class%
+Param:0
+
+extends	
+
+T Update Type Parameters"™
+7
+1
+extends&
+$
+ java.lang.IllegalAccessException
+
+extends	
+
+T Update WildCard"B
+&
+$
+ java.lang.IllegalAccessException	
+
+T Update Simple2spark.ExceptionHandlerImpl:exceptionClassBexceptionClassJ–
+return this.exceptionClass;
+return this.exceptionClass;
+*Ühttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3R412Ühttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3L40RÜhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3L23ZÜhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3R24
+Â	
+e
+
+of
+
+java.lang.ClassB
+Param:07
+1
+extends&
+$
+ java.lang.IllegalAccessExceptionH
+
+of
+
+java.lang.Class%
+Param:0
+
+extends	
+
+T "public*ˆ
+e
+
+of
+
+java.lang.ClassB
+Param:07
+1
+extends&
+$
+ java.lang.IllegalAccessExceptionH
+
+of
+
+java.lang.Class%
+Param:0
+
+extends	
+
+T Update Type Parameters"™
+7
+1
+extends&
+$
+ java.lang.IllegalAccessException
+
+extends	
+
+T Update WildCard"B
+&
+$
+ java.lang.IllegalAccessException	
+
+T Update Simple2spark.ExceptionHandlerImpl:exceptionClassBexceptionClassJ‡
+$this.exceptionClass=exceptionClass;
+$this.exceptionClass=exceptionClass;
+*Ühttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3R502Ühttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3L49RÜhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3L48ZÜhttps://github.com/perwendel/spark/commit/5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074?diff=split#diff-53051d9f0f8339b4abe04bc5673c97c3R49&
+$
+ java.lang.IllegalAccessException	
+
+T  :NO_RELATIONrÌ
+
+	protected      ?
+
+publicÏQ∏ÖÎ·?
+
+Block      ‡?!
+Update Type Parametersq=
+◊£pÂ?
+Update Simple      –?
+Field      ‡?
+Return      ?
+LocalVariable      ‡?
+	Parameter      ‡?"
+Jdk -> TypeVariableH·zÆG·?(5755cf96d1689e1eda7dd2d7e03f1eff3bf5a074" *
+Change Parameter Type*
+Change Return Type*
+Change Variable Type*
+Change Attribute Type2B	
+UpdatedB
+AddedB	
+Removed
+ö
+«
+ü
+R
+ofL
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreatorÜ
+9
+of3
+1
+-org.eclipse.jetty.http.pathmap.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreator"Block*“
+ü
+R
+ofL
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreatorÜ
+9
+of3
+1
+-org.eclipse.jetty.http.pathmap.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreatorUpdate Container"í
+L
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResource3
+1
+-org.eclipse.jetty.http.pathmap.MappedResourceUpdate Simple2Nspark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest:mappedResourceBmappedResourceJπ
+~WebSocketCreatorFactory.SparkWebSocketCreator sc=(WebSocketCreatorFactory.SparkWebSocketCreator)mappedResource.getResource();
+0PathSpec pathSpec=mappedResource.getPathSpec();
+"?
+-WebSocketCreatorFactory.SparkWebSocketCreatorPathSpecTYPE"2
+getResourcegetPathSpecMETHOD_INVOCATION_NAME*Ühttps://github.com/perwendel/spark/commit/7e20e1c49c5d0eb1e13fbf8161ec934c3915c498?diff=split#diff-93668ed6271350efde679df4cc72442fR612Ühttps://github.com/perwendel/spark/commit/7e20e1c49c5d0eb1e13fbf8161ec934c3915c498?diff=split#diff-93668ed6271350efde679df4cc72442fL51RÜhttps://github.com/perwendel/spark/commit/7e20e1c49c5d0eb1e13fbf8161ec934c3915c498?diff=split#diff-93668ed6271350efde679df4cc72442fL50ZÜhttps://github.com/perwendel/spark/commit/7e20e1c49c5d0eb1e13fbf8161ec934c3915c498?diff=split#diff-93668ed6271350efde679df4cc72442fR60
+…
+ü
+R
+ofL
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreatorÜ
+9
+of3
+1
+-org.eclipse.jetty.http.pathmap.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreator"Block*“
+ü
+R
+ofL
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreatorÜ
+9
+of3
+1
+-org.eclipse.jetty.http.pathmap.MappedResourceE
+Param:0:
+8
+4org.eclipse.jetty.websocket.servlet.WebSocketCreatorUpdate Container"í
+L
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResource3
+1
+-org.eclipse.jetty.http.pathmap.MappedResourceUpdate Simple2Nspark.embeddedserver.jetty.websocket.WebSocketServletContextHandlerFactoryTest:mappedResourceBmappedResourceJ∫
+~WebSocketCreatorFactory.SparkWebSocketCreator sc=(WebSocketCreatorFactory.SparkWebSocketCreator)mappedResource.getResource();
+0PathSpec pathSpec=mappedResource.getPathSpec();
+"?
+-WebSocketCreatorFactory.SparkWebSocketCreatorPathSpecTYPE"2
+getResourcegetPathSpecMETHOD_INVOCATION_NAME*áhttps://github.com/perwendel/spark/commit/7e20e1c49c5d0eb1e13fbf8161ec934c3915c498?diff=split#diff-93668ed6271350efde679df4cc72442fR1012Ühttps://github.com/perwendel/spark/commit/7e20e1c49c5d0eb1e13fbf8161ec934c3915c498?diff=split#diff-93668ed6271350efde679df4cc72442fL83RÜhttps://github.com/perwendel/spark/commit/7e20e1c49c5d0eb1e13fbf8161ec934c3915c498?diff=split#diff-93668ed6271350efde679df4cc72442fL82Záhttps://github.com/perwendel/spark/commit/7e20e1c49c5d0eb1e13fbf8161ec934c3915c498?diff=split#diff-93668ed6271350efde679df4cc72442fR100L
+J
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResource3
+1
+-org.eclipse.jetty.http.pathmap.MappedResource (:NO_RELATIONPXrj
+
+Block      ?
+Update Container      ?
+LocalVariable      ?"
+DontKnow -> DontKnow      ?(7e20e1c49c5d0eb1e13fbf8161ec934c3915c498" *
+Change Variable Type2B	
+UpdatedB
+AddedB	
+RemovedJa
+Forg.eclipse.jetty.websocket.server.pathmap.PathMappings.MappedResourceProject Level Migration
+π2
+·
+w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject"public*æ
+w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObjectUnWrap Parameterized Type2spark.ModelAndView:modelBmodelJº
+this.model=model;
+this.model=model;
+*Ühttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505R442Ühttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505L45RÜhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505L44ZÜhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505R42
+ê
+w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject"public*æ
+w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObjectUnWrap Parameterized Type2spark.Spark:modelBmodelJÓ
+)return new ModelAndView(model,viewName);
+)return new ModelAndView(model,viewName);
+*àhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R11972àhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L1198Ràhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658L1197Zàhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-516a69b4389ab05d06cb3a9490d6e658R1196
+ò
+w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject"public*æ
+w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObjectUnWrap Parameterized Type2spark.TemplateViewRouteImpl:modelBmodelJÍ
+)return new ModelAndView(model,viewName);
+)return new ModelAndView(model,viewName);
+*Ühttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698R972Ühttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698L99RÜhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698L98ZÜhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-8dd8722b1a87649b19f0c0813aa41698R96
+ﬂ
+w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject"public*æ
+w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObjectUnWrap Parameterized Type2spark.ModelAndView:getModelBgetModelJ¥
+return model;
+return model;
+*Ühttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505R522Ühttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505L53RÜhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505L52ZÜhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505R51
+ë
+w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject"public*æ
+w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObjectUnWrap Parameterized Type2spark.TemplateEngine:modelBmodelJÍ
+)return new ModelAndView(model,viewName);
+)return new ModelAndView(model,viewName);
+*Ühttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-77d7f51b147a96ae968a09d4d88bc195R322Ühttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-77d7f51b147a96ae968a09d4d88bc195L34RÜhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-77d7f51b147a96ae968a09d4d88bc195L33ZÜhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-77d7f51b147a96ae968a09d4d88bc195R31
+ÿ
+w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject"private*æ
+w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObjectUnWrap Parameterized Type2spark.ModelAndView:modelBmodelJ¥
+return model;
+return model;
+*Ühttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505R522Ühttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505L53RÜhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505L32ZÜhttps://github.com/perwendel/spark/commit/e61dc60f4baf958135157e7087edef66adfd09f8?diff=split#diff-38a5f8ec9c2f677bd2c8a6cce3998505R30w
+
+of
+
+java.util.Map3
+Param:1(
+&
+"java.lang.reflect.AccessibleObject!
+Param:0
+
+java.lang.String(
+&
+"java.lang.reflect.AccessibleObject :NO_RELATIONPrü
+
+private      ‡?
+
+public{ÆG·z§?$
+UnWrap Parameterized Type      ?
+Field      ‡?
+Return√ı(\è¬≈?
+	Parameter∏ÖÎQ∏û?"
+
+Jdk -> Jdk{ÆG·z§?(e61dc60f4baf958135157e7087edef66adfd09f8" *
+Change Parameter Type*
+Change Return Type*
+Change Attribute Type2B	
+UpdatedB
+AddedB	
+Removed

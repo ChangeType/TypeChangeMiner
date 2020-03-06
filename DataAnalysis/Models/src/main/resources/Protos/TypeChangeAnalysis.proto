@@ -1,0 +1,87 @@
+syntax = "proto3";
+
+
+import "TypeGraph.proto";
+import "NameSpace.proto";
+import "TypeSem.proto";
+import "ElementKind.proto";
+//import "CodeStatistics.proto";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+// This is a Type Changes grouped by the real type change performed
+// TypeChange instance List<Integer> To Set<Long> will be contained in a group for List to Set and Integer to Long
+message TypeChangeAnalysis {
+
+    TypeGraph b4 = 2; // The b4 type of the group
+    TypeGraph aftr = 3; // After type of the group
+
+    repeated TypeChangeInstance typeChangeInstances = 1;
+    NameSpace nameSpacesB4 = 4; // Internal -> External ....
+    NameSpace nameSpaceAfter = 10;
+    TypeSem typeSemb4 = 5; // Object -> Enum, Object -> Object ...
+    TypeSem typeSemAftr = 11;
+    bool withinSamePackage = 6;
+
+    string hierarchyRelation = 7;
+    bool b4ComposesAfter = 8;
+
+    PrimitiveAnalysis primitiveInfo = 9;
+
+    TypeChangeStatistics typeChangeStats = 14;
+
+
+    message TypeChangeInstance {
+        TypeGraph b4 = 1;
+        TypeGraph aftr = 2;
+        string nameB4 = 7;
+        string nameAfter = 8;
+        ElementKind elementKindAffected = 3;
+        string visibility = 4;
+        SyntacticTransformation syntacticUpdate = 5;
+        string compilationUnit = 6;
+        repeated CodeMapping codeMapping = 9;
+        string urlB4 = 10;
+        string urlAfter =11;
+    }
+
+    // Contains the real type changes
+    message SyntacticTransformation {
+        TypeGraph b4 = 1;
+        TypeGraph aftr = 2;
+        string transformation = 3;
+        repeated SyntacticTransformation subTransformations = 4;
+    }
+
+    message PrimitiveAnalysis {
+        bool widening = 1;
+        bool narrowing = 2;
+        bool unboxing = 3;
+        bool boxing = 4;
+    }
+
+    message CodeMapping {
+        bool isSame = 3;
+        string b4 = 1;
+        string after = 2;
+        repeated ReplacementInferred replcementInferred = 4;
+        string urlbB4 = 6;
+        string urlAftr = 5;
+    }
+
+    message ReplacementInferred {
+        string b4 = 1;
+        string aftr = 2;
+        string replacementType =3;
+    }
+
+
+    message TypeChangeStatistics{
+        map<string, double> visibilityStats = 1;
+        map<string, double> transformationStats = 2;
+        map<string, double> elementKindStats = 3;
+        map<string, double> nameSpaceStats = 4;
+    }
+
+
+}

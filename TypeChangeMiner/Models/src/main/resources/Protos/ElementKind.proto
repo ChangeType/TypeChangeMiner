@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+enum ElementKind {
+   Field =0;
+   LocalVariable = 2;
+   Parameter = 3;
+   Return = 4;
+}

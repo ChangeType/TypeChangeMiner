@@ -1,0 +1,10 @@
+com.github.gumtreediff.client.List
+com.github.gumtreediff.client.Serializer
+com.github.gumtreediff.client.diff.AbstractDiffClient
+com.github.gumtreediff.client.diff.AnnotatedXmlDiff
+com.github.gumtreediff.client.diff.ClusterDiff
+com.github.gumtreediff.client.diff.JsonDiff
+com.github.gumtreediff.client.diff.TextDiff
+com.github.gumtreediff.client.diff.dot.DotDiff
+com.github.gumtreediff.client.diff.swing.SwingDiff
+com.github.gumtreediff.client.diff.web.WebDiff

@@ -1,0 +1,92 @@
+syntax = "proto2";
+
+package Models;
+
+import "TypeGraph.proto";
+import "TypeNode.proto";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+message TypeChngAnalysis {
+   required TypeGraph b4 = 1;
+   required TypeGraph aftr = 2;
+   repeated TypeKindsAffected typeKindsAffected = 3;
+   optional int32 noOfChanges = 6;
+   repeated string elemtnKindsAffected = 7;
+   repeated string cusAffected = 5;
+   optional TypeRelationshipAnalysis typeRelationshipAnalysis = 4;
+   optional AppliedSpaceAnalysis appliedSpaceAnalysis = 9;
+   optional NameSpaceAnalysis nameSpaceAnalysis = 10;
+
+   message TypeRelationshipAnalysis {
+      optional bool TisSubTypeR = 3;
+      optional bool TisSuperTypeR = 1;
+      optional string TRcommonSuperType = 2;
+      optional bool TcomposesR = 4;
+      optional bool RcomposesT = 5;
+      optional bool TnestsR = 6;
+      optional bool RnestsT = 7;
+      optional double packageNameMatchScore = 8;
+   }
+
+   message AppliedSpaceAnalysis {
+      required bool isTypeMigrationProjectLevel = 2;
+      required bool isTypeMigrationPackageLevel = 3;
+      required bool isTypeMigrationCuLevel = 4;
+      required bool isTypeMigrationTypeLevel = 5;
+      required bool isMethodLEvelMigration = 6;
+      required bool cannotBeMigrated = 7;
+      required bool isB4Removed = 8;
+   }
+
+   message TypeKindsAffected {
+
+
+      oneof affect{
+         Replaced replaced = 1;
+         Updated upd = 2;
+         string add =3;
+         string removed = 4;
+      }
+
+      message Replaced{
+         required string b4 =1;
+         required string aftr = 2;
+      }
+      message Updated{
+         required string elemKind = 1;
+         optional string navigate = 2;
+      }
+   }
+
+   message NameSpaceAnalysis{
+      required string b4 = 1;
+      required string aftr = 2;
+   }
+
+
+   message SyntacticTypeChange {
+      required TypeGraph b4 = 7;
+      required TypeGraph aftr = 8;
+      map<string,ChangeAxn> syntypchng= 1;
+
+      message ChangeAxn {
+         oneof axn{
+            ReplaceGraph rg = 1;
+            AddGraph ag = 2;
+            RemoveGraph rmg = 3;
+         }
+      }
+      message ReplaceGraph {
+         required TypeGraph from = 3;
+         required TypeGraph to = 4;
+      }
+      message AddGraph {
+         required TypeGraph added = 1;
+      }
+      message RemoveGraph {
+         required TypeGraph added = 1;
+      }
+
+   }
+}

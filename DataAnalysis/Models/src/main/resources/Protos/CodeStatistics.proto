@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+import "TypeGraph.proto";
+//import "NameSpace.proto";
+import "ElementKind.proto";
+
+option java_package = "com.t2r.common.models.refactorings";
+
+message CodeStatistics{
+   repeated Element elements = 1;
+   message Element {
+      TypeGraph type = 2;
+      string typeKind = 7;
+      string visibility = 3;
+      ElementKind elemKind = 6;
+   }
+}

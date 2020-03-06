@@ -1,0 +1,43 @@
+syntax = "proto2";
+
+package Models;
+
+option java_package = "com.t2r.common.models.ast";
+
+message TypeNode {
+   optional string name = 1;
+   repeated string annotations = 4;
+   required TypeKind kind = 2;
+   optional NameSpace namespacee = 3;
+   optional TypeSem typeSem = 5;
+
+   enum TypeKind {
+      Simple = 1;
+      Parameterized = 2;
+      WildCard = 3;
+      Union = 4;
+      Primitive = 5;
+      Intersection = 6;
+      Array = 7;
+   }
+   enum NameSpace {
+      TypeVariable  = 1;
+      Jdk = 2;
+      External = 3;
+      Internal = 4;
+      DontKnow = 5;
+   }
+
+   enum TypeSem {
+      Object =1;
+      Enum = 2;
+      PrimitiveType = 3;
+   }
+}
+
+//protoc --proto_path=C:\RefDiff\refdiff-core\resources --java_out=C:\RefDiff\refdiff-core\  C:\RefDiff\refdiff-core\resources\*
+// protoc --proto_path=D:\MyProjects\RefactoringMiner\src\Protos --java_out=D:\MyProjects\RefactoringMiner\src\  D:\MyProjects\RefactoringMiner\src\Protos\*
+//protoc -I=/Users/ameya/RefactoringMiner/src/Protos --java_out=/Users/ameya/RefactoringMiner/src/ /Users/ameya/RefactoringMiner/src/Protos/*
+//protoc -I=/Users/ameya/TypeChangeStudy/Models/src/main/resources/Protos --java_out=/Users/ameya/TypeChangeStudy/Models/src/main/java/ /Users/ameya/TypeChangeStudy/Models/src/main/resources/Protos/*
+// protoc -I=/Users/ameya/TypeChangeStudy/SimpleTypeChangeMiner/Models/src/main/resources/Protos --java_out=/Users/ameya/TypeChangeStudy/SimpleTypeChangeMiner/Models/src/main/java/ /Users/ameya/TypeChangeStudy/SimpleTypeChangeMiner/Models/src/main/resources/Protos/*
+//protoc -I=/Users/ameya/TypeChangeStudy/SimpleTypeChangeMiner/Models/src/main/resources/Protos --python_out=/Users/ameya/TypeChangeStudy/SimpleTypeChangeMiner/Models/ /Users/ameya/TypeChangeStudy/SimpleTypeChangeMiner/Models/src/main/resources/Protos/*

@@ -1,0 +1,2193 @@
+
+
+junit4.12junit"
+
+junit4.12junit*(baca7e36c397928dddab2694d2a95f0e32526322
+
+junit4.12junit*(8cca1b7b7964f5db35a0f2f0f7aeaf4e465414f4@
+
+junit4.12junit*(4d9a9cb8445f5c7a94b7a486c77ca626f39682d1@
+
+junit4.12junit*(8938944dbbc5d83095640360ac214c4d5bc39142@
+
+junit4.12junit*(fc1aadfe3c6bf3e05983ffe8b148e1b11b8cfce4@
+
+junit4.12junit*(3e3fc5e438fe47ffde5405a7b1288766a07c030a@
+
+junit4.12junit*(3dbc16370d9797e4f15f8dfef67b79f1533daf36@
+
+junit4.12junit*(c9d533d746b49fe511237e4fcf8dab957cb401b3@	
+
+junit4.12junit*(280b7ed08bfa002ed1efcc1f321349e94c220410@
+
+
+junit4.12junit*(bf4d8fcd2a943a1c91e2a1c8bbb120cd481c55f5@
+
+junit4.12junit*(d42dbc56edcc2fe47324e8e830a38b0133fafe06@
+
+junit4.12junit*(841f6af1944e3dbfc97cbddf580d9de63dbdf496@
+
+junit4.12junit*(b1727a0053251e31599adbefa73deede5e23bf81@
+
+junit4.12junit*(4b5b3b362a01695fb9c03f7d6a03eb236904a240@
+
+junit4.12junit*(71c5ce333e73490fcf606970f32bb81ab7abc0e9@
+
+junit4.12junit*(0022b5638176ac0bf972a2d7371760602ea2222d@
+
+junit4.12junit*(b4f36a3b2397726506ca9b8f843a171c12da164f@
+
+junit4.12junit*(c0fa78f1958fe3cefa64a6262a800b153ff1b48f@
+
+junit4.12junit*(a2ba4961ca8d098733943f1723f13636c19843e9@
+
+junit4.12junit*(3d41a2eb578060a21fde16f6ede88839f10ea7e6@
+
+junit4.12junitö
+
+®
+ÑChange Attribute Type	lastTarget : Object to lastTarget : ThreadLocal<Object> in class com.jayway.awaitility.core.MethodCallRecorderû
+åhttps://github.com/awaitility/awaitility/commit/53df896f794db264e67e495b3cf62c341e98d5c5?diff=split#diff-5a854faaa7c330a4260023e98b05df79L30åhttps://github.com/awaitility/awaitility/commit/53df896f794db264e67e495b3cf62c341e98d5c5?diff=split#diff-5a854faaa7c330a4260023e98b05df79R30
+®
+ÑChange Attribute Type	lastMethod : Method to lastMethod : ThreadLocal<Method> in class com.jayway.awaitility.core.MethodCallRecorderû
+åhttps://github.com/awaitility/awaitility/commit/53df896f794db264e67e495b3cf62c341e98d5c5?diff=split#diff-5a854faaa7c330a4260023e98b05df79L31åhttps://github.com/awaitility/awaitility/commit/53df896f794db264e67e495b3cf62c341e98d5c5?diff=split#diff-5a854faaa7c330a4260023e98b05df79R31
+®
+ÑChange Attribute Type	lastArgs : Object[] to lastArgs : ThreadLocal<Object[]> in class com.jayway.awaitility.core.MethodCallRecorderû
+åhttps://github.com/awaitility/awaitility/commit/53df896f794db264e67e495b3cf62c341e98d5c5?diff=split#diff-5a854faaa7c330a4260023e98b05df79L32åhttps://github.com/awaitility/awaitility/commit/53df896f794db264e67e495b3cf62c341e98d5c5?diff=split#diff-5a854faaa7c330a4260023e98b05df79R32Change Attribute Type*(53df896f794db264e67e495b3cf62c341e98d5c58@
+
+junit4.12junit*(bd324af8531d6a6d0ee65349587c2024ee87ed05@
+
+junit4.12junit*(68d1d72e3caffb3cb6494bdaecf92be607899d22@
+
+junit4.12junit*(554cbcfee1ce3c1795a2b1fd732416d5f9cbe2f7@
+
+junit4.12junit*(d16c49892e467d15ccf173a8e70d7ad0d53ad601@
+
+junit4.12junit*(0cc9ab17bc5ce8efb8d5fb43b1ec16c26ec0aba0@
+
+junit4.12junit*(4c37e2045a9b840d2f8bed002d778d31c11c44ec@
+
+junit4.12junit*(12763d6024771428d1e365d552464c1f2db9d21e@
+
+junit4.12junitâ
+ı
+œRename Method	public exceptionsDuringEvaluationAreIgnoredWhenDeclaredNonFatal() : void renamed to public exceptionsDuringEvaluationAreIgnoredUponRequest() : void in class com.jayway.awaitility.AwaitilityTest†
+çhttps://github.com/awaitility/awaitility/commit/1f250ba75e38c8e329d7abfa798ce0bdbde97704?diff=split#diff-76613ad5440c937114b1de1f6e951d7bL415çhttps://github.com/awaitility/awaitility/commit/1f250ba75e38c8e329d7abfa798ce0bdbde97704?diff=split#diff-76613ad5440c937114b1de1f6e951d7bR415Rename Method*(1f250ba75e38c8e329d7abfa798ce0bdbde97704@
+
+junit4.12junit*(3c10cedd4aa77bfec5cda36e1bc61590185976bb@ 
+
+junit4.12junit»
+†
+¸Change Parameter Type	ignoreExceptions : boolean to ignoreExceptions : ExceptionIgnorer in method public ConditionSettings(alias String, catchUncaughtExceptions boolean, maxWaitTime Duration, pollInterval Duration, pollDelay Duration, conditionEvaluationListener ConditionEvaluationListener, ignoreExceptions ExceptionIgnorer) in class com.jayway.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bL31åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bR44
+◊
+±Change Parameter Type	ignoreExceptions : boolean to exceptionsIgnorer : ExceptionIgnorer in method public ConditionFactory(timeout Duration, pollInterval Duration, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer) in class com.jayway.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL116çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR126
+ê
+ÍChange Parameter Type	ignoreExceptions : boolean to exceptionsIgnorer : ExceptionIgnorer in method public ConditionFactory(timeout Duration, pollInterval Duration, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener) in class com.jayway.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL130çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR140
+ú
+¯Change Parameter Type	ignoreExceptions : boolean to exceptionsIgnorer : ExceptionIgnorer in method public ConditionFactory(alias String, timeout Duration, pollInterval Duration, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener) in class com.jayway.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL75åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR86Change Parameter Type≈
+≠
+àMove Method	public exceptionsDuringEvaluationAreIgnoredWhenSetAsDefault() : void from class com.jayway.awaitility.AwaitilityTest to public exceptionsDuringEvaluationAreIgnoredWhenSetAsDefault() : void from class com.jayway.awaitility.AwaitilityIgnoreExceptionsTestü
+çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-76613ad5440c937114b1de1f6e951d7bL421åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-55b576c50f0dda3959e768748d54051dR50
+∏
+íMove Method	private conditionsThatIsThrowingAnExceptionForATime() : Callable<Boolean> from class com.jayway.awaitility.AwaitilityTest to private conditionsThatIsThrowingAnExceptionForATime() : Callable<Boolean> from class com.jayway.awaitility.AwaitilityIgnoreExceptionsTest†
+çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-76613ad5440c937114b1de1f6e951d7bL429çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-55b576c50f0dda3959e768748d54051dR110
+£
+˛Move Method	public exceptionsDuringEvaluationAreIgnoredUponRequest() : void from class com.jayway.awaitility.AwaitilityTest to public exceptionsDuringEvaluationAreIgnoredUponRequest() : void from class com.jayway.awaitility.AwaitilityIgnoreExceptionsTestü
+çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-76613ad5440c937114b1de1f6e951d7bL415åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-55b576c50f0dda3959e768748d54051dR32
+¢
+¸Move Method	public exceptionsDuringEvaluationAreReportedByDefault() : void from class com.jayway.awaitility.AwaitilityTest to public exceptionsDuringEvaluationAreReportedByDefault() : void from class com.jayway.awaitility.AwaitilityIgnoreExceptionsTest†
+çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-76613ad5440c937114b1de1f6e951d7bL406çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-55b576c50f0dda3959e768748d54051dR101Move Methodâ
+v
+rExtract Class	com.jayway.awaitility.AwaitilityIgnoreExceptionsTest from class com.jayway.awaitility.AwaitilityTest Extract Classˆ
+∞
+äRename Attribute	defaultIgnoreExceptions : boolean to defaultExceptionIgnorer : ExceptionIgnorer in class com.jayway.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-779c728b99b2820eb10e7808c208d080L130çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-779c728b99b2820eb10e7808c208d080R128
+¨
+àRename Attribute	ignoreExceptions : boolean to exceptionsIgnorer : ExceptionIgnorer in class com.jayway.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL57åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR57Rename Attributeπ
+
+µ
+èChange Attribute Type	defaultIgnoreExceptions : boolean to defaultExceptionIgnorer : ExceptionIgnorer in class com.jayway.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-779c728b99b2820eb10e7808c208d080L130çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-779c728b99b2820eb10e7808c208d080R128
+±
+çChange Attribute Type	ignoreExceptions : boolean to exceptionsIgnorer : ExceptionIgnorer in class com.jayway.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL57åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR57
+±
+çChange Attribute Type	ignoreExceptions : boolean to ignoreExceptions : ExceptionIgnorer in class com.jayway.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bL28åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bR28Change Attribute Typeë
+ã
+ÂRename Parameter	ignoreExceptions : boolean to exceptionsIgnorer : ExceptionIgnorer in method public ConditionFactory(timeout Duration, pollInterval Duration, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener) in class com.jayway.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL140çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR140
+“
+¨Rename Parameter	ignoreExceptions : boolean to exceptionsIgnorer : ExceptionIgnorer in method public ConditionFactory(timeout Duration, pollInterval Duration, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer) in class com.jayway.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL126çhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR126
+ó
+ÛRename Parameter	ignoreExceptions : boolean to exceptionsIgnorer : ExceptionIgnorer in method public ConditionFactory(alias String, timeout Duration, pollInterval Duration, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener) in class com.jayway.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL86åhttps://github.com/awaitility/awaitility/commit/625a4d9570299f6cd35218cedffefce37c78c32e?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR86Rename Parameter*(625a4d9570299f6cd35218cedffefce37c78c32e8@!
+
+junit4.12junit*(77a4cad235e696dab3ae07e0cfaacaa91e60d797@"
+
+junit4.12junit*(dbdc8baf042041fac3459b850df5dba5bc8c7082@#
+
+junit4.12junit*(153e48c5c113108390e04dc2ab4ec52925b66b2e@$
+
+junit4.12junit*(639874722bb086a46278c681a2424a732c269ed0@%
+
+junit4.12junit*(dd2aa379a17c359dd8911898c7f4165918114b0a@&
+
+junit4.12junit*(8681e988225b19f4ad2733c57a4898ee2ac8a140@'
+
+junit4.12junit*(332a3a56c1f2f5d3665b44ab1f845467c0ff588e@(
+
+junit4.12junit*(f86d95cda4c346af14090c332a7c34fc2dcaf748@)
+
+junit4.12junit*(e147da04b33b6552ef5a43ac5b61db3368a2c837@*
+
+junit4.12junit*(3b5a94cff4b0a57f98705187a1f9a6f5f7d58f23@+
+
+junit4.12junit*(2440a6379b9f88176cc71daa47f95a1032e382dd@,
+
+junit4.12junit*(e85a48117e01ef85ed2b9a98e9528e7a8740adc8@-
+
+junit4.12junitµ
+ô
+ıChange Parameter Type	pollInterval : Duration to pollInterval : PollInterval in method public ConditionSettings(alias String, catchUncaughtExceptions boolean, maxWaitTime Duration, pollInterval PollInterval, pollDelay Duration, conditionEvaluationListener ConditionEvaluationListener, ignoreExceptions ExceptionIgnorer) in class com.jayway.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/e08c06fc8bbc66f99176bba7cf5cf3ea82fcea0a?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bL31åhttps://github.com/awaitility/awaitility/commit/e08c06fc8bbc66f99176bba7cf5cf3ea82fcea0a?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bR44Change Parameter Type–
+∑
+ìChange Return Type	Duration to PollInterval in method public getPollInterval() : PollInterval in class com.jayway.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/e08c06fc8bbc66f99176bba7cf5cf3ea82fcea0a?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bL81åhttps://github.com/awaitility/awaitility/commit/e08c06fc8bbc66f99176bba7cf5cf3ea82fcea0a?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bR82Change Return TypeÍ
+•
+ÅChange Attribute Type	pollInterval : Duration to pollInterval : PollInterval in class com.jayway.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/e08c06fc8bbc66f99176bba7cf5cf3ea82fcea0a?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL47åhttps://github.com/awaitility/awaitility/commit/e08c06fc8bbc66f99176bba7cf5cf3ea82fcea0a?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR49
+¶
+ÇChange Attribute Type	pollInterval : Duration to pollInterval : PollInterval in class com.jayway.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/e08c06fc8bbc66f99176bba7cf5cf3ea82fcea0a?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bL25åhttps://github.com/awaitility/awaitility/commit/e08c06fc8bbc66f99176bba7cf5cf3ea82fcea0a?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bR26Change Attribute Type*(e08c06fc8bbc66f99176bba7cf5cf3ea82fcea0a8@.
+
+junit4.12junitØ
+ì
+ÔChange Parameter Type	condition : Callable<Boolean> to condition : ConditionEvaluator in method public ConditionAwaiter(condition ConditionEvaluator, conditionSettings ConditionSettings) in class com.jayway.awaitility.core.ConditionAwaiterû
+åhttps://github.com/awaitility/awaitility/commit/d56806047dfba6a54ac685ec125390a179b925d2?diff=split#diff-2b77894d142cb95323edf6cfb70aff2eL33åhttps://github.com/awaitility/awaitility/commit/d56806047dfba6a54ac685ec125390a179b925d2?diff=split#diff-2b77894d142cb95323edf6cfb70aff2eR42Change Parameter Typeú
+â
+ÑRename Class	com.jayway.awaitility.pollinterval.ConstantPollInterval renamed to com.jayway.awaitility.pollinterval.FixedPollInterval Rename Class˝
+Æ
+äChange Attribute Type	condition : Callable<Boolean> to condition : ConditionEvaluator in class com.jayway.awaitility.core.ConditionAwaiterû
+åhttps://github.com/awaitility/awaitility/commit/d56806047dfba6a54ac685ec125390a179b925d2?diff=split#diff-2b77894d142cb95323edf6cfb70aff2eL29åhttps://github.com/awaitility/awaitility/commit/d56806047dfba6a54ac685ec125390a179b925d2?diff=split#diff-2b77894d142cb95323edf6cfb70aff2eR32
+∞
+åChange Attribute Type	executor : ScheduledExecutorService to executor : ExecutorService in class com.jayway.awaitility.core.ConditionAwaiterû
+åhttps://github.com/awaitility/awaitility/commit/d56806047dfba6a54ac685ec125390a179b925d2?diff=split#diff-2b77894d142cb95323edf6cfb70aff2eL27åhttps://github.com/awaitility/awaitility/commit/d56806047dfba6a54ac685ec125390a179b925d2?diff=split#diff-2b77894d142cb95323edf6cfb70aff2eR30Change Attribute Type
+*(d56806047dfba6a54ac685ec125390a179b925d28@/
+
+junit4.12junit*(ef9161b2cd71a41a969b507ebdc8757aa3dff05d@0
+
+junit4.12junit 
+≥
+èRename Attribute	condition : ConditionEvaluator to conditionEvaluator : ConditionEvaluator in class com.jayway.awaitility.core.ConditionAwaiterû
+åhttps://github.com/awaitility/awaitility/commit/373d737502a4cd2352a8050cc2720090e7986211?diff=split#diff-2b77894d142cb95323edf6cfb70aff2eL32åhttps://github.com/awaitility/awaitility/commit/373d737502a4cd2352a8050cc2720090e7986211?diff=split#diff-2b77894d142cb95323edf6cfb70aff2eR32Rename Attribute∏
+°
+˝Rename Parameter	condition : ConditionEvaluator to conditionEvaluator : ConditionEvaluator in method public ConditionAwaiter(conditionEvaluator ConditionEvaluator, conditionSettings ConditionSettings) in class com.jayway.awaitility.core.ConditionAwaiterû
+åhttps://github.com/awaitility/awaitility/commit/373d737502a4cd2352a8050cc2720090e7986211?diff=split#diff-2b77894d142cb95323edf6cfb70aff2eL42åhttps://github.com/awaitility/awaitility/commit/373d737502a4cd2352a8050cc2720090e7986211?diff=split#diff-2b77894d142cb95323edf6cfb70aff2eR42Rename Parameter*(373d737502a4cd2352a8050cc2720090e7986211@1
+
+junit4.12junitØ
+ò
+ìExtract Variable	future : Future<?> in method public run() : void from class com.jayway.awaitility.core.ConditionAwaiter.await.pollSchedulingThread Extract Variable*(42677b4394ded45b885aa155114b6d08b2ae52b6@2
+
+junit4.12junit«
+≥
+èRename Method	public iteratePollInterval() : void renamed to public inlinePollInterval() : void in class com.jayway.awaitility.PollIntervalTestû
+åhttps://github.com/awaitility/awaitility/commit/0712e1df23c5fa306083379b8ed99f087227f0a1?diff=split#diff-9d96379f21e2246d45ad4fdc75d4ee93L57åhttps://github.com/awaitility/awaitility/commit/0712e1df23c5fa306083379b8ed99f087227f0a1?diff=split#diff-9d96379f21e2246d45ad4fdc75d4ee93R61Rename Method´
+ö
+ïMove Class	com.jayway.awaitility.pollinterval.IteratePollInterval.Function moved to com.jayway.awaitility.pollinterval.IterativePollInterval.Function 
+Move Class*(0712e1df23c5fa306083379b8ed99f087227f0a1@3
+
+junit4.12junitÀ
+∑
+ëRename Method	public times(duration long) : Duration renamed to public multiply(duration long) : Duration in class com.jayway.awaitility.Duration†
+çhttps://github.com/awaitility/awaitility/commit/84436ff19f6880ef31bd5367e7c3ca0767932ebb?diff=split#diff-d8caf1517295709e9752832bd23c13acL184çhttps://github.com/awaitility/awaitility/commit/84436ff19f6880ef31bd5367e7c3ca0767932ebb?diff=split#diff-d8caf1517295709e9752832bd23c13acR184Rename Method*(84436ff19f6880ef31bd5367e7c3ca0767932ebb@4
+
+junit4.12junit–
+ª
+∂Extract Method	private fib(value int, current int, previous int) : int extracted from private fibonacci(n int) : int in class com.jayway.awaitility.pollinterval.FibonacciPollInterval Extract Methodß
+Ω
+òRename Parameter	n : int to value : int in method protected fibonacci(value int) : int in class com.jayway.awaitility.pollinterval.FibonacciPollIntervalü
+åhttps://github.com/awaitility/awaitility/commit/b732a05c63e5966f2847839275540eb28e155777?diff=split#diff-d7f59e48b00c6b81806ed08b6ae4d9deL47çhttps://github.com/awaitility/awaitility/commit/b732a05c63e5966f2847839275540eb28e155777?diff=split#diff-d7f59e48b00c6b81806ed08b6ae4d9deR153
+–
+´Rename Parameter	n : int to value : int in method private fib(value int, current int, previous int) : int in class com.jayway.awaitility.pollinterval.FibonacciPollIntervalü
+åhttps://github.com/awaitility/awaitility/commit/b732a05c63e5966f2847839275540eb28e155777?diff=split#diff-d7f59e48b00c6b81806ed08b6ae4d9deL47çhttps://github.com/awaitility/awaitility/commit/b732a05c63e5966f2847839275540eb28e155777?diff=split#diff-d7f59e48b00c6b81806ed08b6ae4d9deR158Rename Parameter*(b732a05c63e5966f2847839275540eb28e155777@5
+
+junit4.12junit›
+À
+ßMove Method	public duration_is_equal_to_other_duration_if_number_of_milliseconds_are_the_same() : void from class com.jayway.awaitility.DurationTest to public duration_is_equal_to_other_duration_if_number_of_milliseconds_are_the_same() : void from class com.jayway.awaitility.DurationTest.Equalsû
+åhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-04ef79511212b2139c67898b8a717c24L28åhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-04ef79511212b2139c67898b8a717c24R35Move Methodz
+c
+_Extract Attribute	private DEFAULT_DURATION : Duration in class com.jayway.awaitility.Awaitility Extract Attribute∆
+™
+ÑChange Attribute Type	defaultPollInterval : Duration to defaultPollInterval : PollInterval in class com.jayway.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-779c728b99b2820eb10e7808c208d080L108çhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-779c728b99b2820eb10e7808c208d080R110Change Attribute Type∞
+¡
+õRename Parameter	duration : long to amount : long in method public minus(amount long, timeUnit TimeUnit) : Duration in class com.jayway.awaitility.Duration†
+çhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-d8caf1517295709e9752832bd23c13acL240çhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-d8caf1517295709e9752832bd23c13acR270
+Æ
+àRename Parameter	duration : long to amount : long in method public minus(amount long) : Duration in class com.jayway.awaitility.Duration†
+çhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-d8caf1517295709e9752832bd23c13acL225çhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-d8caf1517295709e9752832bd23c13acR250
+±
+ãRename Parameter	duration : long to amount : long in method public multiply(amount long) : Duration in class com.jayway.awaitility.Duration†
+çhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-d8caf1517295709e9752832bd23c13acL190çhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-d8caf1517295709e9752832bd23c13acR229
+¿
+öRename Parameter	duration : long to amount : long in method public plus(amount long, timeUnit TimeUnit) : Duration in class com.jayway.awaitility.Duration†
+çhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-d8caf1517295709e9752832bd23c13acL209çhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-d8caf1517295709e9752832bd23c13acR200
+≠
+áRename Parameter	duration : long to amount : long in method public plus(amount long) : Duration in class com.jayway.awaitility.Duration†
+çhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-d8caf1517295709e9752832bd23c13acL176çhttps://github.com/awaitility/awaitility/commit/467e53de0aba6e73e3cb7f01d3892d4f72f985f8?diff=split#diff-d8caf1517295709e9752832bd23c13acR180Rename Parameter	*(467e53de0aba6e73e3cb7f01d3892d4f72f985f88@6
+
+junit4.12junit≥
+ú
+wRename Attribute	DEFAULT_DURATION : Duration to DEFAULT_POLL_DELAY : Duration in class com.jayway.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/50ec34013b539dd8e12c8df8e24c7c05b1076285?diff=split#diff-779c728b99b2820eb10e7808c208d080L105çhttps://github.com/awaitility/awaitility/commit/50ec34013b539dd8e12c8df8e24c7c05b1076285?diff=split#diff-779c728b99b2820eb10e7808c208d080R107Rename Attribute
+*(50ec34013b539dd8e12c8df8e24c7c05b1076285@7
+
+junit4.12junit*(d1de0bec42197c64e9913a7f4b975d020225d16b@9
+
+junit4.12junit*(8c899a532d76d3c05634eca1ce57aa39fe61234f@:
+
+junit4.12junit*(739503844e84ee1d0a60aecde72fa4db65d0f7a2@;
+
+junit4.12junit*(ad9e213c03cb24719d9f79057052ca630728d9ee@<
+
+junit4.12junit*(f4d09ff5aaf2c2f4af92212953da8ee819db5415@=
+
+junit4.12junitï
+Ç
+~Rename Class	com.jayway.awaitility.core.SafeExceptionRethrower renamed to com.jayway.awaitility.core.CheckedExceptionRethrower Rename Class*(da5fedcb9cd0aa43789e126d9df842aba536ffcf@>
+
+junit4.12junit˜
+„
+ΩRename Method	public throwing(throwingRunnable ThrowingRunnable) : Runnable renamed to public matches(throwingRunnable ThrowingRunnable) : Runnable in class com.jayway.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/3fb86f1d0719a6a43de77f09d4eb623098966356?diff=split#diff-779c728b99b2820eb10e7808c208d080L438çhttps://github.com/awaitility/awaitility/commit/3fb86f1d0719a6a43de77f09d4eb623098966356?diff=split#diff-779c728b99b2820eb10e7808c208d080R438Rename Method*(3fb86f1d0719a6a43de77f09d4eb623098966356@?
+
+junit4.12junit*(e33e420fd0564d21b0ac705c53de64de9a14fa56@@
+
+junit4.12junit*(00a7affa37014750444a23a8c3510e03806b2abd@A
+
+junit4.12junit*(d254c5f2f3f2164279a3cc98e818ee07aef16554@B
+
+junit4.12junit*(22d2ae7a3ed1d0f9c4e2e0de304abc383b90d6e0@C
+
+junit4.12junit*(3923e5d8e4882c4ba0e8562465b2076bb5ba0d61@D
+
+junit4.12junit*(6030a06d01347a3d12b551ad0fcbd5a62b7af39e@E
+
+junit4.12junit*(c4be539be1bd5ff90385c8c8f4d035eadffdced0@F
+
+junit4.12junit*(92281f4d47ae9bab8d924186c55f0ae431b1d54b@G
+
+junit4.12junit*(b0361f841d6319ff4afdbbefd6087652e310cdc2@H
+
+junit4.12junit*(4a44ddedffc6632c31ae8bf55567b274406154b6@I
+
+junit4.12junit*(d258bc777b8c94df7e614f7cf5676f9f446f631f@J
+
+junit4.12junit*(ad1f98379971817862e1f487000674d91b77a85e@L
+
+junit4.12junit*(d20a9b5aa0524a96f7cd3974a05e9a1a3e66e57a@N
+
+junit4.12junit*(d4d57c559d004dc3d359370c4172014b4439cd92@P
+
+junit4.12junit*(65b9d457468d05a9d3591051b73c78330c7e4cbf@R
+
+junit4.12junitâ$
+·
+ªChange Parameter Type	timeout : Duration to timeoutConstraint : WaitConstraint in method public ConditionFactory(timeoutConstraint WaitConstraint, pollInterval PollInterval, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer) in class com.jayway.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL126çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR137
+›
+∑Change Parameter Type	timeout : Duration to timeoutConstraint : WaitConstraint in method public ConditionFactory(timeoutConstraint WaitConstraint, pollInterval Duration, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer) in class com.jayway.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL112çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR123
+¶
+ÇChange Parameter Type	timeout : Duration to timeoutConstraint : WaitConstraint in method public ConditionFactory(alias String, timeoutConstraint WaitConstraint, pollInterval PollInterval, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener) in class com.jayway.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL93åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR95
+ñ
+Change Parameter Type	timeout : Duration to timeoutConstraint : WaitConstraint in method public ConditionFactory(timeoutConstraint WaitConstraint, pollInterval Duration, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener) in class com.jayway.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL140çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR151
+¢
+˛Change Parameter Type	timeout : Duration to timeoutConstraint : WaitConstraint in method public ConditionFactory(alias String, timeoutConstraint WaitConstraint, pollInterval Duration, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener) in class com.jayway.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL77åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR89
+•
+ÅChange Parameter Type	maxWaitTime : Duration to waitConstraint : WaitConstraint in method public ConditionSettings(alias String, catchUncaughtExceptions boolean, waitConstraint WaitConstraint, pollInterval PollInterval, pollDelay Duration, conditionEvaluationListener ConditionEvaluationListener, ignoreExceptions ExceptionIgnorer) in class com.jayway.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bL30åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bR42
+ö
+ÙChange Parameter Type	timeout : Duration to timeoutConstraint : WaitConstraint in method public ConditionFactory(timeoutConstraint WaitConstraint, pollInterval PollInterval, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener) in class com.jayway.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL156çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR167Change Parameter Type∏
+¢
+¸Rename Variable	timeout : long to maxTimeout : long in method private pollSchedulingThread(conditionEvaluationHandler ConditionEvaluationHandler<T>, pollDelay Duration, maxWaitTime Duration) : Thread in class com.jayway.awaitility.core.ConditionAwaiter†
+çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-2b77894d142cb95323edf6cfb70aff2eL101çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-2b77894d142cb95323edf6cfb70aff2eR139Rename VariableÖ
+
+°
+~Rename Attribute	timeout : Duration to timeoutConstraint : WaitConstraint in class com.jayway.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL44åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR46
+£
+~Rename Attribute	defaultTimeout : Duration to defaultWaitConstraint : WaitConstraint in class com.jayway.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-779c728b99b2820eb10e7808c208d080L119çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-779c728b99b2820eb10e7808c208d080R121
+§
+ÄRename Attribute	maxWaitTime : Duration to waitConstraint : WaitConstraint in class com.jayway.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bL23åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bR24Rename AttributeÒ
+ô
+îExtract Variable	maxTimeoutUnit : TimeUnit in method public run() : void from class com.jayway.awaitility.core.ConditionAwaiter.pollSchedulingThread 
+æ
+πExtract Variable	maxTimeoutUnit : TimeUnit in method public await(conditionEvaluationHandler ConditionEvaluationHandler<T>) : void from class com.jayway.awaitility.core.ConditionAwaiter Extract Variableƒ
+Ø
+™Extract Method	private pollSchedulingThread(conditionEvaluationHandler ConditionEvaluationHandler<T>, pollDelay Duration, maxWaitTime Duration) : Thread extracted from public await(conditionEvaluationHandler ConditionEvaluationHandler<T>) : void in class com.jayway.awaitility.core.ConditionAwaiter Extract Methodõ
+
+©
+ÖChange Attribute Type	maxWaitTime : Duration to waitConstraint : WaitConstraint in class com.jayway.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bL23åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bR24
+©
+ÉChange Attribute Type	defaultTimeout : Duration to defaultWaitConstraint : WaitConstraint in class com.jayway.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-779c728b99b2820eb10e7808c208d080L119çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-779c728b99b2820eb10e7808c208d080R121
+ß
+ÉChange Attribute Type	timeout : Duration to timeoutConstraint : WaitConstraint in class com.jayway.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL44åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR46Change Attribute Type·#
+ï
+ÔRename Parameter	timeout : Duration to timeoutConstraint : WaitConstraint in method public ConditionFactory(timeoutConstraint WaitConstraint, pollInterval PollInterval, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener) in class com.jayway.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL165çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR167
+†
+¸Rename Parameter	maxWaitTime : Duration to waitConstraint : WaitConstraint in method public ConditionSettings(alias String, catchUncaughtExceptions boolean, waitConstraint WaitConstraint, pollInterval PollInterval, pollDelay Duration, conditionEvaluationListener ConditionEvaluationListener, ignoreExceptions ExceptionIgnorer) in class com.jayway.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bL41åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-b9df336b4ba3c51ab2dc31c34be2a83bR42
+ÿ
+≤Rename Parameter	timeout : Duration to timeoutConstraint : WaitConstraint in method public ConditionFactory(timeoutConstraint WaitConstraint, pollInterval Duration, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer) in class com.jayway.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL121çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR123
+ù
+˘Rename Parameter	timeout : Duration to timeoutConstraint : WaitConstraint in method public ConditionFactory(alias String, timeoutConstraint WaitConstraint, pollInterval Duration, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener) in class com.jayway.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL87åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR89
+‹
+∂Rename Parameter	timeout : Duration to timeoutConstraint : WaitConstraint in method public ConditionFactory(timeoutConstraint WaitConstraint, pollInterval PollInterval, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer) in class com.jayway.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL135çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR137
+°
+˝Rename Parameter	timeout : Duration to timeoutConstraint : WaitConstraint in method public ConditionFactory(alias String, timeoutConstraint WaitConstraint, pollInterval PollInterval, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener) in class com.jayway.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL93åhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR95
+ë
+ÎRename Parameter	timeout : Duration to timeoutConstraint : WaitConstraint in method public ConditionFactory(timeoutConstraint WaitConstraint, pollInterval Duration, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener) in class com.jayway.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaL149çhttps://github.com/awaitility/awaitility/commit/1026b28969f1cb68fd1ff22e4b143a3696ec7b0b?diff=split#diff-5970fa8f1adb651f0c016b396b0411eaR151Rename Parameter*(1026b28969f1cb68fd1ff22e4b143a3696ec7b0b8@S
+
+junit4.12junit*(3104a14b674e4de46f84cc21f79fe2886b1884fb@U
+
+junit4.12junit™
+å
+ÊRename Method	public shouldNotThrowTimeoutExceptionWhenDoneLaterThanAtLeastConstraint() : void renamed to public doesNotThrowTimeoutExceptionWhenDoneLaterThanAtLeastConstraint() : void in class com.jayway.awaitility.AwaitilityTest†
+çhttps://github.com/awaitility/awaitility/commit/ba53766e285e237b0945aa5fbca824defa93cfe6?diff=split#diff-76613ad5440c937114b1de1f6e951d7bL174çhttps://github.com/awaitility/awaitility/commit/ba53766e285e237b0945aa5fbca824defa93cfe6?diff=split#diff-76613ad5440c937114b1de1f6e951d7bR174
+á
+·Rename Method	public shouldThrowTimeoutExceptionWhenDoneEarlierThanAtLeastConstraint() : void renamed to public throwsTimeoutExceptionWhenDoneEarlierThanAtLeastConstraint() : void in class com.jayway.awaitility.AwaitilityTest†
+çhttps://github.com/awaitility/awaitility/commit/ba53766e285e237b0945aa5fbca824defa93cfe6?diff=split#diff-76613ad5440c937114b1de1f6e951d7bL168çhttps://github.com/awaitility/awaitility/commit/ba53766e285e237b0945aa5fbca824defa93cfe6?diff=split#diff-76613ad5440c937114b1de1f6e951d7bR168Rename Method*(ba53766e285e237b0945aa5fbca824defa93cfe6@V
+
+junit4.12junit*(6e4d70b011cfebcbf640c4ff24262196ca9b4817@W
+
+junit4.12junit*(bb164d9bab56524acaf1c2eaf6d256076a6b1be8@X
+
+junit4.12junit*(4628ea38ce54457d1a6bfbaf924e3e227885dcec@Y
+
+junit4.12junit*(1c1d0b28b16342353a4975b93dac48bdc9f02649@Z
+
+junit4.12junit*(dc438c35883b2bb082fe33b13a8a23a815e0e9fe@[
+
+junit4.12junit*(24f18d9c7a11906741f35f8bb75de4b3c1e52505@\
+
+junit4.12junit*(c628b92e212640d05b20818d8b7b4e04ba8ba178@]
+
+junit4.12junit*(ca4353ec7044b7b2eb4e4a8eecf1c3eb0d505923@_
+
+junit4.12junit*(1a5c640799d0a4f5a7681f567b154690a1a59bbc@`
+
+junit4.12junit*(f9b61832e0d7acf1c29812a821499eda00de37d6@a
+
+junit4.12junit*(63a3d9a59caf3ad4f86ca42932f94454f2ff77d9@b
+
+junit4.12junit*(8a497937d03dd561ecd2a19ebd86f508b03abb59@c
+
+junit4.12junit*(2701f7444e71ef589560356b7dd272cb35f52354@e
+
+junit4.12junit‰S
+t
+pMove Class	com.jayway.awaitility.classpath.ClassPathResolver moved to org.awaitility.classpath.ClassPathResolver 
+v
+rMove Class	com.jayway.awaitility.classes.FakeObjectRepository moved to org.awaitility.classes.FakeObjectRepository 
+\
+XMove Class	com.jayway.awaitility.UsingAtomicTest moved to org.awaitility.UsingAtomicTest 
+^
+ZMove Class	com.jayway.awaitility.PollIntervalTest moved to org.awaitility.PollIntervalTest 
+~
+zMove Class	com.jayway.awaitility.reflect.FieldNameMatcherStrategy moved to org.awaitility.reflect.FieldNameMatcherStrategy 
+•
+†Move Class	com.jayway.awaitility.classes.ThrowExceptionUnlessFakeRepositoryEqualsOne moved to org.awaitility.classes.ThrowExceptionUnlessFakeRepositoryEqualsOne 
+|
+xMove Class	com.jayway.awaitility.FakeRepositoryWithAtomicInteger moved to org.awaitility.FakeRepositoryWithAtomicInteger 
+p
+lMove Class	com.jayway.awaitility.IterativePollIntervalTest moved to org.awaitility.IterativePollIntervalTest 
+|
+xMove Class	com.jayway.awaitility.FakeRepositoryWithAtomicBoolean moved to org.awaitility.FakeRepositoryWithAtomicBoolean 
+Ä
+|Move Class	com.jayway.awaitility.constraint.IntervalWaitConstraint moved to org.awaitility.constraint.IntervalWaitConstraint 
+Z
+VMove Class	com.jayway.awaitility.classes.Asynch moved to org.awaitility.classes.Asynch 
+l
+hMove Class	com.jayway.awaitility.core.EvaluatedCondition moved to org.awaitility.core.EvaluatedCondition 
+r
+nMove Class	com.jayway.awaitility.classes.FakeRepositoryImpl moved to org.awaitility.classes.FakeRepositoryImpl 
+Z
+VMove Class	com.jayway.awaitility.core.Predicate moved to org.awaitility.core.Predicate 
+ã
+ÜMove Class	com.jayway.awaitility.pollinterval.FibonacciPollIntervalTest moved to org.awaitility.pollinterval.FibonacciPollIntervalTest 
+|
+xMove Class	com.jayway.awaitility.constraint.AtMostWaitConstraint moved to org.awaitility.constraint.AtMostWaitConstraint 
+v
+rMove Class	com.jayway.awaitility.core.ExceptionThrowingAsynch moved to org.awaitility.core.ExceptionThrowingAsynch 
+Ç
+~Move Class	com.jayway.awaitility.pollinterval.IterativePollInterval moved to org.awaitility.pollinterval.IterativePollInterval 
+n
+jMove Class	com.jayway.awaitility.classes.ClassWithMethods moved to org.awaitility.classes.ClassWithMethods 
+ã
+ÜMove Class	com.jayway.awaitility.reflect.FieldAnnotationMatcherStrategy moved to org.awaitility.reflect.FieldAnnotationMatcherStrategy 
+p
+lMove Class	com.jayway.awaitility.constraint.WaitConstraint moved to org.awaitility.constraint.WaitConstraint 
+Z
+VMove Class	com.jayway.awaitility.AwaitilityTest moved to org.awaitility.AwaitilityTest 
+Z
+VMove Class	com.jayway.awaitility.CounterService moved to org.awaitility.CounterService 
+~
+zMove Class	com.jayway.awaitility.proxy.CannotCreateProxyException moved to org.awaitility.proxy.CannotCreateProxyException 
+v
+rMove Class	com.jayway.awaitility.reflect.FieldMatcherStrategy moved to org.awaitility.reflect.FieldMatcherStrategy 
+l
+hMove Class	com.jayway.awaitility.core.AssertionCondition moved to org.awaitility.core.AssertionCondition 
+h
+dMove Class	com.jayway.awaitility.core.ConditionAwaiter moved to org.awaitility.core.ConditionAwaiter 
+~
+zMove Class	com.jayway.awaitility.core.LambdaErrorMessageGenerator moved to org.awaitility.core.LambdaErrorMessageGenerator 
+µ
+∞Move Class	com.jayway.awaitility.ExceptionsInSetupAreIgnoredWhenIgnoreExceptionsIsActiveTest moved to org.awaitility.ExceptionsInSetupAreIgnoredWhenIgnoreExceptionsIsActiveTest 
+N
+JMove Class	com.jayway.awaitility.DemoTest moved to org.awaitility.DemoTest 
+j
+fMove Class	com.jayway.awaitility.core.DeadlockException moved to org.awaitility.core.DeadlockException 
+z
+vMove Class	com.jayway.awaitility.pollinterval.FixedPollInterval moved to org.awaitility.pollinterval.FixedPollInterval 
+j
+fMove Class	com.jayway.awaitility.proxy.ProxyCreatorTest moved to org.awaitility.proxy.ProxyCreatorTest 
+`
+\Move Class	com.jayway.awaitility.support.CountDown moved to org.awaitility.support.CountDown 
+n
+jMove Class	com.jayway.awaitility.WaitForAtomicBooleanTest moved to org.awaitility.WaitForAtomicBooleanTest 
+f
+bMove Class	com.jayway.awaitility.reflect.WhiteboxImpl moved to org.awaitility.reflect.WhiteboxImpl 
+j
+fMove Class	com.jayway.awaitility.core.CallableCondition moved to org.awaitility.core.CallableCondition 
+z
+vMove Class	com.jayway.awaitility.core.AbstractHamcrestCondition moved to org.awaitility.core.AbstractHamcrestCondition 
+Ä
+|Move Class	com.jayway.awaitility.FakeRepositoryWithAtomicReference moved to org.awaitility.FakeRepositoryWithAtomicReference 
+z
+vMove Class	com.jayway.awaitility.core.PredicateExceptionIgnorer moved to org.awaitility.core.PredicateExceptionIgnorer 
+\
+XMove Class	com.jayway.awaitility.proxy.TypeUtils moved to org.awaitility.proxy.TypeUtils 
+|
+xMove Class	com.jayway.awaitility.core.ConditionEvaluationHandler moved to org.awaitility.core.ConditionEvaluationHandler 
+^
+ZMove Class	com.jayway.awaitility.ErrorMessageTest moved to org.awaitility.ErrorMessageTest 
+Z
+VMove Class	com.jayway.awaitility.core.Condition moved to org.awaitility.core.Condition 
+|
+xMove Class	com.jayway.awaitility.classes.FakeRepositoryEqualsOne moved to org.awaitility.classes.FakeRepositoryEqualsOne 
+h
+dMove Class	com.jayway.awaitility.core.ThrowingRunnable moved to org.awaitility.core.ThrowingRunnable 
+~
+zMove Class	com.jayway.awaitility.reflect.FieldTypeMatcherStrategy moved to org.awaitility.reflect.FieldTypeMatcherStrategy 
+h
+dMove Class	com.jayway.awaitility.core.ConditionFactory moved to org.awaitility.core.ConditionFactory 
+z
+vMove Class	com.jayway.awaitility.core.CallableHamcrestCondition moved to org.awaitility.core.CallableHamcrestCondition 
+t
+pMove Class	com.jayway.awaitility.classes.FakeRepositoryValue moved to org.awaitility.classes.FakeRepositoryValue 
+z
+vMove Class	com.jayway.awaitility.core.CheckedExceptionRethrower moved to org.awaitility.core.CheckedExceptionRethrower 
+è
+äMove Class	com.jayway.awaitility.reflect.exception.FieldNotFoundException moved to org.awaitility.reflect.exception.FieldNotFoundException 
+|
+xMove Class	com.jayway.awaitility.core.HamcrestToStringFilterTest moved to org.awaitility.core.HamcrestToStringFilterTest 
+V
+RMove Class	com.jayway.awaitility.DurationTest moved to org.awaitility.DurationTest 
+h
+dMove Class	com.jayway.awaitility.core.ExceptionIgnorer moved to org.awaitility.core.ExceptionIgnorer 
+£
+ûMove Class	com.jayway.awaitility.classes.FakeRepositoryWithStaticFieldAndAnnotation moved to org.awaitility.classes.FakeRepositoryWithStaticFieldAndAnnotation 
+x
+tMove Class	com.jayway.awaitility.core.HamcrestExceptionIgnorer moved to org.awaitility.core.HamcrestExceptionIgnorer 
+p
+lMove Class	com.jayway.awaitility.pollinterval.PollInterval moved to org.awaitility.pollinterval.PollInterval 
+z
+vMove Class	com.jayway.awaitility.core.ConditionTimeoutException moved to org.awaitility.core.ConditionTimeoutException 
+N
+JMove Class	com.jayway.awaitility.Duration moved to org.awaitility.Duration 
+ó
+íMove Class	com.jayway.awaitility.reflect.AssignableToFieldTypeMatcherStrategy moved to org.awaitility.reflect.AssignableToFieldTypeMatcherStrategy 
+Ö
+ÄMove Class	com.jayway.awaitility.AwaitilityIgnoreExceptionsJava8Test moved to org.awaitility.AwaitilityIgnoreExceptionsJava8Test 
+b
+^Move Class	com.jayway.awaitility.classes.FinalClass moved to org.awaitility.classes.FinalClass 
+Ç
+~Move Class	com.jayway.awaitility.pollinterval.FibonacciPollInterval moved to org.awaitility.pollinterval.FibonacciPollInterval 
+á
+ÇMove Class	com.jayway.awaitility.classes.FakeRepositoryWithAnnotation moved to org.awaitility.classes.FakeRepositoryWithAnnotation 
+p
+lMove Class	com.jayway.awaitility.core.FieldSupplierBuilder moved to org.awaitility.core.FieldSupplierBuilder 
+z
+vMove Class	com.jayway.awaitility.AwaitilityIgnoreExceptionsTest moved to org.awaitility.AwaitilityIgnoreExceptionsTest 
+t
+pMove Class	com.jayway.awaitility.core.MethodCallRecorderTest moved to org.awaitility.core.MethodCallRecorderTest 
+|
+xMove Class	com.jayway.awaitility.ConditionEvaluationListenerTest moved to org.awaitility.ConditionEvaluationListenerTest 
+b
+^Move Class	com.jayway.awaitility.proxy.ProxyCreator moved to org.awaitility.proxy.ProxyCreator 
+l
+hMove Class	com.jayway.awaitility.core.MethodCallRecorder moved to org.awaitility.core.MethodCallRecorder 
+t
+pMove Class	com.jayway.awaitility.core.HamcrestToStringFilter moved to org.awaitility.core.HamcrestToStringFilter 
+R
+NMove Class	com.jayway.awaitility.Awaitility moved to org.awaitility.Awaitility 
+d
+`Move Class	com.jayway.awaitility.AwaitilityJava8Test moved to org.awaitility.AwaitilityJava8Test 
+ç
+àMove Class	com.jayway.awaitility.reflect.FieldNameAndTypeMatcherStrategy moved to org.awaitility.reflect.FieldNameAndTypeMatcherStrategy 
+b
+^Move Class	com.jayway.awaitility.CounterServiceImpl moved to org.awaitility.CounterServiceImpl 
+j
+fMove Class	com.jayway.awaitility.classes.FakeRepository moved to org.awaitility.classes.FakeRepository 
+j
+fMove Class	com.jayway.awaitility.UsingFieldSupplierTest moved to org.awaitility.UsingFieldSupplierTest 
+z
+vMove Class	com.jayway.awaitility.core.ConditionEvaluationLogger moved to org.awaitility.core.ConditionEvaluationLogger 
+ô
+îMove Class	com.jayway.awaitility.reflect.exception.TooManyFieldsFoundException moved to org.awaitility.reflect.exception.TooManyFieldsFoundException 
+|
+xMove Class	com.jayway.awaitility.classes.FinalFakeRepositoryImpl moved to org.awaitility.classes.FinalFakeRepositoryImpl 
+ç
+àMove Class	com.jayway.awaitility.classes.ExceptionThrowingFakeRepository moved to org.awaitility.classes.ExceptionThrowingFakeRepository 
+v
+rMove Class	com.jayway.awaitility.FakeRepositoryWithAtomicLong moved to org.awaitility.FakeRepositoryWithAtomicLong 
+l
+hMove Class	com.jayway.awaitility.core.ConditionEvaluator moved to org.awaitility.core.ConditionEvaluator 
+~
+zMove Class	com.jayway.awaitility.core.ConditionEvaluationListener moved to org.awaitility.core.ConditionEvaluationListener 
+á
+ÇMove Class	com.jayway.awaitility.ConditionEvaluationListenerJava8Test moved to org.awaitility.ConditionEvaluationListenerJava8Test 
+h
+dMove Class	com.jayway.awaitility.DeadlockDetectionTest moved to org.awaitility.DeadlockDetectionTest 
+j
+fMove Class	com.jayway.awaitility.core.ConditionSettings moved to org.awaitility.core.ConditionSettings 
+T
+PMove Class	com.jayway.awaitility.spi.Timeout moved to org.awaitility.spi.Timeout 
+r
+nMove Class	com.jayway.awaitility.AwaitilityReturnValuesTest moved to org.awaitility.AwaitilityReturnValuesTest 
+t
+pMove Class	com.jayway.awaitility.core.ProxyHamcrestCondition moved to org.awaitility.core.ProxyHamcrestCondition [
+Move Class8
+$
+ Change Package	com.jayway to org Change Packagedd*(00a1fab2b2f4e613a793b0b638693a476a3b24fc@f
+
+junit4.12junit*(3df5f073c10a1635fda2de519c89c79b26707c3d@g
+
+junit4.12junit*(bb431be11c0163a985330c6f74d1c24b16f33759@h
+
+junit4.12junit*(565b3dc7cbd39176a8411e9186d6a5f5ed65e3c9@i
+
+junit4.12junit*(706de43b6e72ba6160e33cc2fe9a3081ed763c8e@j
+
+junit4.12junit*(1da9d04398960f580e331924427c7f22b5412c38@k
+
+junit4.12junit*(8763ccf56c46be8c9fa4392d2d1137bb33177faf@l
+
+junit4.12junit*(adfc2a9d4f58c98d5c1431f6580e30fa36967f33@m
+
+junit4.12junit*(ee233ad0c9b8535e03fb52b1e19c83455a83c54a@n
+
+junit4.12junit*(d680087c6f4e3ec36b71099b8d034adde80c58e7@o
+
+junit4.12junit*(de8ba227047b022a3f0a41123896f39540e263b4@p
+
+junit4.12junit*(eb14b6b51ae47a53e2f555564dd436c549956f4d@q
+
+junit4.12junit*(17df9f7d54cf2da79906b6a7ee062dbb666493d2@s
+
+junit4.12junit*(4812e134aaf21b1c4e4e1a2d661fec90a27a0637@t
+
+junit4.12junit*(70a97670ac54ddcf686db5b9d8fe337a52742d01@v
+
+junit4.12junit*(21ca6d36092310d58950a0979348e6eb07ab9e3c@w
+
+junit4.12junit*(6a5564ac1910f49e4a88190b5687df24642cb41f@y
+
+junit4.12junit*(630542c0b653f333d26f33e584b19f868c71ca01@z
+
+junit4.12junit^
+N
+JMove Class	AwaitilityTest moved to org.awaitility.test.osgi.AwaitilityTest 
+Move Class*(acd5ff893adc8b4ae315bc778f200b3fd65c9158@{
+
+junit4.12junit◊
+º
+òChange Variable Type	cause : DeadlockException to cause : Throwable in method public deadlockTest() : void in class org.awaitility.DeadlockDetectionTestû
+åhttps://github.com/awaitility/awaitility/commit/815df7b43269ec4d7be8f62424e4d4d7b85fbd10?diff=split#diff-7747a43dee22fd52181421ece87f9482L32åhttps://github.com/awaitility/awaitility/commit/815df7b43269ec4d7be8f62424e4d4d7b85fbd10?diff=split#diff-7747a43dee22fd52181421ece87f9482R88Change Variable Type*(815df7b43269ec4d7be8f62424e4d4d7b85fbd108@}
+
+junit4.12junit*(5f7737bd3d13bb800f895f28eb95f0f08f16cf76@
+
+junit4.12junit*(7b43ee0d4adfc5fd8b78853ddcc961573b56b99e@Ä
+
+junit4.12junit*(d856ed0bafab48f1b85b97d16d3bd047082eb045@Å
+
+junit4.12junit*(c474c9933414bff3bff2f6efe4697223bce119ee@Ç
+
+junit4.12junit*(dd07044c4a99480d1503c4a3368fc96d1488a82b@É
+
+junit4.12junit*(418e626edf649b8fb2bfb7ed939b52e2b907a861@Ñ
+
+junit4.12junit*(016753d88bce8e7785140e967cf49cbe29907a93@Ü
+
+junit4.12junit*(e37a311b0e602260f7fec9132867cf9a72e61045@á
+
+junit4.12junit*(4be5f7493a8e44632ee031808b2020269a34ca95@à
+
+junit4.12junit*(b60792c717b73da5437dbb8a7c015f1a8160b2bf@â
+
+junit4.12junit*(aa5dac93b18cc25542d1835072a1fee3c181e468@ä
+
+junit4.12junit*(bf239da9d21e3196966009855db942ed33ea6b6b@ã
+
+junit4.12junit*(ebb806f09fe26ccce447f66a803b7a13317499ef@ç
+
+junit4.12junit*(c8c6d17549689be255e9eb832d09b50319382d24@é
+
+junit4.12junit*(b67bd2118ece2f2b2999c053af49917095fdbda7@ê
+
+junit4.12junit*(f29cd5a4077e3954baf13c1043535dc0eac00bbf@ë
+
+junit4.12junit*(49da69d5414090f9a20c7998a99256ca40b31556@î
+
+junit4.12junit≤
+û
+¯Rename Method	public awaitDisplaysSupplierAndMatcherNameWhenConditionTimeoutExceptionOccurs() : void renamed to public awaitDisplaysSupplierAndMatcherMismatchMessageWhenConditionTimeoutExceptionOccurs() : void in class org.awaitility.AwaitilityTest†
+çhttps://github.com/awaitility/awaitility/commit/2986634ad5ac4ad5a79b6eefd280bac1c649266a?diff=split#diff-f615747c36755994b9847f9b41ff0bbfL310çhttps://github.com/awaitility/awaitility/commit/2986634ad5ac4ad5a79b6eefd280bac1c649266a?diff=split#diff-f615747c36755994b9847f9b41ff0bbfR312Rename Method*(2986634ad5ac4ad5a79b6eefd280bac1c649266a@ï
+
+junit4.12junit*(f989e755068e8e9665a924cac671501dae65e6b7@ó
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14"g
+
+	org.slf4j1.7.23	slf4j-api
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(e4e7354da355d6569a8d28a42827f32f2ead87ce@ò
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(095538f237209858d5356231e9d1c7159a4dfb69@ô
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(e18936033653b73eb115cdd89e7cd104a1633624@ö
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(7c0263efa52fda197aa301efecbfcdad70fa4a84@õ
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14ﬁ
+Ó
+ Change Return Type	boolean to ConditionEvaluationResult in method public eval(pollInterval Duration) : ConditionEvaluationResult in class org.awaitility.core.CallableCondition.ConditionEvaluationWrapperû
+åhttps://github.com/awaitility/awaitility/commit/40f9a31e469e86872ec00b3913b6359ba33463f1?diff=split#diff-fd218e187d1a20273eb1ecbda267d17cL99åhttps://github.com/awaitility/awaitility/commit/40f9a31e469e86872ec00b3913b6359ba33463f1?diff=split#diff-fd218e187d1a20273eb1ecbda267d17cR99
+‘
+∞Change Return Type	boolean to ConditionEvaluationResult in method public eval(pollInterval Duration) : ConditionEvaluationResult in class org.awaitility.core.ConditionEvaluatorû
+åhttps://github.com/awaitility/awaitility/commit/40f9a31e469e86872ec00b3913b6359ba33463f1?diff=split#diff-d9342482c40a875ae5cfd63f9a7e070eL22åhttps://github.com/awaitility/awaitility/commit/40f9a31e469e86872ec00b3913b6359ba33463f1?diff=split#diff-d9342482c40a875ae5cfd63f9a7e070eR22Change Return Type	*(40f9a31e469e86872ec00b3913b6359ba33463f18@ú
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14≥1
+Û
+ÕMove Method	public awaitDisplaysMethodInvocationNameAndMatcherNameWhenUsingCallToAndConditionTimeoutExceptionOccurs() : void from class org.awaitility.AwaitilityTest to public awaitDisplaysMethodInvocationNameAndMatcherNameWhenUsingCallToAndConditionTimeoutExceptionOccurs() : void from class org.awaitility.proxy.AwaitilityProxyTest†
+çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-f615747c36755994b9847f9b41ff0bbfL342çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-7b55d1c0e3387cd39d1cfad09e7aa4d1R104
+∑
+ìMove Method	public givenInstancePassedToCallToIsAFinalClassThenInterfaceProxyingIsUsed() : void from class org.awaitility.AwaitilityTest to public givenInstancePassedToCallToIsAFinalClassThenInterfaceProxyingIsUsed() : void from class org.awaitility.proxy.AwaitilityProxyTestû
+åhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-f615747c36755994b9847f9b41ff0bbfL63åhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-7b55d1c0e3387cd39d1cfad09e7aa4d1R58
+“
+≠Move Method	public awaitWithTimeout() : void from class org.awaitility.AwaitilityTest to public awaitWithTimeout() : void from class org.awaitility.proxy.AwaitilityProxyTestü
+çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-f615747c36755994b9847f9b41ff0bbfL272åhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-7b55d1c0e3387cd39d1cfad09e7aa4d1R87
+Ω
+òMove Method	public to(object S) : S from class org.awaitility.Awaitility to public to(object S) : S from class org.awaitility.proxy.AwaitilityClassProxyü
+çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5L421åhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-f1b96e3b8abeb21f2ab02730412d853cR23
+ï
+ÔMove Method	public throwsConditionConditionTimeoutExceptionOnTimeout() : void from class org.awaitility.AwaitilityTest to public throwsConditionConditionTimeoutExceptionOnTimeout() : void from class org.awaitility.proxy.AwaitilityProxyTest†
+çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-f615747c36755994b9847f9b41ff0bbfL396çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-7b55d1c0e3387cd39d1cfad09e7aa4d1R130
+ 
+•Move Method	public awaitWithAliasDisplaysAliasWhenConditionTimeoutExceptionAndConditionIsCallTo() : void from class org.awaitility.AwaitilityTest to public awaitWithAliasDisplaysAliasWhenConditionTimeoutExceptionAndConditionIsCallTo() : void from class org.awaitility.proxy.AwaitilityProxyTestü
+çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-f615747c36755994b9847f9b41ff0bbfL301åhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-7b55d1c0e3387cd39d1cfad09e7aa4d1R94
+˚
+’Move Method	public awaitDisplaysLastPollResultOnTimeout() : void from class org.awaitility.AwaitilityTest to public awaitDisplaysLastPollResultOnTimeout() : void from class org.awaitility.proxy.AwaitilityProxyTest†
+çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-f615747c36755994b9847f9b41ff0bbfL366çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-7b55d1c0e3387cd39d1cfad09e7aa4d1R116
+ç
+ÁMove Method	public awaitUsingCallToMultipleThreads_githubIssue28() : void from class org.awaitility.AwaitilityTest to public awaitUsingCallToMultipleThreads_githubIssue28() : void from class org.awaitility.proxy.AwaitilityProxyTest†
+çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-f615747c36755994b9847f9b41ff0bbfL407çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-7b55d1c0e3387cd39d1cfad09e7aa4d1R141
+Ù
+œMove Method	public returnsResultAfterProxyCall() : void from class org.awaitility.AwaitilityReturnValuesTest to public returnsResultAfterProxyCall() : void from class org.awaitility.proxy.AwaitilityProxyTestü
+åhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-4894d102768c13875a0a1cc6c77cfb01L46çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-7b55d1c0e3387cd39d1cfad09e7aa4d1R168
+—
+≠Move Method	public awaitUsingCallTo() : void from class org.awaitility.AwaitilityTest to public awaitUsingCallTo() : void from class org.awaitility.proxy.AwaitilityProxyTestû
+åhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-f615747c36755994b9847f9b41ff0bbfL56åhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-7b55d1c0e3387cd39d1cfad09e7aa4d1R51
+–
+´Move Method	public waitAtMostWorks() : void from class org.awaitility.AwaitilityTest to public waitAtMostWorks() : void from class org.awaitility.proxy.AwaitilityProxyTestü
+çhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-f615747c36755994b9847f9b41ff0bbfL249åhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-7b55d1c0e3387cd39d1cfad09e7aa4d1R71
+À
+ßMove Method	public givenInstancePassedToCallToIsAFinalClassWithNoInterfacesThenExceptionIsThrown() : void from class org.awaitility.AwaitilityTest to public givenInstancePassedToCallToIsAFinalClassWithNoInterfacesThenExceptionIsThrown() : void from class org.awaitility.proxy.AwaitilityProxyTestû
+åhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-f615747c36755994b9847f9b41ff0bbfL71åhttps://github.com/awaitility/awaitility/commit/e2939ae29e8547b1578875b65b2f6e47a3afac1e?diff=split#diff-7b55d1c0e3387cd39d1cfad09e7aa4d1R66Move MethodM
+5
+1Move Source Folder	awaitility to awaitility-proxy Move Source Folderv
+c
+_Extract Class	org.awaitility.proxy.AwaitilityProxyTest from class org.awaitility.AwaitilityTest Extract ClassÛ
+a
+]Move Class	org.awaitility.CounterServiceImpl moved to org.awaitility.proxy.CounterServiceImpl 
+v
+rMove Class	org.awaitility.proxy.ByteBuddyProxyCreator moved to org.awaitility.proxy.internal.ByteBuddyProxyCreator 
+~
+zMove Class	org.awaitility.proxy.ByteBuddyProxyCreatorTest moved to org.awaitility.proxy.internal.ByteBuddyProxyCreatorTest 
+]
+YMove Class	org.awaitility.ErrorMessageTest moved to org.awaitility.proxy.ErrorMessageTest 
+w
+sMove Class	org.awaitility.core.ProxyHamcrestCondition moved to org.awaitility.proxy.internal.ProxyHamcrestCondition 
+r
+nMove Class	org.awaitility.core.ExceptionThrowingAsynch moved to org.awaitility.classes.ExceptionThrowingAsynch 
+M
+IMove Class	org.awaitility.DemoTest moved to org.awaitility.proxy.DemoTest 
+w
+sMove Class	org.awaitility.core.MethodCallRecorderTest moved to org.awaitility.proxy.internal.MethodCallRecorderTest 
+o
+kMove Class	org.awaitility.core.MethodCallRecorder moved to org.awaitility.proxy.internal.MethodCallRecorder 
+Y
+UMove Class	org.awaitility.CounterService moved to org.awaitility.proxy.CounterService 
+^
+ZMove Class	org.awaitility.proxy.TypeUtils moved to org.awaitility.proxy.internal.TypeUtils 
+t
+pMove Class	org.awaitility.core.ConditionFactory.MethodCaller moved to org.awaitility.proxy.internal.MethodCaller 
+—
+ÃMove Class	org.awaitility.AwaitilityTest.AssertExceptionThrownInAnotherThreadButNeverCaughtByAnyThreadTest moved to org.awaitility.classes.AssertExceptionThrownInAnotherThreadButNeverCaughtByAnyThreadTest 
+Move Class"
+*(e2939ae29e8547b1578875b65b2f6e47a3afac1e@ù
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(8f27b4fdecd02eebf59dc5ed9bf4eade06d6139e@û
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(a7a4353acaac837b0fd232032dd02b656ca967ec@ü
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14÷
+¬
+úRename Method	public until(supplier Runnable) : void renamed to public untilAsserted(supplier Runnable) : void in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/b58606bc1d8493eb198e82352b6b6e070f164a99?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L630çhttps://github.com/awaitility/awaitility/commit/b58606bc1d8493eb198e82352b6b6e070f164a99?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R630Rename Method*(b58606bc1d8493eb198e82352b6b6e070f164a99@†
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(a7067ff7f4192d3b6bee9a8b9f4568589e63415c@°
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(736cc583fa9dbc7e4a8996b747c41f87c4ed0104@¢
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14·
+ 
+§Rename Parameter	supplier : Runnable to assertion : Runnable in method public untilAsserted(assertion Runnable) : void in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/ae74a26ca209a8c093da65767322c2e9d2cba7bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L664çhttps://github.com/awaitility/awaitility/commit/ae74a26ca209a8c093da65767322c2e9d2cba7bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R664Rename Parameter*(ae74a26ca209a8c093da65767322c2e9d2cba7bb@£
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14ó
+Ç
+ﬁRename Parameter	ignore : T to __ : T in method public createProxyCondition(__ T, matcher Matcher<? super T>, settings ConditionSettings) : Condition<T> in class org.awaitility.proxy.internal.ByteBuddyProxyConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/7d9cadd2fd2ed7957fe9908f94e1a70f5edb6565?diff=split#diff-82c99bdd7c1f29617b284687f6354c7bL27åhttps://github.com/awaitility/awaitility/commit/7d9cadd2fd2ed7957fe9908f94e1a70f5edb6565?diff=split#diff-82c99bdd7c1f29617b284687f6354c7bR27
+‚
+ºRename Parameter	ignore : T to proxyMethodReturnValue : T in method public untilCall(proxyMethodReturnValue T, matcher Matcher<? super T>) : T in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/7d9cadd2fd2ed7957fe9908f94e1a70f5edb6565?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L565çhttps://github.com/awaitility/awaitility/commit/7d9cadd2fd2ed7957fe9908f94e1a70f5edb6565?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R565
+ñ
+ÚRename Parameter	ignore : T to proxyMethodReturnValue : T in method public createProxyCondition(proxyMethodReturnValue T, matcher Matcher<? super T>, settings ConditionSettings) : Condition<T> in class org.awaitility.spi.ProxyConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/7d9cadd2fd2ed7957fe9908f94e1a70f5edb6565?diff=split#diff-dfb742a5232c785d61125951f0330eccL25åhttps://github.com/awaitility/awaitility/commit/7d9cadd2fd2ed7957fe9908f94e1a70f5edb6565?diff=split#diff-dfb742a5232c785d61125951f0330eccR43Rename Parameter*(7d9cadd2fd2ed7957fe9908f94e1a70f5edb6565@§
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(f848f243ea7fffefb09ea1741e26b343eda017f3@•
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(54a8d02e238f009978b8010c6649e0391ebdd771@¶
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(b6cb17ddb202a83f1b379baa546932ee8dcd1093@ß
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(f26ad9d477f215559c727d6b43f86b9e97db7fe1@®
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14	*(24245bd77aacf7c6751ded1c8b499c869998a364@©
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14	*(add722ce1ff6701aba35eeaecafb71196e9e7b42@™
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(20adf54d714ec2b83b107dd68eeabc028111a9f8@´
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(ac5ca73552d625b2556fddcb0af07f07534fdbfe@¨
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(a8cad7a28cb336e228b996d38748ffa293f2ba9c@≠
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(8447e606cae33b249e0509cf211c135e796abe23@Æ
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(49c0dc263f0c1dd8f0ffd2accec96a047d31e576@Ø
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(73e195aaf2553c5548e74c479b2430154d574ee5@∞
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(5fb77d48c348d2043f78dff8702bd0c2286846e1@±
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(ca0727484f89a0334ff09c5beba47c0d0934a1b8@≤
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(5f1ac282c5636200a028c2b416dd1693db893dfb@≥
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(52f7bd77703c4467828adcb5ebc16f7de9d1e1ba@¥
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(61e687630657152759486dfcf5435859fd95cc75@µ
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(82936d204b9ebf4a79579b636661c17f13e89b77@∂
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(20400717c5b3b08e021d540541686f3e329aadf5@∑
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(59842a4ffb93753b993e3ee83b26745fe8ea9ccb@∏
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(2e22c1b578e96dd68daaf00933ca87dfb5dec8d0@π
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(1955db5466fe3d611a3ffca9d3d215aa3bd4860e@∫
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(7174fa0ddabe8c080b5f8951a1e4373a1b55b004@ª
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(cca217dc12afa80db6d7054753b94a99bb1f80b6@º
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(fd255dea980022dbffc7b84eb6c4308113c1f202@Ω
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(5c02415914c6497cb74dc291186719ad595fda7a@æ
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14î
+ˇ
+˙Extract Method	private calculateConditionEvaluationDuration(pollDelay Duration, pollingStarted long) : Duration extracted from public await(conditionEvaluationHandler ConditionEvaluationHandler<T>) : void in class org.awaitility.core.ConditionAwaiter Extract Method*(8dc941b8b2eb9fb4d18665c865158362515fd9f1@ø
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14Æ
+ó
+ÛChange Parameter Type	function : Function to function : Function<Duration,Duration> in method public IterativePollInterval(function Function<Duration,Duration>, startDuration Duration) in class org.awaitility.pollinterval.IterativePollIntervalû
+åhttps://github.com/awaitility/awaitility/commit/7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf94?diff=split#diff-a66e404ff41c90a22e641e880ee31702L45åhttps://github.com/awaitility/awaitility/commit/7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf94?diff=split#diff-a66e404ff41c90a22e641e880ee31702R52
+•
+ˇChange Parameter Type	function : Function to function : Function<Duration,Duration> in method public iterative(function Function<Duration,Duration>, startDuration Duration) : IterativePollInterval in class org.awaitility.pollinterval.IterativePollInterval†
+çhttps://github.com/awaitility/awaitility/commit/7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf94?diff=split#diff-a66e404ff41c90a22e641e880ee31702L102çhttps://github.com/awaitility/awaitility/commit/7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf94?diff=split#diff-a66e404ff41c90a22e641e880ee31702R110
+ã
+ÁChange Parameter Type	function : Function to function : Function<Duration,Duration> in method public iterative(function Function<Duration,Duration>) : IterativePollInterval in class org.awaitility.pollinterval.IterativePollIntervalû
+åhttps://github.com/awaitility/awaitility/commit/7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf94?diff=split#diff-a66e404ff41c90a22e641e880ee31702L92åhttps://github.com/awaitility/awaitility/commit/7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf94?diff=split#diff-a66e404ff41c90a22e641e880ee31702R99
+¿
+úChange Parameter Type	function : Function to function : Function<Duration,Duration> in method private IterativePollInterval(function Function<Duration,Duration>, startDuration Duration, startDurationExplicitlyDefined boolean) in class org.awaitility.pollinterval.IterativePollIntervalû
+åhttps://github.com/awaitility/awaitility/commit/7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf94?diff=split#diff-a66e404ff41c90a22e641e880ee31702L55åhttps://github.com/awaitility/awaitility/commit/7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf94?diff=split#diff-a66e404ff41c90a22e641e880ee31702R62
+ˇ
+€Change Parameter Type	function : Function to function : Function<Duration,Duration> in method public IterativePollInterval(function Function<Duration,Duration>) in class org.awaitility.pollinterval.IterativePollIntervalû
+åhttps://github.com/awaitility/awaitility/commit/7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf94?diff=split#diff-a66e404ff41c90a22e641e880ee31702L36åhttps://github.com/awaitility/awaitility/commit/7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf94?diff=split#diff-a66e404ff41c90a22e641e880ee31702R42Change Parameter Type£
+á
+ÇMove And Rename Class	org.awaitility.pollinterval.IterativePollInterval.Function moved and renamed to org.awaitility.core.Function Move And Rename ClassŒ
+≤
+éChange Attribute Type	function : Function to function : Function<Duration,Duration> in class org.awaitility.pollinterval.IterativePollIntervalû
+åhttps://github.com/awaitility/awaitility/commit/7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf94?diff=split#diff-a66e404ff41c90a22e641e880ee31702L33åhttps://github.com/awaitility/awaitility/commit/7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf94?diff=split#diff-a66e404ff41c90a22e641e880ee31702R34Change Attribute Type*(7d6eda4d2ff52a21acbc216e1e8cf50ca39fdf948@¿
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(eacd757a0d94d0a4fc9a8d7e73a5e965a450a5c9@¡
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(d0a3c70758023ef3ad2ca19ec3b302c8affb2783@¬
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14	*(bba490fa582b86c14becbdb931c5c932ddc570ed@√
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14	*(f44beec598439d6e2bc21cc2cca094080aec60ed@ƒ
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(c90892962589df81a7c4afd51c586e6d2fbe339d@≈
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(a73c8ff4fa5c238e57dee4a28d22e8ce5915b15c@∆
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(bd809f2714b14d710dcae98077822eea99e3101c@«
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(79883552089b3a603715c310c3e34d434e334d69@»
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(9c65a34d6255aa54fbf81829ef69848e0164d99f@…
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14’
+ü
+˘Rename Method	public ignoreExceptionsInstanceOf(exceptionType Class<? extends Exception>) : ConditionFactory renamed to public ignoreException(exceptionType Class<? extends Throwable>) : ConditionFactory in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L319çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R342
+ü
+˘Rename Method	public ignoreException(exceptionType Class<? extends Exception>) : ConditionFactory renamed to public ignoreExceptionsInstanceOf(exceptionType Class<? extends Throwable>) : ConditionFactory in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L342çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R319Rename MethodÓ4
+õ
+ıChange Parameter Type	predicate : Predicate<Exception> to predicate : Predicate<? super Throwable> in method public ignoreExceptionsMatching(predicate Predicate<? super Throwable>) : ConditionFactory in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L407çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R414
+Â
+¡Change Parameter Type	exception : Exception to exception : Throwable in method public shouldIgnoreException(exception Throwable) : boolean in class org.awaitility.core.PredicateExceptionIgnorerû
+åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-63391adcf30af7558a52318c1b1955e6L30åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-63391adcf30af7558a52318c1b1955e6R30
+ç
+ÁChange Parameter Type	predicate : Predicate<Exception> to predicate : Predicate<? super Throwable> in method public ignoreExceptionsByDefaultMatching(predicate Predicate<? super Throwable>) : void in class org.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5L197çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5R202
+í
+ÏChange Parameter Type	exceptionType : Class<? extends Exception> to exceptionType : Class<? extends Throwable> in method public ignoreExceptionByDefault(exceptionType Class<? extends Throwable>) : void in class org.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5L184çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5R189
+ê
+ÏChange Parameter Type	predicate : Predicate<Exception> to predicate : Predicate<? super Throwable> in method public PredicateExceptionIgnorer(predicate Predicate<? super Throwable>) in class org.awaitility.core.PredicateExceptionIgnorerû
+åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-63391adcf30af7558a52318c1b1955e6L23åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-63391adcf30af7558a52318c1b1955e6R23
+†
+˙Change Parameter Type	exceptionType : Class<? extends Exception> to exceptionType : Class<? extends Throwable> in method public ignoreException(exceptionType Class<? extends Throwable>) : ConditionFactory in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L319çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R351
+â
+„Change Parameter Type	matcher : Matcher<? super Exception> to matcher : Matcher<? super Throwable> in method public ignoreExceptionsByDefaultMatching(matcher Matcher<? super Throwable>) : void in class org.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5L206çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5R211
+ä
+ÊChange Parameter Type	matcher : Matcher<? super Exception> to matcher : Matcher<? super Throwable> in method public HamcrestExceptionIgnorer(matcher Matcher<? super Throwable>) in class org.awaitility.core.HamcrestExceptionIgnorerû
+åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-38e79dd1ac6049d87f0d0b58d5d117feL25åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-38e79dd1ac6049d87f0d0b58d5d117feR25
+ó
+ÒChange Parameter Type	matcher : Matcher<? super Exception> to matcher : Matcher<? super Throwable> in method public ignoreExceptionsMatching(matcher Matcher<? super Throwable>) : ConditionFactory in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L395çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R402
+‰
+¿Change Parameter Type	exception : Exception to exception : Throwable in method public shouldIgnoreException(exception Throwable) : boolean in class org.awaitility.core.HamcrestExceptionIgnorerû
+åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-38e79dd1ac6049d87f0d0b58d5d117feL32åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-38e79dd1ac6049d87f0d0b58d5d117feR32
+‹
+∏Change Parameter Type	exception : Exception to exception : Throwable in method public shouldIgnoreException(exception Throwable) : boolean in class org.awaitility.core.ExceptionIgnorerû
+åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-17b37c655d8c21a8acf5a0d4d5d4b578L20åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-17b37c655d8c21a8acf5a0d4d5d4b578R20
+´
+ÖChange Parameter Type	exceptionType : Class<? extends Exception> to exceptionType : Class<? extends Throwable> in method public ignoreExceptionsInstanceOf(exceptionType Class<? extends Throwable>) : ConditionFactory in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L342çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R329
+ 
+§Change Parameter Type	e : Exception to e : Throwable in method public shouldExceptionBeIgnored(e Throwable) : boolean in class org.awaitility.core.ConditionSettings†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-c4c51501d7474b96a75fbda424307723L138çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-c4c51501d7474b96a75fbda424307723R141Change Parameter Type»
+ÿ
+≤Change Variable Type	e : Exception to e : Throwable in method public exceptionIgnoringWorksForPredicatesStatically() : void in class org.awaitility.AwaitilityIgnoreExceptionsTest†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-bc6eb2bf7f0f15c1ac5906891eb2b36aL106çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-bc6eb2bf7f0f15c1ac5906891eb2b36aR135
+õ
+vChange Variable Type	e : Exception to e : Throwable in method public reset() : void in class org.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5L258çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5R279
+∞
+äChange Variable Type	e : Exception to e : Throwable in method public ignoreExceptionsByDefault() : void in class org.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5L171çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5R178
+æ
+òChange Variable Type	e : Exception to e : Throwable in method public ignoreExceptions() : ConditionFactory in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L364çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R374
+¿
+öChange Variable Type	e : Exception to e : Throwable in method public ignoreNoExceptions() : ConditionFactory in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L380çhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R389Change Variable Typeò
+Ω
+ôChange Attribute Type	predicate : Predicate<Exception> to predicate : Predicate<? super Throwable> in class org.awaitility.core.PredicateExceptionIgnorerû
+åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-63391adcf30af7558a52318c1b1955e6L21åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-63391adcf30af7558a52318c1b1955e6R21
+º
+òChange Attribute Type	matcher : Matcher<? super Exception> to matcher : Matcher<? super Throwable> in class org.awaitility.core.HamcrestExceptionIgnorerû
+åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-38e79dd1ac6049d87f0d0b58d5d117feL23åhttps://github.com/awaitility/awaitility/commit/11d56817d6026b234dae59d7d6a0fc60188fe2bb?diff=split#diff-38e79dd1ac6049d87f0d0b58d5d117feR23Change Attribute Type*(11d56817d6026b234dae59d7d6a0fc60188fe2bb8@ 
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(69b924483de5b28712323a654a54d8017b6b25ec@À
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14Å
+ï
+ÒChange Parameter Type	supplier : Runnable to supplier : ThrowingRunnable in method private getMismatchMessage(supplier ThrowingRunnable, exceptionMessage String, conditionAlias String) : String in class org.awaitility.core.AssertionConditionû
+åhttps://github.com/awaitility/awaitility/commit/d6a41fd05f1ed62dd1d88b92062505650bb83d3b?diff=split#diff-56676978639370a57ce83b1a356c4e18L77åhttps://github.com/awaitility/awaitility/commit/d6a41fd05f1ed62dd1d88b92062505650bb83d3b?diff=split#diff-56676978639370a57ce83b1a356c4e18R79
+˜
+”Change Parameter Type	supplier : Runnable to supplier : ThrowingRunnable in method public AssertionCondition(supplier ThrowingRunnable, settings ConditionSettings) in class org.awaitility.core.AssertionConditionû
+åhttps://github.com/awaitility/awaitility/commit/d6a41fd05f1ed62dd1d88b92062505650bb83d3b?diff=split#diff-56676978639370a57ce83b1a356c4e18L39åhttps://github.com/awaitility/awaitility/commit/d6a41fd05f1ed62dd1d88b92062505650bb83d3b?diff=split#diff-56676978639370a57ce83b1a356c4e18R45
+Ó
+»Change Parameter Type	supplier : Runnable to supplier : ThrowingRunnable in method private generateMethodDescription(supplier ThrowingRunnable) : String in class org.awaitility.core.AssertionCondition†
+çhttps://github.com/awaitility/awaitility/commit/d6a41fd05f1ed62dd1d88b92062505650bb83d3b?diff=split#diff-56676978639370a57ce83b1a356c4e18L100çhttps://github.com/awaitility/awaitility/commit/d6a41fd05f1ed62dd1d88b92062505650bb83d3b?diff=split#diff-56676978639370a57ce83b1a356c4e18R102
+É
+ﬂChange Parameter Type	supplier : Runnable to supplier : ThrowingRunnable in method private generateDescriptionPrefix(supplier ThrowingRunnable, conditionAlias String) : String in class org.awaitility.core.AssertionConditionû
+åhttps://github.com/awaitility/awaitility/commit/d6a41fd05f1ed62dd1d88b92062505650bb83d3b?diff=split#diff-56676978639370a57ce83b1a356c4e18L85åhttps://github.com/awaitility/awaitility/commit/d6a41fd05f1ed62dd1d88b92062505650bb83d3b?diff=split#diff-56676978639370a57ce83b1a356c4e18R87
+‡
+∫Change Parameter Type	assertion : Runnable to assertion : ThrowingRunnable in method public untilAsserted(assertion ThrowingRunnable) : void in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/d6a41fd05f1ed62dd1d88b92062505650bb83d3b?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L622çhttps://github.com/awaitility/awaitility/commit/d6a41fd05f1ed62dd1d88b92062505650bb83d3b?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R664
+˘
+’Change Parameter Type	supplier : Runnable to supplier : ThrowingRunnable in method private getMatchMessage(supplier ThrowingRunnable, conditionAlias String) : String in class org.awaitility.core.AssertionConditionû
+åhttps://github.com/awaitility/awaitility/commit/d6a41fd05f1ed62dd1d88b92062505650bb83d3b?diff=split#diff-56676978639370a57ce83b1a356c4e18L73åhttps://github.com/awaitility/awaitility/commit/d6a41fd05f1ed62dd1d88b92062505650bb83d3b?diff=split#diff-56676978639370a57ce83b1a356c4e18R75Change Parameter Type*(d6a41fd05f1ed62dd1d88b92062505650bb83d3b8@Ã
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14	*(d40e90b735f3ce84c65ded4ec4df8c0889771d02@Õ
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14	*(f3a15fa5cae6b9bddee2f0c33aad62e39742b8d7@Œ
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(447ecf6fa4cb28ab00f326d03e3603c100e93e0a@œ
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(bb923f64d1166076e2f847a9fdd32668a0d402be@–
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(7f6fa522e005382353eb5cd7b72298fd4cbb1716@—
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(59e28a67ccef044307ac5550dc2a662d2c9491fe@“
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(484b068f1797a439ba67277d33ffda9887402b48@”
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14	*(f81bd862691de4203d303345078f59a2afaaae45@‘
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14	*(19a8e7b6bad4e1a4b3764ea996b3efae209beff5@’
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(c48ef6f4929b56e5d5bd0078e75335d2703e2250@÷
+
+	org.slf4j1.7.23	slf4j-api
+
+junit4.12junit
+#
+	org.slf4j1.7.23jcl-over-slf4j
+ 
+	org.slf4j1.7.23slf4j-jdk14*(1cdc074fba2805de348a4ac3e6cb245c9a40ce96@◊
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14"ÊF
+
+	org.slf4j1.7.23	slf4j-api$
+	org.slf4j1.8.0-alpha2	slf4j-apiP
+#
+	org.slf4j1.7.23jcl-over-slf4j)
+	org.slf4j1.8.0-alpha2jcl-over-slf4jJ
+ 
+	org.slf4j1.7.23slf4j-jdk14&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(c47d734130dd8916141dfc497e54ce53e5b848c6@ÿ
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(9f0422b2b8613c8bc3324fe31e6765fc644f9669@Ÿ
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(1ee1e8cbd7e96cb3c0d662e0ca393b6d5236ed07@⁄
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(b2da92e3ffc284273e9e64241c12c9cf7dc492c2@€
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(9a94b4c54f511e05bc40ff1acf246ee60a6f63f5@‹
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(8366a74e57caaac44483239dc21aebfd1510e333@›
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(658cf80b9fbedddb4d77fb8ce60dd7ad0518acf4@ﬁ
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(010782959f9cd67b5e322ec354b13613e0c45567@ﬂ
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(1948ac21a75dabe388e5ec4d30b675c45b5a767f@‡
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(91fd8afcbf1566031317d059f052bc3eb2e59f91@·
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(7d8a0d5165473c0bab8d0fb88884933332670893@‚
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14É
+Ì
+…Rename Variable	pollingStarted : long to pollingStartedNanos : long in method public await(conditionEvaluationHandler ConditionEvaluationHandler<T>) : void in class org.awaitility.core.ConditionAwaiterû
+åhttps://github.com/awaitility/awaitility/commit/6864405dc010e3ba1500b8e1a4f2b1b0d5dee25e?diff=split#diff-93eb26f2cf1f087de6acc32ccd57d601L74åhttps://github.com/awaitility/awaitility/commit/6864405dc010e3ba1500b8e1a4f2b1b0d5dee25e?diff=split#diff-93eb26f2cf1f087de6acc32ccd57d601R75Rename Variable*(6864405dc010e3ba1500b8e1a4f2b1b0d5dee25e@„
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(1d6a5caf5256d7efeb6345ad966d489e192e77e0@‰
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(2e56dc55769983d9a9a1a96ba707d84880aeb2d4@Â
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14Â
+—
+´Rename Method	public getPollExecutorService() : ExecutorService renamed to public getExecutorLifecycle() : ExecutorLifecycle in class org.awaitility.core.ConditionSettings†
+çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-c4c51501d7474b96a75fbda424307723L145çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-c4c51501d7474b96a75fbda424307723R142Rename Method”
+€
+∂Change Parameter Type	pollExecutorService : ExecutorService to executorLifecycle : ExecutorLifecycle in method public ConditionFactory(alias String, timeoutConstraint WaitConstraint, pollInterval PollInterval, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener, executorLifecycle ExecutorLifecycle) in class org.awaitility.core.ConditionFactoryü
+åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L86çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R100
+Ÿ
+µChange Parameter Type	pollExecutorService : ExecutorService to executorLifecycle : ExecutorLifecycle in method package ConditionSettings(alias String, catchUncaughtExceptions boolean, waitConstraint WaitConstraint, pollInterval PollInterval, pollDelay Duration, conditionEvaluationListener ConditionEvaluationListener, ignoreExceptions ExceptionIgnorer, executorLifecycle ExecutorLifecycle) in class org.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-c4c51501d7474b96a75fbda424307723L34åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-c4c51501d7474b96a75fbda424307723R46Change Parameter TypeÜ
+
+ Rename Variable	executorService : ExecutorService to executorLifecycle : ExecutorLifecycle in method private generateConditionSettings() : ConditionSettings in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L822çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R834Rename Variable·
+»
+¢Change Return Type	ExecutorService to ExecutorLifecycle in method public getExecutorLifecycle() : ExecutorLifecycle in class org.awaitility.core.ConditionSettings†
+çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-c4c51501d7474b96a75fbda424307723L145çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-c4c51501d7474b96a75fbda424307723R142Change Return Type∂
+
+≤
+éRename Attribute	pollExecutorService : ExecutorService to executorLifecycle : ExecutorLifecycle in class org.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-c4c51501d7474b96a75fbda424307723L32åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-c4c51501d7474b96a75fbda424307723R30
+±
+çRename Attribute	pollExecutorService : ExecutorService to executorLifecycle : ExecutorLifecycle in class org.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L84åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R84
+∂
+êRename Attribute	defaultPollExecutorService : ExecutorService to defaultExecutorLifecycle : ExecutorLifecycle in class org.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5L151çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5R151Rename Attributeê
+ı
+œChange Variable Type	executorService : ExecutorService to executorLifecycle : ExecutorLifecycle in method private generateConditionSettings() : ConditionSettings in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L805çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R834Change Variable Type 
+
+ª
+ïChange Attribute Type	defaultPollExecutorService : ExecutorService to defaultExecutorLifecycle : ExecutorLifecycle in class org.awaitility.Awaitility†
+çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5L151çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-26ab1a6cbb5ddd68d3a2eb8e134c6cd5R151
+∂
+íChange Attribute Type	pollExecutorService : ExecutorService to executorLifecycle : ExecutorLifecycle in class org.awaitility.core.ConditionFactoryû
+åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L84åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R84
+∑
+ìChange Attribute Type	pollExecutorService : ExecutorService to executorLifecycle : ExecutorLifecycle in class org.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-c4c51501d7474b96a75fbda424307723L32åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-c4c51501d7474b96a75fbda424307723R30Change Attribute Type≈
+◊
+±Rename Parameter	pollExecutorService : ExecutorService to executorLifecycle : ExecutorLifecycle in method public ConditionFactory(alias String, timeoutConstraint WaitConstraint, pollInterval PollInterval, pollDelay Duration, catchUncaughtExceptions boolean, exceptionsIgnorer ExceptionIgnorer, conditionEvaluationListener ConditionEvaluationListener, executorLifecycle ExecutorLifecycle) in class org.awaitility.core.ConditionFactory†
+çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4L100çhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-593ea2dec6b39992658aadeea3f7d9b4R100
+‘
+∞Rename Parameter	pollExecutorService : ExecutorService to executorLifecycle : ExecutorLifecycle in method package ConditionSettings(alias String, catchUncaughtExceptions boolean, waitConstraint WaitConstraint, pollInterval PollInterval, pollDelay Duration, conditionEvaluationListener ConditionEvaluationListener, ignoreExceptions ExceptionIgnorer, executorLifecycle ExecutorLifecycle) in class org.awaitility.core.ConditionSettingsû
+åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-c4c51501d7474b96a75fbda424307723L49åhttps://github.com/awaitility/awaitility/commit/1dcbfb3f916d76545cf25ee346a2e8d0c6042861?diff=split#diff-c4c51501d7474b96a75fbda424307723R46Rename Parameter*(1dcbfb3f916d76545cf25ee346a2e8d0c60428618@Ê
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(5033a26770d4ee2ae9375f52ec72f385220a927a@Á
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(d9d8acaa9f6be4377f36a6cd9c54867629a8387f@Ë
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(9388012e2b7667469b84cd3de5ec7a7b419d5439@È
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(cbecd128b61af70a657b664dfaa251e9677adddf@Í
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(7c0b03e1be3d70e957781d02fdaf42582e9bbc75@Î
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(021c24f9f07a995b3dfc13739c97809339bf1461@Ï
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(e287f2bfcd1303fd52683c86e55fe94efc595112@Ì
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(865b8bca669360883d745d600b1c33e18308ae49@Ó
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(ed5e2b87a34514db534d324d5b0818b2a2c74991@Ô
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(52e495577c4ce433375aab4763feeea7fb7bccd8@
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14Û
+‹
+◊Extract Variable	currentConditionEvaluation : Future<ConditionEvaluationResult> in method public await(conditionEvaluationHandler ConditionEvaluationHandler<T>) : void from class org.awaitility.core.ConditionAwaiter Extract VariableÃ
+∂
+±Inline Variable	maxTimeoutUnit : TimeUnit in method public await(conditionEvaluationHandler ConditionEvaluationHandler<T>) : void from class org.awaitility.core.ConditionAwaiter Inline Variable*(a474004ac7751efa6231a55fd10b729fc0f719ff@Ò
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(80d28eb8a85804df4c204311180fd867fa170d44@Ú
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14"$
+"
+org.assertj3.8.0assertj-core*(3465d3fc09f8b4e6d71100ce70210c854685bdad@Û
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(03260f930a536fea3a5405fe229479f070f0ca00@Ù
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(638ec1a668d42b37c75ff99d9a016da9ec29d1ee@ı
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(c5a2e1769df1be587ebbebb343de8b71bc1bf968@ˆ
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(cb3a19f9bd3cfa6f2a465626c5d22b339a3442bf@˜
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(07e6f6666d83634b6366acbf49c7b5156f544bd0@¯
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(80f6c75f54690e37db929e56df8256bb4c04b59a@˘
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(f460786306f8b6cf2cfd9f63b728823fbf11f8a4@˙
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(061cca73aee9198db9914ca2f8efe1de555e85d0@˚
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(edddb3d9d0fc2b07c1e2d54b5f56388c66d66375@¸
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(e9ce88223b6ba11973a5b9dc443ebc914514f1c8@˝
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(849fa7780e014a6cba6cfcc206950829d4c49efa@˛
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(1ef8054e99820f83d38e495fefd446a511cd7dc0@ˇ
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(5ff792f965d05df5ff42592c42dc0f583586043c@Ä
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(dfad73cf23a70d88c927f4f2759ae750e4947efd@Å
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(99016105450e22bbc5b721a7c15152ae28834ab7@Ç
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(45d9ace8bf9e2d4c3250b962683a52a2897f9280@É
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(ae50376cafc351884bf946b95acba4113bd5446d@Ñ
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(3c0c70a651aa001ef360a1a910f069e0bf57553a@Ö
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(d6ef007dad89b2e370688b41ec8b8ec4572a8de9@Ü
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14Ã
+µ
+∞Extract Variable	timeoutMessage : String in method public await(conditionEvaluationHandler ConditionEvaluationHandler<T>) : void from class org.awaitility.core.ConditionAwaiter Extract Variable*(ca653214dbc1a347c848f90473a08deef7e7a639@á
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(39b4c198bf064b17f89d65e7104a60749e2fd729@à
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(8db3f46414c452619037a5961a8a0e0a9b65841c@â
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(487784776a1b7c4668b7bd2f502d5e716da48b9a@ä
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(7ae4ffcf66ee6db46518fa9240fd0804d0e7e61b@ã
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(518383ab2296df0fa9d396bbd16d170300751b71@å
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(34bb740d6171da7ffe565fef9cac992b2cbaa995@ç
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(3a887602863af5c5b47bd100c4bbf8ec3c79d0be@é
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(d4e02662bdc2ff8746ec4afba02343e19b73012e@è
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(b08a1e63bfd4de87eeaa406af9509242e08208df@ê
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(c13a9d74e848dd6ec98d628d2c9efd9ff7aa876f@ë
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(21aa78fc529c0e8768aeeba2a32effbaec89cb32@í
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(4c88f2325bef77ab15610095729a6f25307db597@ì
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(269ea7c63792b6194d287bf30bb42c6b03661a07@î
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(86d4f886ee81ea7bd6e08e1af294f96ca7f24c29@ï
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(4c050e100e8bc6cda38d93bc0425c7f27bb60de1@ñ
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(13dc10bd7a0f3466d1aadc56279339c1f9d9ea2d@ó
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(25f08ef2d2167b24690a7e6abdf166d578902b46@ò
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(6388c028ce4f34b5037db1763a2090339cf59ed4@ô
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(f9e9f92fd840ca046210732cf95f723bda50d7f6@ö
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(a46e8da087b9d0ea7911550ec1d4c0b040dadd92@õ
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(548bcc27326a2a91ffb30c2b192b2e285009f982@ú
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(ebf13a9a8a6be339eec93648a9799e1a118614c8@ù
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(2c8b44c35166cde40db697349f98bbd01b15299e@û
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(a39b6f056fd84312ebf87c9943774416bc5148c0@ü
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(d140f23323a5f5a15e843d3665bcbcd2ed85e97e@†
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(cbde6b4abf68d700e03bc455180e449d9e6eeaa5@°
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14	*(7aad45756d45b0539474c401e8aaa46e1afabe2b@¢
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(303301d7df14a985df992b54a178629c12b15cae@£
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(89e758b749db2f378d661e2deec7ed61e7de51e1@§
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(a626e871f066a7b65f32548853148c6fd13c44ea@•
+$
+	org.slf4j1.8.0-alpha2	slf4j-api
+
+junit4.12junit
+"
+org.assertj3.8.0assertj-core
+)
+	org.slf4j1.8.0-alpha2jcl-over-slf4j
+&
+	org.slf4j1.8.0-alpha2slf4j-jdk14*(8a33d4805d115c489fb914f9372e3ff36a0cbf7b@¶

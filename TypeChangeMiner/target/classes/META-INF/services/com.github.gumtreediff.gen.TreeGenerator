@@ -1,0 +1,6 @@
+com.github.gumtreediff.gen.ExternalProcessTreeGenerator
+com.github.gumtreediff.gen.javaparser.JavaParserGenerator
+com.github.gumtreediff.gen.jdt.AbstractJdtTreeGenerator
+com.github.gumtreediff.gen.jdt.JdtTreeGenerator
+com.github.gumtreediff.gen.jdt.cd.CdJdtTreeGenerator
+com.github.gumtreediff.io.TreeIoUtils$XmlInternalGenerator

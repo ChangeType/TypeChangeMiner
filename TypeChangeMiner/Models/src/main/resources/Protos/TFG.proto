@@ -1,0 +1,17 @@
+syntax = "proto3";
+import "Identification.proto";
+
+option java_package = "com.t2r.common.models.ast";
+
+message TFG {
+
+    repeated Identification nodes = 1;
+
+    repeated Edge edges = 2;
+
+    message Edge {
+        int32 fst = 1;
+        int32 snd = 2;
+        string edgeValue = 3;
+    }
+}

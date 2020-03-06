@@ -1,0 +1,56 @@
+syntax = "proto3";
+
+package Models;
+
+option java_package = "com.t2r.common.models.refactorings";
+
+
+message CommitInfo{
+
+   int64 counter = 8;
+   string sha = 5;
+   FileDiff fileDiff = 3;
+   repeated Refactoring refactorings = 2;
+   repeated JarInfo dependencies = 1;
+   string exception = 6;
+   bool isTypeChangeReported = 7;
+   DependencyUpdate dependencyUpdate = 4;
+
+   message FileDiff{
+       int64 filesModified = 1;
+       int64 filesAdded = 2;
+       int64 filesRemoved = 3;
+       int64 filesRenamed = 4;
+   }
+
+   message JarInfo{
+      string artifactID = 1;
+      string groupID = 3;
+      string version = 2;
+   }
+
+   message DependencyPair {
+       JarInfo before = 1;
+       JarInfo after = 2;
+
+   }
+
+   message DependencyUpdate{
+        repeated DependencyPair update = 3;
+        repeated JarInfo added = 1;
+        repeated JarInfo removed = 2;
+   }
+
+   message Refactoring{
+       string name = 3;
+       int64 occurences = 2;
+       map<string, RefactoringUrl> descriptionAndurl = 1;
+   }
+
+   message RefactoringUrl{
+       string lhs = 1;
+       string rhs = 2;
+   }
+
+
+}

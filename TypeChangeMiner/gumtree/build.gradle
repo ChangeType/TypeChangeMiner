@@ -1,0 +1,213 @@
+
+plugins {
+    id 'jacoco'
+    id 'com.github.kt3k.coveralls' version '2.6.3'
+}
+
+allprojects {
+    apply plugin: 'idea'
+
+    group = 'com.github.gumt' +
+            'reediff'
+    version = '2.1.3-SNAPSHOT'
+
+    repositories {
+        mavenCentral()
+        jcenter()
+    }
+}
+
+ext.isRelease = !project.version.endsWith("SNAPSHOT")
+
+subprojects {
+    apply plugin: 'java'
+    sourceCompatibility = '1.8'
+    targetCompatibility = '1.8'
+
+    apply plugin: 'checkstyle'
+    checkstyle {
+        toolVersion = '8.18'
+        configFile = rootProject.file('gumtree_checkstyle.xml')
+        configProperties = [suppressionFile: "${rootProject.file('checkstyle_ignore.xml')}"]
+        ignoreFailures = false
+        showViolations = true
+    }
+
+    dependencies {
+        annotationProcessor 'org.atteo.classindex:classindex:3.8'
+        implementation 'org.atteo.classindex:classindex:3.8'
+        testImplementation 'org.junit.jupiter:junit-jupiter:5.4.2'
+        testImplementation 'org.hamcrest:hamcrest-library:2.1'
+
+    }
+
+    test {
+        useJUnitPlatform()
+
+        testLogging {
+            exceptionFormat = 'full'
+            events "passed", "skipped", "failed"
+        }
+    }
+}
+
+configure(subprojects.findAll { it.name != 'core' }) {
+    dependencies {
+        implementation project(':core')
+    }
+}
+
+configure(subprojects.findAll { it.name.startsWith('gen.antlr3') }) {
+    apply plugin: 'antlr'
+
+    dependencies {
+        antlr 'org.antlr:antlr:3.5.2'
+    }
+
+    if (it.name.startsWith('gen.antlr3-')) {
+        dependencies {
+            implementation project(':gen.antlr3')
+        }
+    }
+}
+
+configure(subprojects.findAll { it.name.startsWith('gen.antlr4') }) {
+    apply plugin: 'antlr'
+
+    dependencies {
+        antlr 'org.antlr:antlr4:4.5'
+    }
+
+    if (it.name.startsWith('gen.antlr4-')) {
+        dependencies {
+            implementation project(':gen.antlr4')
+        }
+    }
+}
+
+def jacocoProjectsNames = ['core', 'gen.jdt', 'gen.c', 'gen.ruby', 'gen.js', 'gen.srcml', 'gen.css']
+def jacocoProjects = subprojects.findAll { it.name in jacocoProjectsNames }
+configure(jacocoProjects) {
+    apply plugin: 'jacoco'
+    jacoco {
+        toolVersion = '0.8.5'
+    }
+
+    jacocoTestReport {
+        reports {
+            html.enabled = true
+            xml.enabled = true
+            csv.enabled = false
+        }
+    }
+}
+
+task jacocoRootReport(type: JacocoReport, group: 'Coverage reports') {
+    description = 'Generates an aggregate report from all subprojects'
+    dependsOn(jacocoProjects.test)
+
+    getAdditionalSourceDirs().from = files(jacocoProjects.sourceSets.main.allSource.srcDirs)
+    getSourceDirectories().from = files(jacocoProjects.sourceSets.main.allSource.srcDirs)
+    getClassDirectories().from = files(jacocoProjects.sourceSets.main.output)
+    getExecutionData().from = files(jacocoProjects.jacocoTestReport.executionData)
+
+    reports {
+        html.enabled = true
+        xml.enabled = true
+    }
+}
+
+coveralls {
+    sourceDirs = jacocoProjects.sourceSets.main.allSource.srcDirs.flatten()
+    jacocoReportPath = "${buildDir}/reports/jacoco/jacocoRootReport/jacocoRootReport.xml"
+}
+
+tasks.coveralls {
+    group = 'Coverage reports'
+    description = 'Uploads the aggregated coverage report to Coveralls'
+
+    dependsOn jacocoRootReport
+    onlyIf { System.env.'CI' && !JavaVersion.current().isJava9Compatible() }
+}
+
+evaluationDependsOnChildren()
+
+configure(subprojects) {
+    if (project.hasProperty('skipNative') && it.hasProperty('isNative') && it.isNative == true)
+        it.test.enabled = false
+}
+
+if (project.hasProperty('mvn')) {
+    configure(subprojects.findAll { !(it.name in ['dist', 'benchmark']) }) { subproject ->
+        apply plugin: 'maven'
+        apply plugin: 'signing'
+
+        task javadocJar(type: Jar) {
+            classifier = 'javadoc'
+            from javadoc
+        }
+
+        task sourcesJar(type: Jar) {
+            classifier = 'sources'
+            from sourceSets.main.allSource
+        }
+
+        artifacts {
+            archives javadocJar, sourcesJar
+        }
+
+        signing {
+            sign configurations.archives
+        }
+
+        uploadArchives {
+            repositories {
+                mavenDeployer {
+                    beforeDeployment { MavenDeployment deployment -> signing.signPom(deployment) }
+
+                    repository(url: "https://oss.sonatype.org/service/local/staging/deploy/maven2/") {
+                        authentication(userName: ossrhUsername, password: ossrhPassword)
+                    }
+
+                    snapshotRepository(url: "https://oss.sonatype.org/content/repositories/snapshots/") {
+                        authentication(userName: ossrhUsername, password: ossrhPassword)
+                    }
+
+                    pom.project {
+                        name "GumTree ${subproject.name}"
+                        description subproject.description
+                        url 'https://github.com/GumTreeDiff/gumtree/'
+                        packaging 'jar'
+
+                        scm {
+                            connection 'scm:git:https://github.com/GumTreeDiff/gumtree/'
+                            developerConnection 'scm:git:https://github.com/GumTreeDiff/gumtree/'
+                            url 'https://github.com/GumTreeDiff/gumtree/'
+                        }
+
+                        licenses {
+                            license {
+                                name 'GNU Lesser General Public License v3.0'
+                                url 'https://www.gnu.org/copyleft/lesser.html'
+                            }
+                        }
+
+                        developers {
+                            developer {
+                                id 'jre'
+                                name 'Jean-Rémy Falleri'
+                                email 'jr.falleri@gmail.com'
+                            }
+
+                            developer {
+                                id 'flop'
+                                name 'Floréal Morandat'
+                                email 'florealm@gmail.com'
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

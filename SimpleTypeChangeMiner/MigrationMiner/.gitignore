@@ -1,0 +1,8 @@
+
+.idea/
+librariesClasses/
+*.iml
+
+*.class
+
+MigrationMiner/target/

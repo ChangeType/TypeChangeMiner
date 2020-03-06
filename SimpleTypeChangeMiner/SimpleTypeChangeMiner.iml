@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Python" name="Python">
+      <configuration sdkName="Python 3.8 (SimpleTypeChangeMiner)" />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_10">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/lib/RMiner/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/MigrationMiner/MigrationMiner/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Models/Models" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Models/src/main/java" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/Output" />
+      <excludeFolder url="file://$MODULE_DIR$/docs" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="commons-io-1.3.2" level="project" />
+    <orderEntry type="library" name="Bundled Protobuf Distribution" level="application" />
+    <orderEntry type="library" name="Python 3.8 (SimpleTypeChangeMiner) interpreter library" level="application" />
+    <orderEntry type="library" name="Maven: io.vavr:vavr:0.10.0" level="project" />
+    <orderEntry type="library" name="Maven: io.vavr:vavr-match:0.10.0" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jgit:org.eclipse.jgit:5.2.1.201812262042-r" level="project" />
+    <orderEntry type="library" name="Maven: com.jcraft:jsch:0.1.54" level="project" />
+    <orderEntry type="library" name="Maven: com.jcraft:jzlib:1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.googlecode.javaewah:JavaEWAH:1.1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.2" level="project" />
+    <orderEntry type="library" name="Maven: com.google.protobuf:protobuf-java:3.11.0" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.jdt:org.eclipse.jdt.core:3.16.0" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.resources:3.13.600" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.expressions:3.6.600" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.runtime:3.17.0" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.osgi:3.15.100" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.equinox.common:3.10.600" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.jobs:3.10.600" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.equinox.registry:3.8.600" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.equinox.preferences:3.7.600" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.contenttype:3.7.500" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.equinox.app:1.4.300" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.filesystem:1.7.600" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.text:3.10.0" level="project" />
+    <orderEntry type="library" name="Maven: org.eclipse.platform:org.eclipse.core.commands:3.9.600" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-text:1.6" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.commons:commons-lang3:3.8.1" level="project" />
+    <orderEntry type="library" name="Maven: commons-io:commons-io:2.6" level="project" />
+    <orderEntry type="library" name="Maven: org.kohsuke:github-api:1.95" level="project" />
+    <orderEntry type="library" name="Maven: commons-codec:commons-codec:1.7" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.9.2" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.9.0" level="project" />
+    <orderEntry type="library" name="Maven: com.fasterxml.jackson.core:jackson-core:2.9.2" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven.shared:maven-invoker:3.0.1" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.maven.shared:maven-shared-utils:3.2.1" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.plexus:plexus-component-annotations:1.7.1" level="project" />
+    <orderEntry type="module-library">
+      <library name="Maven: org.refactoringMiner:RefactoringMiner:1.0">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/RMiner/bin/RefactoringMiner-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Maven: TypeChange:Models:1.0-SNAPSHOT">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/Models-1.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="Maven: MigrationMiner:MigrationMiner:1.0-SNAPSHOT">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/MigrationMiner-1.0-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="Maven: org.apache.tinkerpop:tinkergraph-gremlin:3.4.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tinkerpop:gremlin-driver:3.4.4" level="project" />
+    <orderEntry type="library" name="Maven: io.netty:netty-all:4.1.36.Final" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.groovy:groovy:indy:2.5.7" level="project" />
+    <orderEntry type="library" name="Maven: org.codehaus.groovy:groovy-json:indy:2.5.7" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tinkerpop:gremlin-core:3.4.4" level="project" />
+    <orderEntry type="library" name="Maven: org.apache.tinkerpop:gremlin-shaded:3.4.4" level="project" />
+    <orderEntry type="library" name="Maven: commons-configuration:commons-configuration:1.10" level="project" />
+    <orderEntry type="library" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" name="Maven: commons-collections:commons-collections:3.2.2" level="project" />
+    <orderEntry type="library" name="Maven: org.yaml:snakeyaml:1.15" level="project" />
+    <orderEntry type="library" name="Maven: org.javatuples:javatuples:1.2" level="project" />
+    <orderEntry type="library" name="Maven: com.carrotsearch:hppc:0.7.1" level="project" />
+    <orderEntry type="library" name="Maven: com.jcabi:jcabi-manifests:1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.jcabi:jcabi-log:0.14" level="project" />
+    <orderEntry type="library" name="Maven: com.squareup:javapoet:1.8.0" level="project" />
+    <orderEntry type="library" name="Maven: net.objecthunter:exp4j:0.4.8" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:jcl-over-slf4j:1.7.25" level="project" />
+  </component>
+</module>

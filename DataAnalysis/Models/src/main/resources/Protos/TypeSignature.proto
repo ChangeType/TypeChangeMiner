@@ -1,0 +1,28 @@
+syntax = "proto3";
+
+option java_package = "com.t2r.common.models.ast";
+
+message TypeSignature {
+    oneof Sign{
+        MethodSign mthdSign = 1;
+        TypeInfo typeSign = 2;
+    }
+}
+
+message TypeInfo {
+    oneof Ty {
+        bool AnyType = 3;
+        FilteredType of = 1;
+        //SubType subTy = 2;
+    }
+}
+message MethodSign {
+    repeated TypeInfo param = 1;
+    TypeInfo returnType = 2;
+
+}
+
+message FilteredType {
+    string interfaceName = 1;
+    repeated TypeInfo typeParameter = 2;
+}
